@@ -1,14 +1,14 @@
 .banner-principal-decorativo
-  &-1
+  &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
-  &-2
+    top: 35%
+    right: 8%
+  &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 61%
+    right: 80%
 
 
 @keyframes float1
@@ -22,6 +22,15 @@
     background-image: url("../assets/curso/portada/fondo-banner-principal.png")
     background-size: cover
     background-position: center
+    @media (max-width: $bp-max-md)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png")
+    @media (max-width: $bp-max-xs)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png")
+.barra-avance__boton--regresar 
+  span
+    color: #000000 !important
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/imgbaner.png") !important
   
 .txt--green
   color: #39A900 !important

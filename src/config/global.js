@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'Nombre_del_recurso_educativo',
-    descripcionCurso: 'Descripción_del_RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    componenteFormativo:
+      'Resolución 20223040006915 de 2022. Manual de transporte',
+    descripcionCurso:
+      'Este componente formativo aborda la Resolución 20223040006915 de 2022 y busca que el aprendiz comprenda los lineamientos técnicos para el transporte terrestre de animales destinados al consumo humano en Colombia. Mediante el análisis de la normativa, se fortalecen competencias para asegurar bienestar animal, condiciones sanitarias, higiene y seguridad durante la movilización, promoviendo prácticas responsables en el sector.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -30,13 +32,44 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Vehículo de transporte terrestre para animal en pie',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Tipos de diseño de carrocería',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Tipos de corrales, equipo de monitoreo, especificaciones técnicas (sistemas de vigilancia y microclima de carrocerías) y uso',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Ficha técnica de homologación del transporte terrestre',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Registro RUNT',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Tipos de documentos legales',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Condiciones sanitarias de estructura de carrocería',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Magnitud de carga',
+            hash: 't_1_7',
           },
         ],
       },
@@ -44,14 +77,87 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Marco normativo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Técnicas de cálculo de magnitud de carga',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Bienestar y protección animal en transporte terrestre',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Técnicas de conducción',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo:
+              'Tipos y técnicas de inspección de vehículos destinados al transporte de animales en pie',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Protocolos de bioseguridad',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Técnicas de limpieza y aseo, tipos de producto',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo: 'Entidades de prevención, vigilancia y control',
+            hash: 't_2_7',
+          },
+          {
+            numero: '2.8',
+            titulo:
+              'Curso de bienestar animal en transporte terrestre (Cumplimiento)',
+            hash: 't_2_8',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo:
+          'Interacción humano – animal, comportamiento, sentidos animal y etología',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Seguridad sanitaria animal',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Sanidad y salud animal (rangos de temperatura)',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Técnicas y métodos de cuidado y manejo animal',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo:
+              'Técnicas de identificación de animales aptos y no aptos para transporte',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Instalaciones pecuarias',
+            hash: 't_3_5',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -130,11 +236,6 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
-          centro: 'Dirección General',
-        },
-        {
           nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
@@ -145,9 +246,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_Experto',
-          cargo: 'Cargo_Experto',
-          centro: 'Regional_Experto',
+          nombre: 'Oscar Eduardo Villarraga Córdoba',
+          cargo: 'Experto temático',
+          centro: 'Regional Huila - Centro de Formación Agroindustrial',
+        },
+        {
+          nombre: 'Lola Fernanda Herrera H.',
+          cargo: 'Apoyo gestión curricular',
+          centro: 'Regional Huila - Centro de Formación Agroindustrial',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluador instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -155,17 +266,42 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Juan Daniel Polanco Muñoz',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'José Jaime Luis Tang Pinzón',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Francisco José Vásquez Suárez ',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Veimar Celis Meléndez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -175,12 +311,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_Experto',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
