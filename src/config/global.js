@@ -207,28 +207,104 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1. Vehículo de transporte terrestre para animal en pie',
+      referencia: 'Instituto Colombiano Agropecuario - ICA. (2025). SIGMA',
+      tipo: 'Página',
+      link: 'https://www.ica.gov.co/servicios_linea/sigma.aspx',
     },
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      descarga: '/downloads/prueba.pdf',
+      tema: '1. Vehículo de transporte terrestre para animal en pie',
+      referencia:
+        'Instituto Colombiano Agropecuario - ICA. (2024, 30 de abril). ICA | SINIGAN | Cómo se expide una GSMI y un bono de venta a través del usuario del ganadero [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=6l8ejCFk-t0',
+    },
+    {
+      tema: '2. Marco normativo',
+      referencia:
+        'Ministerio de Transporte - ICA (2022, 11 de febrero). Resolución 20223040006915 de 2022. Por la cual se adopta el Manual de Procedimientos para el Transporte, manejo y movilización de Animales en Pie y se dictan otras disposiciones.',
+      tipo: 'Documento oficial',
+      link:
+        'https://www.ica.gov.co/getattachment/ab7e54ab-28a0-4c58-9a86-8ecc49fea4a9/2022R3040006915.aspx',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Bienestar animal',
+      significado:
+        'condición física y mental de un animal en relación con su entorno, garantizando que esté sano, cómodo, bien alimentado y libre de sufrimiento.',
+    },
+    {
+      termino: 'Densidad de carga',
+      significado:
+        'relación entre el número de animales, su peso y el espacio disponible en el piso del vehículo, crucial para evitar el hacinamiento y las lesiones.',
+    },
+    {
+      termino: 'Embarque',
+      significado:
+        'procedimiento de subir los animales al vehículo de transporte. Debe realizarse de manera tranquila, sin maltrato y utilizando instalaciones adecuadas como las rampas.',
+    },
+    {
+      termino: 'Guía Sanitaria de Movilización Interna (GSMI)',
+      significado:
+        'documento oficial expedido por el ICA que autoriza el transporte de animales en el territorio nacional, certificando su origen y destino, y avalando su condición sanitaria.',
+    },
+    {
+      termino: 'Jornada de viaje',
+      significado:
+        'período máximo de tiempo durante el cual los animales pueden ser transportados de manera continua antes de que sea obligatorio un período de descanso, alimentación e hidratación.',
+    },
+    {
+      termino: 'Transportador',
+      significado:
+        'persona natural o jurídica, propietaria o tenedora de un vehículo de transporte de animales, responsable de garantizar el cumplimiento de las condiciones de bienestar y sanidad durante la movilización.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Congreso de Colombia. (1989, 27 de diciembre). Por la cual se adopta el Estatuto Nacional de Protección de los Animales y se crean unas contravenciones y se regula lo referente a su procedimiento y competencia.',
+      link: 'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=8242',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2016, 6 de enero). Ley 1774 de 2016. Por medio de la cual se modifican el Código Civil, la Ley 84 de 1989, el Código Penal, el Código de Procedimiento Penal y se dictan otras disposiciones.',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1774_2016.html',
+    },
+    {
+      referencia:
+        'Contexto Ganadero. (2017). 7 aspectos importantes del Bienestar Animal.',
+      link:
+        'https://www.contextoganadero.com/ganaderia-sostenible/7-aspectos-importantes-del-bienestar-animal',
+    },
+    {
+      referencia:
+        'Contexto Ganadero. (2018). ¿Por qué es importante conocer el punto de balance en bovinos?',
+      link:
+        'https://www.contextoganadero.com/ganaderia-sostenible/por-que-es-importante-conocer-el-punto-de-balance-en-bovinos',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (s.f.). Bienestar animal.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Transporte - ICA (2022, 11 de febrero). Resolución 20223040006915 de 2022. Por la cual se adopta el Manual de Procedimientos para el Transporte, manejo y movilización de Animales en Pie y se dictan otras disposiciones.',
+      link:
+        'https://www.ica.gov.co/getattachment/ab7e54ab-28a0-4c58-9a86-8ecc49fea4a9/2022R3040006915.aspx',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal (OMSA). (2021). Código y Manuales.',
+      link: 'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/',
+    },
+    {
+      referencia:
+        'Ramírez Agudelo, J. F., Guarín Montoya, J. F. & Bedoya Mazo, S. (2022). Detección automática de posición corporal en animales de granja. SciELO Preprints.',
+      link:
+        'https://preprints.scielo.org/index.php/scielo/preprint/download/3705/6856',
     },
   ],
   creditos: [
