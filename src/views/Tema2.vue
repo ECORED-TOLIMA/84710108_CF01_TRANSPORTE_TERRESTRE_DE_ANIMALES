@@ -399,7 +399,336 @@
                   img.img-fluid(src="@/assets/curso/temas/tema2/img11.png" alt="Imagen decorativo")
           p.mb-0 #[b Entonces:] la magnitud de carga correcta y obligatoria es de 18 bovinos, ya que la ley exige cumplir con el límite más estricto entre el bienestar animal y la seguridad vial.
 
-    
+    separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 2.2 Bienestar y protección animal en transporte terrestre
+    .bloque-texto-gg.color-primario.p-3.mb-4
+      .bloque-texto-gg__img(
+        :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img12.svg')})`}"
+      )
+      .bloque-texto-gg__texto.mt-5.mt-lg-0.p-2
+        p.mb-0 Constituyen el eje central de toda la normativa regulatoria en Colombia. El enfoque no solo busca la legalidad de la operación, sino también garantizar que los animales, reconocidos como seres sintientes, no padezcan sufrimiento innecesario durante la movilización
+          br
+          br
+          | El bienestar animal, según la normativa colombiana, se refiere al conjunto de condiciones y prácticas que garantizan que los animales de producción estén libres de hambre, sed, dolor, miedo y puedan expresar su comportamiento natural, promoviendo su salud física y emocional durante todas las etapas de su vida productiva.
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Normativa (regulatorio)
+    p La normativa que rige el bienestar animal en el transporte terrestre se soporta en disposiciones de alto nivel y se materializa en el manual de procedimientos adoptado de manera conjunta por las autoridades competentes.
+    p.mb-4A continuación, se detallan algunas regulaciones:
+
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+      h5 Tabla 27.
+      i Regulaciones bienestar y protección animal
+    .row.justify-content-center.align-items-center.mb-4 
+      .col-lg-10
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th Norma regulatoria
+                th Propósito y alcance
+                th Soportes documentales clave
+            tbody
+              tr
+                th Ley 1774 de 2016
+                td Estatuto Nacional de Protección Animal. Modifica el Código Civil para reconocer a los animales como seres sintientes y no cosas, sentando la base legal para que cualquier actividad (incluido el transporte) deba garantizar su bienestar y evitar el maltrato.
+                td Referente legal externo al manual, pero fundamental.
+              tr
+                th Resolución 20223040006915 de 2022
+                td Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie. Es el documento técnico operativo que establece las reglas detalladas que deben seguir transportadores, conductores y propietarios para cumplir con el bienestar animal en todas las etapas del transporte terrestre y fluvial.
+                td Resolución 20223040006915 (Art. 1, 2): adopta el manual para el transporte, manejo y movilización de especies de producción.
+              tr
+                th Resoluciones del MADR
+                td Normas específicas de bienestar animal por especie (bovina, porcina, aviar, etc.), las cuales el personal de transporte debe conocer.
+                td Plan-capacitación (Numeral 1): menciona el cumplimiento de la normatividad expedida por el Ministerio de Agricultura y Desarrollo Rural (MADR) para cada especie.
+
+    p.mb-4 #[b Normativo:] el marco legal se estructura jerárquicamente así:
+    .row.mb-4
+      .col-lg-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema2/img13.svg' alt='AvatarTop')
+          .tarjeta.color-primario.tarjeta.color-primarios2.w-100
+            .p-4
+              h5.text-center 1.	Ley 84 de 1989 (Estatuto de Protección)
+              p Establece el deber de protección y prohíbe la crueldad
+      .col-lg-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema2/img14.svg' alt='AvatarTop')
+          .tarjeta.color-primario.tarjeta.color-primarios2.w-100
+            .p-4
+              h5.text-center 2.	Ley 1774 de 2016
+              p Es la ley clave. Reconoce a los animales como seres sintientes (no cosas) y tipifica el maltrato animal (incluyendo el causado por negligencia en el transporte) como un delito penal y civil.
+      .col-lg-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema2/img15.svg' alt='AvatarTop')
+          .tarjeta.color-primario.tarjeta.color-primarios2.w-100
+            .p-4
+              h5.text-center 3.	Resolución 20223040006915
+              p Es el manual técnico que traduce las leyes anteriores en procedimientos obligatorios (el "cómo hacer") para el transporte.
+
+
+    p.mb-4 #[b Bienestar:] se pasa de un enfoque de "evitar la crueldad" a un enfoque proactivo de "garantizar el bienestar".
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Principios del bienestar y protección animal
+
+    p.mb-4 Los principios rectores de la normativa de transporte se centran en la prevención de riesgos y la garantía de condiciones mínimas de vida para los animales; al respecto, es importante tener en cuenta:
+
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+      h5 Tabla 28.
+      i Principios rectores
+    .row.justify-content-center.align-items-center.mb-4 
+      .col-lg-10
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th Principio
+                th Aplicación en el transporte
+                th Soporte documental (texto exacto)
+            tbody
+              tr
+                th Prevención del sufrimiento
+                td Es la razón de ser de la norma. Se busca evitar el sufrimiento y dolor causado por hacinamiento, golpes, ayuno prolongado, estrés térmico o falta de ventilación.
+                td ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2): "...se proveen condiciones sanitarias, fitosanitarias y de bienestar animal, evitando así, sufrimiento y dolor a los animales durante, el transporte...".
+              tr
+                th Inocuidad y calidad
+                td El bienestar del animal está ligado directamente a la calidad del producto final (carne). Un animal estresado o maltratado genera pérdidas y afecta la inocuidad.
+                td ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2): "...mejorando en este sentido la calidad e inocuidad de la carne, en beneficio de los consumidores".
+              tr
+                th Selección de Animales Aptos
+                td Principio de protección que exige seleccionar y no cargar animales que, por su condición, no puedan soportar el viaje sin sufrir.
+                td Manual de procedimiento (Numeral 4.a): "exige observar y seleccionar para detectar animales no aptos para el transporte, tales como: i) Enfermos, lesionados o con prolapsos. ii) Aquellos que no puedan permanecer de pie sin ayuda".
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Las Cinco Libertades / Los Cinco Dominios
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9.order-lg-1.order-2.mb-lg-0
+        .tarjeta.color-primarios3.p-4
+          p El concepto de bienestar animal adoptado internacionalmente y referenciado indirectamente en la normativa colombiana se basa en las Cinco Libertades, ya su vez, puede ser abordado desde el marco más integral de los Cinco Dominios.
+          p.mb-0 Entrando en detalle, las Cinco Libertades son el estándar de oro de la Organización Mundial de Sanidad Animal (OIE), adoptado por el ICA, que define las condiciones ideales para el bienestar animal y se representa de la siguiente manera:
+      .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+        figure
+          img.img-fluid(src="@/assets/curso/temas/tema2/img16.svg" alt="Imagen decorativo")
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.movil
+        figure
+          img.img-fluid(src="@/assets/curso/temas/tema2/img17_1.svg" alt="Imagen decorativo")
+      .col-lg-10.desktop
+        ImagenInfografica.color-acento-botones
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema2/img17.svg', alt='Texto que describa la imagen')
+          .tarjeta.color-secundario.p-3(x="40%" y="75%" numero="+")            
+            h5 Libre de hambre y sed
+            p Suministro de agua y alimento o periodos de descanso programados para proveerlos, especialmente en viajes largos (cada 8 horas)
+            p.mb-0 Se garantiza con un ayuno correcto (no excesivo) y con los periodos obligatorios de descanso, hidratación y alimentación en jornadas largas (Res. 20223040006915).
+          .tarjeta.color-secundario.p-3(x="21%" y="35%" numero="+")            
+            h5 Libre de incomodidad
+            p Uso de pisos antideslizantes, separación de animales hostiles y uso de cama si es necesario.
+            p.mb-0 Se garantiza con vehículos adecuados (pisos antideslizantes, ventilación, techos).
+          .tarjeta.color-secundario.p-3(x="60%" y="13%" numero="+")            
+            h5 Libre para expresar comportamiento natural
+            p Garantía de densidad de carga suficiente (espacio para animales) que les permita levantarse, echarse y cambiar de postura.
+            p.mb-0 Se garantiza con una densidad de carga correcta (que permita al menos echarse y pararse).
+          .tarjeta.color-secundario.p-3(x="35.5%" y="15%" numero="+")            
+            h5 Libre de dolor, lesiones y enfermedades
+            p.mb-0 Selección previa para excluir animales no aptos, manejo cuidadoso, diseño del vehículo sin salientes y aviones de contingencia para emergencias. 
+          .tarjeta.color-secundario.p-3(x="72%" y="68%" numero="+")            
+            h5 Libre de miedo y angustia
+            p Manejo silencioso y sin hostigamiento, uso de técnicas de manejo adecuadas y conocimiento del comportamiento animal por parte del personal.
+            p.mb-0 Se garantiza con un manejo etológico (sin gritos, sin picaduras excesivas) y una conducción suave.
+           
+    p.mb-4 Por su parte, aunque el manual se basa principalmente en la prevención del sufrimiento (Ley 1774), el Plan de Capacitación en Bienestar Animal integra un enfoque más amplio, como el de los Cinco Dominios, que evalúa las condiciones del animal, así:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.tarjeta.color-secundario.p-4
+        .row.justify-content-center.align-items-center
+          .col-lg-6
+            ul.lista-ul
+              li
+                i.fas.fa-horse-head
+                p.mb-0 #[b Nutrición]
+                  br
+                  | Hambre y sed.
+              li
+                i.fas.fa-horse-head
+                p.mb-0 #[b Ambiente]
+                  br
+                  | Incomodidad por entorno.
+              li
+                i.fas.fa-horse-head
+                p.mb-0 #[b Salud]
+                  br
+                  | Dolor, lesiones, enfermedades.
+              li
+                i.fas.fa-horse-head
+                p.mb-0 #[b omportamiento]
+                  br
+                  | Expresión de comportamientos naturales.
+              li
+                i.fas.fa-horse-head
+                p.mb-0 #[b Estado mental]
+                  br
+                  | Miedo, angustia y bienestar general.
+          .col-lg-6
+            figure
+              img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.png" alt="Imagen decorativo")
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Glosario de normativa específica del bienestar
+      
+    p.mb-4 El manual de procedimientos (Numeral 1. Definiciones) fija los términos esenciales para asegurar que la normativa sea aplicada correctamente en pro del bienestar animal, destacando:
+
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+      h5 Tabla 29.
+      i Glosario de normativa
+    .row.justify-content-center.align-items-center.mb-4 
+      .col-lg-10
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th Término
+                th Definición adoptada por el manual
+                th Soporte documental (texto exacto)
+            tbody
+              tr
+                th Bienestar animal
+                td El estado físico y mental de un animal en relación con las condiciones en las que vive y muere.
+                td Manual de procedimiento (Núm. 1): "Designa el estado físico y mental de un animal en relación con las condiciones en las que vive y muere".
+              tr
+                th Densidad de carga animal
+                td El número o peso corporal de los animales por unidad de área en el medio de transporte. (Es la clave para prevenir el hacinamiento y el estrés por calor).
+                td Manual de procedimiento (Num. 1): "Número o peso corporal de los animales por unidad de área en el medio de transporte".
+              tr
+                th No apto para el transporte
+                td Animales con condiciones físicas o de salud que les causarían un sufrimiento injustificado al ser movilizados (ej. enfermos, lesionados o que no pueden estar de pie).
+                td Manual de procedimiento (Num. 4.a): "Menciona las condiciones de animales que deben ser detectados como no aptos".
+              tr
+                th Carga de animales
+                td El procedimiento por el que se cargan o embarcan los animales en las unidades de transporte. (Debe hacerse con calma y sin hostigamiento).
+                td Manual de procedimiento (Num. 1): "Corresponde al procedimiento por el que se cargan o embarcan los animales en las unidades de transporte".
+    separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 2.3 Técnicas de conducción
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
+        figure
+          img.img-fluid(src="@/assets/curso/temas/tema2/img18.png" alt="Imagen decorativo")
+      .col-lg-9
+        .tarjeta.color-primarios3.p-4
+          p La conducción es un factor determinante en el bienestar animal durante el transporte terrestre. Una conducción brusca o inadecuada genera estrés, caídas, contusiones y lesiones graves, afectando la calidad e inocuidad de la carga.
+          p.mb-0 Es así como el manual de procedimientos (Resolución 20223040006915 de 2022) exige técnicas específicas de conducción que minimicen el impacto del movimiento en los animales.
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Principios de conducción preventiva y suave
+      
+    p.mb-4 El conductor o tripulante debe aplicar principios de manejo vehicular que eviten el movimiento excesivo de los animales y el estrés, en los cuales aplique lo siguiente:
+
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+      h5 Tabla 30.
+      i Principios de conducción
+    .row.justify-content-center.align-items-center.mb-4 
+      .col-lg-10
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th Principio de conducción
+                th Detalle de la técnica y objetivo
+                th Soporte documental (regla general)
+            tbody
+              tr
+                th Aceleración y frenado suaves
+                td La conducción debe ser suave y estable. Se deben evitar los frenazos bruscos y las aceleraciones repentinas que desequilibren a los animales y provoquen caídas o choques contra las paredes del vehículo.
+                td Manual de procedimiento (Implícito en Numeral 4): exige una conducción que evite el estrés y las lesiones, lo cual requiere maniobras controladas.
+              tr
+                th Velocidad moderada
+                td La velocidad debe ser apropiada para las condiciones de la vía, el tráfico y el clima, pero siempre moderada para reducir la inercia del movimiento de la carga viva.
+                td Manual de procedimiento (Implícito en Numeral 4): se enfoca en garantizar la estabilidad del vehículo y la carga, lo cual se logra con velocidad controlada.
+              tr
+                th Trazado de curvas
+                td Las curvas y los giros deben tomarse a baja velocidad y de manera gradual para evitar que la fuerza centrífuga empuje a los animales contra las divisiones o los lados del vehículo.
+                td Manual de procedimiento (Implícito en Numeral 4): las divisiones deben ser fuertes para resistir la presión, pero la conducción debe mitigar esta presión.
+              tr
+                th Conducción anticipada
+                td Mantener una distancia de seguridad suficiente que permita al conductor anticipar el frenado y realizarlo de forma progresiva, minimizando la necesidad de frenadas de emergencia.
+                td Manual de procedimiento (Implícito en Numeral 4): busca minimizar el riesgo de traumatismos o fracturas en los animales.
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Protocolos de inspección y descanso
+      
+    p.mb-4 Las técnicas de conducción también incluyen protocolos que regulan los tiempos de viaje y la necesidad de supervisión constante de la carga, destacándose de ello lo siguiente:
+
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+      h5 Tabla 31.
+      i Protocolos en técnicas de conducción
+    .row.justify-content-center.align-items-center.mb-4 
+      .col-lg-10
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th Protocolo de viaje
+                th Exigencia y periodicidad
+                th Soporte documental (texto exacto)
+            tbody
+              tr
+                th Descanso obligatorio
+                td El conductor debe descansar al menos ocho (8) horas después de un tiempo máximo de ocho (8) horas de conducción, para mantener el estado de alerta y evitar la fatiga que compromete la seguridad y el manejo suave.
+                td Manual de procedimiento (Numeral 4.i): "El conductor o tripulante deberá descansar al menos ocho (8) horas, una vez haya conducido ocho (8) horas continuas".
+              tr
+                th Inspección en ruta
+                td El conductor o tripulante debe realizar una inspección visual del vehículo y de los animales en movimiento (en paradas seguras) para detectar signos de estrés, caídas, lesiones o problemas de ventilación.
+                td Manual de procedimiento (Numeral 4.g): "El conductor o tripulante deberá realizar la inspección de la unidad de transporte de animales y de los animales en movimiento, por lo menos cada cuatro (4) horas durante el viaje".
+              tr
+                th Atención a la ventilación
+                td Si no se cuenta con ventilación mecánica, el conductor debe estar atento a las condiciones de microclima (temperatura y ventilación) para evitar el estrés térmico, ajustando la velocidad o buscando zonas de sombra si es necesario.
+                td Manual de procedimiento (Numeral 4.f): exige contar con dispositivos para mantener la ventilación constante, asegurando una temperatura entre 5 °C y 30 °C.
+      
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Técnicas de conducción en condiciones adversas
+
+    .row.justify-content-center.mb-5
+        .col-lg-5.mb-4.mb-lg-0
+          .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
+              .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
+                img(src='@/assets/curso/temas/tema2/img19.png', alt='Imagen decorativa')
+                .p-4
+                  h5 Vías irregulares (destapadas)
+                  p La velocidad debe reducirse excesivamente para mitigar las vibraciones y los golpes transmitidos a la carrocería, que pueden causar hematomas y fatiga en los animales.
+        .col-lg-5
+          .tarjeta-avatar(style="padding-top: 0px !important;").h-100            
+              .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
+                img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
+                .p-4
+                  h5 Clima extremo (lluvia/calor):
+                  p Vehículos no motorizados halados por una unidad tractora. Existen de tipo:
+                  ul.lista-ul
+                    li
+                      i.fas.fa-horse-head
+                      p.mb-0 #[b Lluvia:] aumente la distancia de frenado y reduzca la velocidad para evitar derrapes y movimientos bruscos.
+                    li
+                      i.fas.fa-horse-head
+                      p.mb-0 #[b Calor (estrés térmico):] la conducción en horas de la noche o madrugada es preferible. Si el viaje es de día, se debe priorizar la ventilación constante y minimizar las paradas en zonas expuestas al sol.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema2/img21.svg' alt='AvatarTop')
+          .tarjeta.color-primario.w-100(style="padding-top: 5px !important")
+            .text-white.p-4
+              p.mb-0 La correcta implementación de este manual no solo previene sanciones, sino que además fortalece la sostenibilidad de la producción, mejora los indicadores productivos y responde a las crecientes exigencias de los mercados nacionales e internacionales en materia de bienestar y sanidad animal.
 
 </template>
 
@@ -408,13 +737,9 @@ export default {
   name: 'Tema2',
   data: () => ({
     /* variables de vue
-    separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 2.2 Bienestar y protección animal en transporte terrestre
+    
 
-    separador
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 2.3 Técnicas de conducción
+    
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")

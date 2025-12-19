@@ -144,6 +144,33 @@
   background-color: #F3BC5B
   h4
     color:black !important
+.bloque-texto-gg.color-primario
+  background-color: #B2C9C4
+.bloque-texto-gg
+  position: relative
+  display: flex
+  justify-content: flex-end
+  &__img
+    width: 20%
+    position: absolute
+    top: 0
+    left: 0
+    bottom: 0
+    background-position: center
+    background-size: cover
+  &__texto
+    position: relative
+    width: 80%
+    *
+      display: inline
+
+  &--inverso
+    justify-content: flex-start
+    .bloque-texto-gg
+      &__img
+        left: auto
+        right: 0
+
 
 //Listas
 .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, li i.lista-ul__vineta
