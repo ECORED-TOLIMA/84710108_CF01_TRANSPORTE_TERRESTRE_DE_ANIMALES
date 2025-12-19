@@ -399,6 +399,15 @@
                   img.img-fluid(src="@/assets/curso/temas/tema2/img11.png" alt="Imagen decorativo")
           p.mb-0 #[b Entonces:] la magnitud de carga correcta y obligatoria es de 18 bovinos, ya que la ley exige cumplir con el límite más estricto entre el bienestar animal y la seguridad vial.
 
+    
+
+</template>
+
+<script>
+export default {
+  name: 'Tema2',
+  data: () => ({
+    /* variables de vue
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.2 Bienestar y protección animal en transporte terrestre
@@ -426,14 +435,7 @@
     separador
     #t_2_8.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.8 Curso de bienestar animal en transporte terrestre (Cumplimiento)
-
-</template>
-
-<script>
-export default {
-  name: 'Tema2',
-  data: () => ({
-    // variables de vue
+    */
   }),
   mounted() {
     this.$nextTick(() => {
