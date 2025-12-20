@@ -42,6 +42,122 @@
           img.img-fluid(src="@/assets/curso/temas/tema3/img2.png" alt="Imagen decorativa")
     p.mb-4 Basado en la zona de fuga o área de seguridad de los animales de granja, es preciso conocer lo siguiente:
 
+    .row.mb-lg-5.mb-4
+      .col-sm-10.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img5
+          h5.text-center Definición
+          p.mb-0 Es el espacio alrededor del animal que, si es invadido por el humano, provoca que el animal se sienta amenazado y huya.
+      .col-sm-10.col-lg-4.mb-4.mb-lg-0(data-aos="flip-right")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img6
+          h5.text-center Técnica de manejo
+          p.mb-0 El manejador debe trabajar justo en el borde de esta zona de fuga para mover al animal de forma efectiva y sin estrés. Avanzar dentro de esta zona genera pánico y resistencia.
+      .col-sm-10.col-lg-4.mb-4.mb-lg-0(data-aos="flip-left")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img7
+          h5.text-center Punto de equilibrio
+          p.mb-0 Es un punto imaginario (usualmente a la altura del hombro) que, si es cruzado por el manejador, hace que el animal avance (si se mueve detrás) o retroceda (si se mueve delante).
+
+    p.mb-4 Para aclarar un poco lo relacionado con estos principios de interacción, se invita a que analice la siguiente imagen: 
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+          h5 Figura 5.
+          i  Zona de fuga o área de seguridad
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.movil(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema3/img6.svg', alt='Figura 5 que relaciona las zonas de fuga o las áreas de seguridad que el manejador debe conocer con respecto al animal, las cuales son: Zona ciega. Zona de fuga. Posición de parada. Posición de avance,Punto de balance')
+        figcaption Fuente: Ramírez, Guarín Montoya & Bedoya (2022)
+      .col-lg-10.desktop(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema3/img6_1.svg', alt='Figura 5 que relaciona las zonas de fuga o las áreas de seguridad que el manejador debe conocer con respecto al animal, las cuales son: Zona ciega. Zona de fuga. Posición de parada. Posición de avance,Punto de balance')
+        figcaption Fuente: Ramírez, Guarín Montoya & Bedoya (2022)
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Sentido animal, relevantes en el manejo
+      
+    p.mb-4 Comprender cómo perciben los animales su entorno es clave para un manejo y transporte seguros. Por ello, se relaciona una tabla que resume la importancia de cada sentido en el comportamiento de los bovinos y otras especies; además de cómo estos factores influyen en su reacción ante estímulos durante las labores de movilización:
+
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+      h5 Tabla 43.
+      i Percepción animal y su impacto en el manejo y transporte
+    .row.justify-content-center.align-items-center.mb-4 
+      .col-lg-10
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th Sentido
+                th Importancia para el manejo y transporte
+            tbody
+              tr
+                th Vista (visión panorámica)
+                td Los bovinos y otras especies tienen visión binocular limitada y una visión panorámica amplia. Esto significa que son muy sensibles a los movimientos laterales y a los contrastes de luz y sombra (manchas en el piso o rampas).
+              tr
+                th Oído (sensibilidad al sonido)
+                td Los animales tienen un rango auditivo más sensible que el humano. El ruido, los gritos o los silbidos fuertes (ej. de motores o frenos) actúan como un gran estresor y deben evitarse.
+              tr
+                th Olfato
+                td Aunque no es tan dominante en el manejo, los animales detectan el olor de la sangre o de otros animales estresados o muertos, lo que puede incrementar rápidamente el nivel de pánico en todo el grupo.
+              tr
+                th Tacto
+                td La sensibilidad táctil influye en el uso de los implementos de manejo (banderas, paletas o bastones). Estos deben usarse solo como extensión del brazo, tocando la zona de impulso del animal, y nunca como elemento de castigo.
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Manejo etológico: etapas del transporte que lo requieren 
+    p.mb-4 El conocimiento del comportamiento animal se aplica obligatoriamente en todas las fases del transporte, como son:
+
+    .tarjeta--BG02.p-4.px-md-5.mb-4
+      .tarjeta.tarjeta--FBG01.p-4.my-4(data-aos="fade-left")
+        PasosB.color-acento-botones
+          .row
+            .col-lg-5.order-2.order-lg-1
+              h5 Cargue y descargue
+              p.mb-0 Es la fase de mayor riesgo de lesión. El manejo etológico exige el uso de rampas con baja inclinación (máximo 20°) y superficies antideslizantes, moviendo a los animales en grupos pequeños o individualmente con calma, sin el uso de elementos que generen dolor o temor.
+            .col-lg-7.col-10.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img7.png', alt='Imagen decorativa')
+          .row
+            .col-lg-5.order-2.order-lg-1
+              h5 Movimiento en ruta
+              p.mb-0 El conductor debe aplicar técnicas de conducción suave (frenado y aceleración progresiva) para contrarrestar la inercia y evitar que el animal pierda el equilibrio, lo que activa el miedo y el instinto de defensa.
+            .col-lg-7.col-10.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
+          .row
+            .col-lg-5.order-2.order-lg-1
+              h5 Separación y densidad
+              p.mb-0 El manejo exige la separación por grupos (toros, vacas, animales con cuernos) y el respeto a la densidad de carga para permitir al animal un comportamiento natural básico (levantarse o acostarse) y reducir el conflicto social dentro del vehículo.
+            .col-lg-7.col-10.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img9.png', alt='Imagen decorativa')
+
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
+          .tarjeta.color-primario.w-100(style="padding-top: 5px !important")
+            .text-white.p-4
+              p Soporte documental
+              p.mb-0 La separación de animales es un requisito explícito para evitar hostilidad.
+
+
+
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Seguridad sanitaria animal
