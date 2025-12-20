@@ -45,6 +45,14 @@
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Seguridad sanitaria animal
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-1
+        figure
+          img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="Imagen decorativa")
+      .col-lg-11
+        p.mb-0 La #[b seguridad sanitaria] animal (también referida en la documentación como condiciones sanitarias y fitosanitarias) en el transporte terrestre es el conjunto de y protocolos destinados a prevenir la transmisión y dispersión de enfermedades durante la movilización, protegiendo tanto la salud de los animales como la inocuidad de los productos finales de consumo humano.
+    
+
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
