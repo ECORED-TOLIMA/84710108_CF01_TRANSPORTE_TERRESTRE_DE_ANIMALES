@@ -1034,6 +1034,32 @@
       h5.mb-0 Tipos de productos por propósito (generalidades)
     p.mb-4 Aunque el manual no los nombra, la técnica de aseo requiere el uso de dos tipos de productos en secuencia:
 
+    .row.justify-content-center.mb-4
+      .col-lg-4.mb-4.mb-lg-0
+        .tarjeta.color-primario.tarjeta.color-primarios2.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6.mb-4.mb-lg-0
+              figure
+                img(src='@/assets/curso/temas/tema2/img25.svg', alt='Texto que describa la imagen')
+          .row.justify-content-center.mb-3
+            .col-lg-8.p-2
+              h5.mb-0.text-center Detergentes o Jabones
+          p.text-center.mb-0 Productos usados para remover la suciedad gruesa y la materia orgánica (heces, orina, barro, sangre). Esta etapa es fundamental, ya que la materia orgánica inactiva la mayoría de los desinfectantes.
+      .col-lg-4 
+        .tarjeta.color-primario.tarjeta.color-primarios2.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6.mb-4.mb-lg-0
+              figure
+                img(src='@/assets/curso/temas/tema2/img26.svg', alt='Texto que describa la imagen')
+          .row.justify-content-center.mb-3
+            .col-lg-8.p-2
+              h5.mb-0.text-center Desinfectantes
+          p.text-center.mb-0 Productos químicos (ej. yodo, amonios cuaternarios, formalina, hipoclorito) que se aplican después de la limpieza para eliminar microorganismos (bacterias, virus, hongos) de las superficies.
+      .col-lg-4 
+        .tarjeta.h-100
+          figure
+            img(src='@/assets/curso/temas/tema2/img27.png', alt='Texto que describa la imagen')
+
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Regulación de productos por el ICA
@@ -1041,23 +1067,23 @@
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row.justify-content-center(titulo="Fundamento")
-        .col-lg-8.order-lg-1.order-2.mb-lg-0
+        .col-lg-7.order-lg-1.order-2.mb-lg-0
           p.mb-0 Los productos químicos y desinfectantes utilizados en la cadena pecuaria deben estar registrados y aprobados por la autoridad sanitaria competente (ICA o Invima), garantizando que son seguros y efectivos para el propósito de bioseguridad en las granjas y vehículos de transporte.
-        .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+        .col-lg-5.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
           figure
             img.img-fluid(src="@/assets/curso/temas/tema2/img28.png" alt="Imagen decorativo")
       .row.justify-content-center(titulo="Requisito de cumplimiento")
-        .col-lg-8.order-lg-1.order-2.mb-lg-0
+        .col-lg-7.order-lg-1.order-2.mb-lg-0
           p.mb-0 Los transportadores deben emplear productos que cumplan con la normativa sanitaria vigente para el control de patógenos en instalaciones y equipos pecuarios.
-        .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+        .col-lg-5.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
           figure
             img.img-fluid(src="@/assets/curso/temas/tema2/img29.png" alt="Imagen decorativo")
       .row.justify-content-center(titulo="Soporte documental")
-        .col-lg-8.order-lg-1.order-2.mb-lg-0
+        .col-lg-7.order-lg-1.order-2.mb-lg-0
           p.mb-0 La resolución establece la necesidad de condiciones sanitarias y fitosanitarias, además exige la desinfección, lo que implica el uso de productos aprobados.
-        .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+        .col-lg-5.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
           figure
-            img.img-fluid(src="@/assets/curso/temas/tema2/img30.png" alt="Imagen decorativo")
+            img.img-fluid(src="@/assets/curso/temas/tema2/img30_2.png" alt="Imagen decorativo")
 
     separador
     #t_2_7.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -1110,7 +1136,46 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Clases de medidas y lineamientos de control
-      
+    p.mb-4 Las autoridades aplican medidas de vigilancia para corregir incumplimientos y prevenir riesgos sanitarios, encontrando:
+    
+    .row.mb-lg-5.mb-4
+      .col-sm-10.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img1
+          h5.text-center Medidas de prevención	
+          p.mb-0 Acciones destinadas a evitar que el riesgo se materialice, como exigir la reducción de la densidad o el ajuste de la ventilación en un punto de control ante una alerta de estrés térmico.
+      .col-sm-10.col-lg-3.mb-4.mb-lg-0(data-aos="flip-right")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img2
+          h5.text-center Medidas de vigilancia
+          p.mb-0 Monitoreo y seguimiento del cumplimiento de los protocolos sanitarios (ej. revisión de la limpieza y la estanqueidad del vehículo) e inspección de documentos (GSM y Certificado).
+      .col-sm-10.col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img3
+          h5.text-center Medidas de control (correctivas/sancionatorias)
+          p.mb-0 Intervenciones directas como la inmovilización del vehículo o la aplicación de sanciones (multas), ante el incumplimiento de la capacidad de carga o la evidencia de maltrato o riesgo sanitario inminente.
+      .col-sm-10.col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
+        .tarjeta--boton.color-primario.tarjeta--BG04.p-4.h-100
+          .row.justify-content-center.align-items-center.mb-3
+            .col-12
+              .divcentrado
+                .imgg2.img4
+          h5.text-center Guía Sanitaria de Movilización (GSM)
+          p.mb-0 Lineamiento de Clave de Control. Es el documento oficial del ICA que autoriza y acompaña el traslado, certificando la procedencia y el estado sanitario de la carga, siendo un requisito indispensable para la movilización legal.
+
+    .titulo.mb-4(data-aos="fade-left")
+      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      h5.mb-0 Protocolos y clases de riesgos sanitarios
+
     p.mb-4 Los protocolos son las herramientas que las entidades controlan; los riesgos son lo que buscan evitar.
 
     .titulo.mb-4(data-aos="fade-left")
@@ -1175,6 +1240,34 @@
       
     p.mb-4 Los formatos específicos son documentos internos de las autoridades (ICA o tránsito), pero en la práctica, los principales instrumentos de control utilizados en carretera son:
 
+    .row.justify-content-center.mb-5
+      .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/img37.png", alt="alt")
+          .crd_hover_txt--body
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h4.mb-3 Guía Sanitaria de Movilización (GSM)
+            p.mt-3.px-4 Documento principal de control sanitario. Verifica la legalidad y el estado sanitario de la carga. El formato está estandarizado por el ICA.
+      .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema2/img38.png", alt="alt")
+          .crd_hover_txt--body
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h4.mb-3 Acta de inspección del vehículo
+            p.mt-3.px-4 Formato donde el funcionario del ICA registra el cumplimiento de los requisitos estructurales (pisos, rampas, ventilación) y la densidad de carga en el momento de la inspección.
+
+      
+            
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Certificaciones de cursos

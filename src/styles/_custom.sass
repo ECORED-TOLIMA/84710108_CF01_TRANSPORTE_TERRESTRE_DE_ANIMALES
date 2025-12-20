@@ -144,6 +144,77 @@
   background-color: #F3BC5B
   h4
     color:black !important
+
+.tarjeta--BG04
+  background-color: #FFE5D8
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  text-align: center
+  .img1
+    background-image: url("../assets/curso/temas/tema2/img31_1.svg")
+  .img2
+    background-image: url("../assets/curso/temas/tema2/img32_1.svg")
+  .img3
+    background-image: url("../assets/curso/temas/tema2/img33_1.svg")
+  .img4
+    background-image: url("../assets/curso/temas/tema2/img34_1.svg")
+  .imgg2
+    width: 90px
+    height: 90px
+    background-size: contain
+    background-repeat: no-repeat
+  &:hover
+    color: black !important
+    .img1
+      background-image: url("../assets/curso/temas/tema2/img31.svg")
+    .img2
+      background-image: url("../assets/curso/temas/tema2/img32.svg")
+    .img3
+      background-image: url("../assets/curso/temas/tema2/img33.svg")
+    .img4
+      background-image: url("../assets/curso/temas/tema2/img34.svg")
+
+.tarjeta--boton.color-primario:hover
+  background-color: #B2C9C4
+  h5, p
+    color:black !important
+
+.divcentrado
+  display: flex
+  justify-content: center
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #FFE5D8
+
+.crd_hover_txt--body
+  position: absolute
+  bottom: 0    
+  transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+  transform: translateY(calc( 100% - 3.85rem ))
+  
+  
+@media (min-width:1200px) and (max-width:1400px)  
+  .crd_hover_txt--body
+    p
+      font-size: 0.85em
+.ubicar 
+  h4
+    margin-left: 55px
+    margin-top: -35px
+  .acordion__accion.acordion__accion__btn--b.h3.mb-0
+    margin-top: -7px
+.tit-tarj
+  margin-top: 2px
+  background-color: #FFE5D8
+  height: 60px
 .bloque-texto-gg.color-primario
   background-color: #B2C9C4
 .bloque-texto-gg
