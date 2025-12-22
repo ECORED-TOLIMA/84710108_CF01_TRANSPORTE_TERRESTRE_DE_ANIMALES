@@ -10,10 +10,10 @@
       h1 Introducción
     p.mb-4 El transporte de animales en pie constituye una fase de alta criticidad dentro de la cadena de valor agropecuaria en Colombia. Su correcta ejecución incide de manera determinante no solo en la calidad e inocuidad del producto final, sino también en la salud pública y, de forma imperativa, en el bienestar animal. La movilización genera una serie de estresores fisiológicos y psicológicos en los animales, tales como alteraciones del ritmo cardíaco, aumento de los niveles de cortisol y riesgo de acidosis metabólica, que pueden derivar en pérdidas de peso, contusiones, lesiones e incluso la muerte. Estas consecuencias representan significativas mermas económicas y comprometen la calidad de la carne por fenómenos como el corte oscuro (pH elevado) o la carne pálida, suave y exudativa (PSE).
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-9
+      .col-lg-9.mb-4.mb-lg-0
         .bg1.tarjeta.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-1.p-0
+            .col-lg-1.p-0.d-none.d-lg-block
               figure
                 img.img-fluid(src="@/assets/curso/temas/intro/img1.svg" alt="Icono 1")
             .col-lg-11
@@ -22,13 +22,13 @@
         figure
           img.img-fluid(src="@/assets/curso/temas/intro/img2.svg" alt="Icono 1")
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3
+      .col-lg-3.order-lg-1.order-2
         figure
           img.img-fluid(src="@/assets/curso/temas/intro/img3.png" alt="Icono 1")
-      .col-lg-9
+      .col-lg-9.order-lg-2.order-1
         p Este componente formativo ha sido diseñado como una guía de referencia técnica para la interpretación y aplicación rigurosa de dicha normativa. Su objetivo trasciende el mero cumplimiento legal; busca impartir un conocimiento profundo sobre los puntos críticos de control durante todo el proceso de movilización. Esto incluye la evaluación de la aptitud de los animales para el viaje, las condiciones de ayuno, el diseño y mantenimiento de los vehículos, las densidades de carga adecuadas para cada especie, así como las técnicas de manejo durante el embarque, el trayecto y el desembarque.
         .row
-          .col-lg-1.p-0.px-2
+          .col-lg-1.p-0.px-2.d-none.d-lg-block
             figure
               img.img-fluid(src="@/assets/curso/temas/intro/img4.svg" alt="Icono 1")
           .col-lg-11
@@ -40,7 +40,7 @@
           img(src='@/assets/curso/temas/intro/img5.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100(style="padding-top: 5px !important")
             .text-white.p-4
-              p.mb-0 La correcta implementación de este manual no solo previene sanciones, sino que además fortalece la sostenibilidad de la producción, mejora los indicadores productivos y responde a las crecientes exigencias de los mercados nacionales e internacionales en materia de bienestar y sanidad animal.
+              p.mb-0(style="margin-top: 42px;") La correcta implementación de este manual no solo previene sanciones, sino que además fortalece la sostenibilidad de la producción, mejora los indicadores productivos y responde a las crecientes exigencias de los mercados nacionales e internacionales en materia de bienestar y sanidad animal.
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
