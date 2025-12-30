@@ -39,8 +39,9 @@
   background-color: #DAE4E3
 .tarjeta-avatar > img
     width: 100px
-    top: 40px !important
-
+    top: 0px !important
+.tarjeta-avatar
+    padding-top: 40px !important
 // versión escritorio/movil
 @media (min-width:1400px)
   .movil2
@@ -133,6 +134,15 @@ i.fas.fa-circle
   hover
     color:black !important
 //FONDOS
+.BMG1
+  background: linear-gradient(180deg, #fff, #fff6e8, #fff)
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
 .tarjeta--BG02
   background-image: url("../assets/curso/temas/tema3/fondoslyder1.png")
   background-size: cover
@@ -178,19 +188,19 @@ i.fas.fa-circle
   background-position: center
   text-align: center
   .img1
-    background-image: url("../assets/curso/temas/tema2/img31_1.svg")
+    background-image: url("../assets/curso/temas/tema2/img31.svg")
   .img2
-    background-image: url("../assets/curso/temas/tema2/img32_1.svg")
+    background-image: url("../assets/curso/temas/tema2/img32.svg")
   .img3
-    background-image: url("../assets/curso/temas/tema2/img33_1.svg")
+    background-image: url("../assets/curso/temas/tema2/img33.svg")
   .img4
-    background-image: url("../assets/curso/temas/tema2/img34_1.svg")
+    background-image: url("../assets/curso/temas/tema2/img34.svg")
   .img5
-    background-image: url("../assets/curso/temas/tema3/img3_1.svg")
+    background-image: url("../assets/curso/temas/tema3/img3.svg")
   .img6
-    background-image: url("../assets/curso/temas/tema3/img4_1.svg")
+    background-image: url("../assets/curso/temas/tema3/img4.svg")
   .img7
-    background-image: url("../assets/curso/temas/tema3/img5_1.svg")
+    background-image: url("../assets/curso/temas/tema3/img5.svg")
   .imgg2
     width: 90px
     height: 90px
@@ -199,19 +209,19 @@ i.fas.fa-circle
   &:hover
     color: black !important
     .img1
-      background-image: url("../assets/curso/temas/tema2/img31.svg")
+      background-image: url("../assets/curso/temas/tema2/img31_1.svg")
     .img2
-      background-image: url("../assets/curso/temas/tema2/img32.svg")
+      background-image: url("../assets/curso/temas/tema2/img32_1.svg")
     .img3
-      background-image: url("../assets/curso/temas/tema2/img33.svg")
+      background-image: url("../assets/curso/temas/tema2/img33_1.svg")
     .img4
-      background-image: url("../assets/curso/temas/tema2/img34.svg")
+      background-image: url("../assets/curso/temas/tema2/img34_1.svg")
     .img5
-      background-image: url("../assets/curso/temas/tema3/img3.svg")
+      background-image: url("../assets/curso/temas/tema3/img3_1.svg")
     .img6
-      background-image: url("../assets/curso/temas/tema3/img4.svg")
+      background-image: url("../assets/curso/temas/tema3/img4_1.svg")
     .img7
-      background-image: url("../assets/curso/temas/tema3/img5.svg")
+      background-image: url("../assets/curso/temas/tema3/img5_1.svg")
 
 .tarjeta--boton.color-primario:hover
   background-color: #B2C9C4
@@ -221,6 +231,83 @@ i.fas.fa-circle
 .divcentrado
   display: flex
   justify-content: center
+
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      h4, p
+        color: white 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #F2F4ED
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #DAE4E3 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
 
 .crd_hover_txt
   position: relative  
@@ -307,8 +394,13 @@ i.fas.fa-horse-head
     background-color:#FFEEE9
 .tarjeta--gris.linea-tiempo-d__item__number
   background-color: #FF955E
+
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #ffeee9
 //Tablas
+
 .tabla-a
+  background-color: white
   thead
     background-color: #DAE4E3
   tbody
@@ -334,7 +426,6 @@ i.fas.fa-horse-head
     border-bottom: 1px solid #eee
     padding: 0.75em 1em 0.75em 1em /* sin padding-left excesivo */
     white-space: normal
-  
 
   .tabla-responsive td::before
     content: attr(data-label)
@@ -349,11 +440,9 @@ i.fas.fa-horse-head
     align-items: center
     justify-content: flex-start
     width: 100%
-  
 
   .tabla-responsive thead
     display: none
-  
 
   .tabla-responsive tr
     display: block
@@ -361,7 +450,6 @@ i.fas.fa-horse-head
     border: 1px solid #ddd
     border-radius: 4px
     padding: 0.5em
-  
 
   .tabla-responsive table
     width: 100%

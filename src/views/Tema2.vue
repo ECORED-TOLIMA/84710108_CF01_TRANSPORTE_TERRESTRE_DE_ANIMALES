@@ -21,7 +21,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Resolución 20223040006915)
-    p.mb-4(data-aos="fade-right") Para explicar en mejor manera este manual, basado en dicha normativa, se plantean los siguientes aspectos legales:
+    p.mb-4(data-aos="fade-right") Para explicar de mejor manera este manual, basado en dicha normativa, se plantean los siguientes aspectos legales:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 21.
       i Aspectos legales manual de procedimientos
@@ -33,41 +33,42 @@
               tr(data-aos="fade-right")
                 th Aspecto legal
                 th Descripción y fundamento
-                th Soporte Documental (Texto Exacto)
+                th Soporte Documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Aspecto legal") Objeto de la Resolución
+                td(data-label="Aspecto legal") #[b Objeto de la Resolución]
                 td(data-label="Descripción y fundamento") Adoptar el manual que regula los procedimientos durante todas las etapas del transporte, manejo y movilización de animales vivos.
-                td(data-label="Soporte Documental (Texto Exacto)") #[b Resolución 20223040006915 (Art. 1):] "El objeto de la presente resolución es adoptar el manual de procedimiento para el transporte, manejo y movilización de animales en pie, durante todas las etapas, contenido en el anexo de la presente resolución el cual hace parte integral de la misma".
+                td(data-label="Soporte Documental (texto exacto)") #[b Resolución 20223040006915 (Art. 1):] "El objeto de la presente resolución es adoptar el manual de procedimiento para el transporte, manejo y movilización de animales en pie, durante todas las etapas, contenido en el anexo de la presente resolución el cual hace parte integral de la misma".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto legal") Ámbito de aplicación
+                td(data-label="Aspecto legal") #[b Ámbito de aplicación]
                 td(data-label="Descripción y fundamento") Aplica a todas las personas naturales y jurídicas que movilizan o transportan animales por vía terrestre y fluvial, incluyendo las principales especies de producción.
-                td(data-label="Soporte Documental (Texto Exacto)") #[b Resolución 20223040006915 (Art. 2):] "Aplica a las personas naturales y jurídicas involucradas en el transporte, manejo y movilización por vía terrestre y fluvial de animales de las especies bovina, porcina, caprina, ovina, aviar, bufalina, équida y las demás especies de consumo humano".
+                td(data-label="Soporte Documental (texto exacto)") #[b Resolución 20223040006915 (Art. 2):] "Aplica a las personas naturales y jurídicas involucradas en el transporte, manejo y movilización por vía terrestre y fluvial de animales de las especies bovina, porcina, caprina, ovina, aviar, bufalina, equina y las demás especies de consumo humano".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto legal") Finalidad (bienestar animal)
+                td(data-label="Aspecto legal") #[b Finalidad (bienestar animal)]
                 td(data-label="Descripción y fundamento") El propósito es establecer condiciones sanitarias, fitosanitarias y de bienestar animal, evitando el sufrimiento y el dolor de los animales durante el proceso.
-                td(data-label="Soporte Documental (Texto Exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "Con la expedición de este acto administrativo, se proveen condiciones sanitarias, fitosanitarias y de bienestar animal, evitando así, sufrimiento y dolor a los animales durante, el transporte, manejo y movilización de los mismos...".
+                td(data-label="Soporte Documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "Con la expedición de este acto administrativo, se proveen condiciones sanitarias, fitosanitarias y de bienestar animal, evitando así, sufrimiento y dolor a los animales durante, el transporte, manejo y movilización de los mismos...".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto legal") Tipos de manejo regulados
+                td(data-label="Aspecto legal") #[b Tipos de manejo regulados]
                 td(data-label="Descripción y fundamento") La norma se aplica a tres modos principales de movimiento de animales, cada uno con sus reglas específicas.
-                td(data-label="Soporte Documental (Texto Exacto)") #[b Manual (Num. 3.a, b, c):] a) Movilización a pie de animales... b) Transporte fluvial de animales... c) Transporte terrestre de animales...
+                td(data-label="Soporte Documental (texto exacto)") #[b Manual (Num. 3.a, b, c):] a) Movilización a pie de animales... b) Transporte fluvial de animales... c) Transporte terrestre de animales...
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Tipos de manejo operacional (manejo animal)
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-        .tarjeta.color-secundarios.p-4
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-8.tarjeta.color-secundarios.order-2.order-lg-1(data-aos="fade-right")
+        .p-4
           .row.mb-3
             .col-lg-1.p-2.d-none.d-lg-block
               figure
                 img.img-fluid(src="@/assets/curso/temas/tema2/img3.svg" alt="Icono decorativo")
           p.mb-0 El manual, aunque no define un término genérico de "Tipos de manejo", establece los procedimientos de manejo que deben aplicarse durante las fases críticas de la operación logística. El manejo se centra en garantizar el bienestar animal mediante técnicas y equipos adecuados, especialmente durante el cargue, traslado y descenso. Al respecto se plantean los siguientes aspectos:
       .col-lg-4.order-1.order-lg-2
-        .tarjeta-color-primarios2.p-4
+        .tarjeta-color-primarios2
           figure
             img.img-fluid(src="@/assets/curso/temas/tema2/img4.svg" alt="Icono decorativo")
+    
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 22.
       i Manejo operacional
@@ -82,21 +83,21 @@
                 th Soporte documental (texto exacto)
             tbody
               tr
-                td(data-label="Aspecto del manejo)") Manejo humanitario
-                td(data-label="Principio de ejecución y detalle") Los animales deben ser cargados y descargados con calma, sin generar estrés, ruido ni hostigamiento. Se prohíbe el uso de fuerza innecesaria.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915, Manual (Implícito en Numeral 4): "...los animales deberán ser cargados y descargados con calma, sin ruidos ni hostigamiento, ni empleo de fuerza innecesarios ...".
+                td(data-label="Aspecto del manejo)") #[b Manejo humanitario]
+                td(data-label="Principio de ejecución y detalle") Los animales deben ser cargados y descargados con #[b calma], sin generar estrés, ruido ni hostigamiento. Se prohíbe el uso de fuerza innecesaria.
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915, Manual (Implícito en Numeral 4):] "...los animales deberán ser cargados y descargados con #[b calma, sin ruidos ni hostigamiento], ni empleo de #[b fuerza innecesarios] ...".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto del manejo)") Uso de equipos seguros
-                td(data-label="Principio de ejecución y detalle") Se deben utilizar rampas o plataformas que no tengan puntiagudas salientes, hoyos u orificios, y que tengan pisos de superficie antideslizante.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915, Manual (Implícito en Numeral 4): "...a través de rampas o plataformas, sin salientes puntiagudas, hoyos y orificios con pisos de superficies antideslizantes y/o con puntos de apoyo...".
+                td(data-label="Aspecto del manejo)") #[b Uso de equipos seguros]
+                td(data-label="Principio de ejecución y detalle") Se deben utilizar #[b rampas o plataformas] que no tengan puntiagudas salientes, hoyos u orificios, y que tengan pisos de superficie antideslizante.
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915, Manual (Implícito en Numeral 4):] "...a través de #[b rampas o plataformas], sin salientes puntiagudas, hoyos y orificios con #[b pisos de superficies antideslizantes] y/o con puntos de apoyo...".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto del manejo)") Inclinación de rampas
+                td(data-label="Aspecto del manejo)") #[b Inclinación de rampas]
                 td(data-label="Principio de ejecución y detalle") La inclinación de la rampa debe ser suave para facilitar el desplazamiento natural de los animales, sin causar esfuerzo excesivo o caídas.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915, Manual (Implícito en Numeral 4): "...y con máximo 20 grados de inclinación que facilite el [cargue/descargue]".
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915, Manual (Implícito en Numeral 4):] "...y con máximo #[b 20 grados de inclinación] que facilite el [cargue/descargue]".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto del manejo)") Separación de animales
-                td(data-label="Principio de ejecución y detalle") Se exige la separación física de los animales según criterios como especie, edad, tamaño y estado reproductivo, para evitar peleas y lesiones durante el transporte.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915, Manual (Numeral 4.c): "Separar por especie, edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos, animales que puedan ser hostiles con otros..."
+                td(data-label="Aspecto del manejo)") #[b Separación de animales]
+                td(data-label="Principio de ejecución y detalle") Se exige la #[b separación física] de los animales según criterios como especie, edad, tamaño y estado reproductivo, para evitar peleas y lesiones durante el transporte.
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915, Manual (Numeral 4.c):] "Separar por especie, edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos, animales que puedan ser hostiles con otros..."
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Teoría de movilización de animales en pie
@@ -132,13 +133,13 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Término") Transporte
+                td(data-label="Término") #[b Transporte]
                 td(data-label="Definición y alcance teórico") Es el traslado físico de un punto a otro utilizando un medio específico (vehículo, embarcación). Es la herramienta de la movilización.
-                td(data-label="Soporte documental (texto exacto)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2): "El transporte es el traslado de personas, animales o cosas de un punto a otro a través de un medio físico ...".
+                td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "El transporte es el traslado de personas, animales o cosas de un punto a otro a través de un medio físico ...".
               tr(data-aos="fade-right")
-                td(data-label="Término") Movilización
-                td(data-label="Definición y alcance teórico") Es la teoría o el concepto general que incluye todas las actividades desarrolladas para mover los animales, ya sea por sí mismos o mediante cualquier medio.
-                td(data-label="Soporte documental (texto exacto)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2): "...y para efectos de la resolución la movilización de animales en pie incluye todas aquellas actividades que se desarrollan para mover los animales, ya sea por sí mismo o por cualquier otro medio utilizado para trasladar a las especies".
+                td(data-label="Término") #[b Movilización]
+                td(data-label="Definición y alcance teórico") #[b Es la teoría o el concepto general] que incluye todas las actividades desarrolladas para mover los animales, ya sea por sí mismos o mediante cualquier medio.
+                td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "...y para efectos de la resolución la movilización de animales en pie incluye todas aquellas actividades que se desarrollan para mover los animales, ya sea por sí mismo o por cualquier otro medio utilizado para trasladar a las especies".
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Tipos de movilización regulada
@@ -156,20 +157,20 @@
               tr(data-aos="fade-right")
                 th Tipo de Movilización
                 th Descripción y aplicación
-                th Soporte Documental (Texto Exacto)
+                th Soporte Documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Tipo de Movilización") Movilización a pie de animales
+                td(data-label="Tipo de Movilización") #[b Movilización a pie de animales]
                 td(data-label="Descripción y aplicación") Cuando la movilización se realiza por sus propios medios (caminando) en vías públicas o privadas abiertas al público.
-                td(data-label="Soporte Documental (Texto Exacto)") Manual (Numeral 3.a): "Cuando los propietarios y/o remitentes realicen la movilización de animales a pie en vías públicas o privadas abiertas al público, deberán cumplir con las disposiciones contenidas en esta resolución...".
+                td(data-label="Soporte Documental (texto exacto)") #[b Manual (Numeral 3.a):] "Cuando los propietarios y/o remitentes realicen la #[b movilización de animales a pie en vías públicas o privadas] abiertas al público, deberán cumplir con las disposiciones contenidas en esta resolución...".
               tr(data-aos="fade-right")
-                td(data-label="Tipo de Movilización") Transporte fluvial de animales
+                td(data-label="Tipo de Movilización") #[b Transporte fluvial de animales]
                 td(data-label="Descripción y aplicación") Cuando se realiza el traslado en embarcaciones fluviales. El manual establece requisitos de compartimentos y capacidad de carga.
-                td(data-label="Soporte Documental (Texto Exacto)") Manual (Numeral 3.b): "Cuando se realice el transporte de los animales en embarcaciones fluviales, deberá cumplir con las disposiciones contenidas en esta resolución...".
+                td(data-label="Soporte Documental (texto exacto)") #[b Manual (Numeral 3.b):] "Cuando se realice el #[b transporte de los animales en embarcaciones fluviales], deberá cumplir con las disposiciones contenidas en esta resolución...".
               tr(data-aos="fade-right")
-                td(data-label="Tipo de Movilización") Transporte terrestre de animales
+                td(data-label="Tipo de Movilización") #[b Transporte terrestre de animales]
                 td(data-label="Descripción y aplicación") Cuando se realiza el traslado en vehículos automotores de carga (camiones, tractocamiones, etc.). Es el foco principal del manual.
-                td(data-label="Soporte Documental (Texto Exacto)") Manual (Numeral 3.c): "Cuando se realice el transporte de los animales en vehículo de transporte terrestre automotor de carga deberá cumplir con las disposiciones contenidas en esta resolución...".
+                td(data-label="Soporte Documental (texto exacto)") #[b Manual (Numeral 3.c):] "Cuando se realice el #[b transporte de los animales en vehículo de transporte terrestre automotor de carga] deberá cumplir con las disposiciones contenidas en esta resolución...".
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-right")
         p.mb-0 En síntesis, la teoría de la movilización abarca el marco legal y operacional que guía cómo mover los animales, mientras que el manejo se refiere a las técnicas y procedimientos específicos (calma, rampas a 20°, no ruidos) que se aplican durante el cargue y descargue para cumplir con el principio de bienestar animal durante cualquiera de los modos de movilización.
@@ -180,27 +181,28 @@
 
     p.mb-4(data-aos="fade-right") El manual se fundamenta en un marco legal superior que busca la protección animal, incluso al regular el transporte de animales de producción y reconoce a los animales como seres sintientes (no cosas), obligando a prevenir el dolor y el sufrimiento durante el transporte.
 
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 25.
-      i Regulaciones básicas
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-right")
-                th Regulación básica
-                th Descripción y alcance
-                th Soporte documental (texto exacto)
-            tbody
-              tr(data-aos="fade-right")
-                td(data-label="Regulación básica") Fundamento de competencia
-                td(data-label="Descripción y alcance") La resolución es expedida en uso de las facultades conferidas por leyes sanitarias (ICA) y de transporte (MT), incluyendo el Decreto 1500 de 2007 (reglamento técnico de inocuidad).
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915 (Vistos/Considerandos): menciona las facultades conferidas por los artículos 65 de la Ley 101 de 1993, 4 del Decreto 1500 de 2007, y otros Decretos del Sector Transporte.
-              tr(data-aos="fade-right")
-                td(data-label="Regulación básica") Principio de bienestar
-                td(data-label="Descripción y alcance") La Ley 1774 de 2016 (Estatuto Nacional de Protección) establece que los animales son seres sintientes. El manual adopta la definición de Bienestar Animal de la OIE (Organización Mundial de Sanidad Animal), centrada en el estado físico y mental.
-                td(data-label="Soporte documental (texto exacto)") Manual (Numeral 1. Definiciones): (Revisar la definición de bienestar animal).
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 25.
+        i Regulaciones básicas
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-right")
+                  th Regulación básica
+                  th Descripción y alcance
+                  th Soporte documental (texto exacto)
+              tbody
+                tr(data-aos="fade-right")
+                  td(data-label="Regulación básica") #[b Fundamento de competencia]
+                  td(data-label="Descripción y alcance") La resolución es expedida en uso de las facultades conferidas por leyes sanitarias (ICA) y de transporte (MT), incluyendo el Decreto 1500 de 2007 (reglamento técnico de inocuidad).
+                  td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Vistos/Considerandos):] menciona las facultades conferidas por los artículos #[b 65 de la Ley 101 de 1993, 4 del Decreto 1500 de 2007], y otros Decretos del Sector Transporte.
+                tr(data-aos="fade-right")
+                  td(data-label="Regulación básica") #[b Principio de bienestar]
+                  td(data-label="Descripción y alcance") La Ley 1774 de 2016 (Estatuto Nacional de Protección) establece que los animales son seres sintientes. El manual adopta la definición de Bienestar Animal de la OIE (Organización Mundial de Sanidad Animal), centrada en el estado físico y mental.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1. Definiciones):] (Revisar la definición de bienestar animal).
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -224,23 +226,23 @@
               tr(data-aos="fade-right")
                 td(data-label="Término") #[b Animal en pie]
                 td(data-label="Definición adoptada por el manual") Designa un individuo vivo de cualquier especie animal.
-                td(data-label="Soporte documental (texto exacto)") Manual (Numeral 1): "Animal en pie: Es un individuo vivo de cualquier especie animal".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1):] "Animal en pie: Es un #[b individuo vivo de cualquier especie animal]".
               tr(data-aos="fade-right")
                 td(data-label="Término") #[b Bienestar animal]
                 td(data-label="Definición adoptada por el manual") El estado físico y mental de un animal en relación con las condiciones en las que vive y muere.
-                td(data-label="Soporte documental (texto exacto)") Manual (Numeral 1): "Bienestar animal: Designa el estado físico y mental de un animal en relación con las condiciones en las que vive y muere".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1):] "Bienestar animal: Designa el #[b estado físico y mental de un animal] en relación con las condiciones en las que vive y muere".
               tr(data-aos="fade-right")
                 td(data-label="Término") #[b Capacidad de carga]
                 td(data-label="Definición adoptada por el manual") El máximo tonelaje autorizado en un vehículo automotor de carga, limitado por las normas del Ministerio de Transporte.
-                td(data-label="Soporte documental (texto exacto)") Manual (Numeral 1): "Capacidad de Carga: Es el máximo tonelaje autorizado en un vehículo automotor de carga, cuya tara y peso bruto vehicular no exceda los límites establecidos en las normas vigentes del Ministerio de Transporte".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1):] "Capacidad de Carga: Es el #[b máximo tonelaje autorizado] en un vehículo automotor de carga, cuya tara y peso bruto vehicular no exceda los límites establecidos en las normas vigentes del Ministerio de Transporte".
               tr(data-aos="fade-right")
                 td(data-label="Término") #[b Densidad de carga animal]
                 td(data-label="Definición adoptada por el manual") El número o peso corporal de los animales por unidad de área en el medio de transporte (foco en el espacio por animal).
-                td(data-label="Soporte documental (texto exacto)") Manual (Numeral 1 - Definiciones): "Densidad de carga animal: Número o peso corporal de los animales por unidad de área en el medio de transporte".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1 - Definiciones):] "Densidad de carga animal: #[b Número o peso corporal de los animales por unidad de área] en el medio de transporte".
               tr(data-aos="fade-right")
                 td(data-label="Término") #[b Carga de animales]
                 td(data-label="Definición adoptada por el manual") Corresponde al procedimiento por el que se cargan o embarcan los animales en las unidades de transporte.
-                td(data-label="Soporte documental (texto exacto)") Manual (Numeral 1): "Carga de animales: Corresponde al procedimiento por el que se cargan o embarcan los animales en las unidades de transporte".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1):] "Carga de animales: Corresponde al #[b procedimiento por el que se cargan o embarcan los animales] en las unidades de transporte".
 
 
     separador
@@ -364,7 +366,6 @@
               .col-lg-9.order-lg-1.order-2
                 p #[b Proceso:] consultar la licencia de tránsito del vehículo (registro RUNT) para verificar el máximo tonelaje autorizado (Capacidad de Carga).
                 p #[b Soporte documental (definición):] "Capacidad de carga: es el máximo tonelaje autorizado en un vehículo automotor de carga, cuya tara y peso bruto vehicular, no exceda los límites establecidos en las normas vigentes del Ministerio de Transporte. No podrá alterarse la capacidad de carga consignada en la licencia de tránsito". — Manual de Procedimientos, Numeral 1. Definiciones.
-                p Fórmula conceptual:
                 h5 Fórmula conceptual:
                 .tarjeta.color-secundarios.p-3
                   p.text-bold.text-center.mb-0 Peso Vivo\ (kg) = N° unidades x Peso Promedio por Animal
@@ -440,17 +441,17 @@
                 th Soportes documentales clave
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Norma regulatoria") Ley 1774 de 2016
-                td(data-label="Propósito y alcance") Estatuto Nacional de Protección Animal. Modifica el Código Civil para reconocer a los animales como seres sintientes y no cosas, sentando la base legal para que cualquier actividad (incluido el transporte) deba garantizar su bienestar y evitar el maltrato.
+                td(data-label="Norma regulatoria") #[b Ley 1774 de 2016]
+                td(data-label="Propósito y alcance") #[b Estatuto Nacional de Protección Animal]. Modifica el Código Civil para reconocer a los animales como #[b seres sintientes] y no cosas, sentando la base legal para que cualquier actividad (incluido el transporte) deba garantizar su bienestar y evitar el maltrato.
                 td(data-label="Soportes documentales clave") Referente legal externo al manual, pero fundamental.
               tr(data-aos="fade-right")
-                td(data-label="Norma regulatoria") Resolución 20223040006915 de 2022
-                td(data-label="Propósito y alcance") Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie. Es el documento técnico operativo que establece las reglas detalladas que deben seguir transportadores, conductores y propietarios para cumplir con el bienestar animal en todas las etapas del transporte terrestre y fluvial.
-                td(data-label="Soportes documentales clave") Resolución 20223040006915 (Art. 1, 2): adopta el manual para el transporte, manejo y movilización de especies de producción.
+                td(data-label="Norma regulatoria") #[b Resolución 20223040006915 de 2022]
+                td(data-label="Propósito y alcance") #[b Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie.] Es el documento técnico operativo que establece las reglas detalladas que deben seguir transportadores, conductores y propietarios para cumplir con el bienestar animal en todas las etapas del transporte terrestre y fluvial.
+                td(data-label="Soportes documentales clave") #[b Resolución 20223040006915 (Art. 1, 2):] adopta el manual para el transporte, manejo y movilización de especies de producción.
               tr(data-aos="fade-right")
-                td(data-label="Norma regulatoria") Resoluciones del MADR
+                td(data-label="Norma regulatoria") #[b Resoluciones del MADR]
                 td(data-label="Propósito y alcance") Normas específicas de bienestar animal por especie (bovina, porcina, aviar, etc.), las cuales el personal de transporte debe conocer.
-                td(data-label="Soportes documentales clave") Plan-capacitación (Numeral 1): menciona el cumplimiento de la normatividad expedida por el Ministerio de Agricultura y Desarrollo Rural (MADR) para cada especie.
+                td(data-label="Soportes documentales clave") #[b Plan-capacitación (Numeral 1):] menciona el cumplimiento de la normatividad expedida por el #[b Ministerio de Agricultura y Desarrollo Rural (MADR)] para cada especie.
 
     p.mb-4 #[b Normativo:] el marco legal se estructura jerárquicamente así:
     .row.mb-4
@@ -499,17 +500,17 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Principio") Prevención del sufrimiento
-                td(data-label="Aplicación en el transporte") Es la razón de ser de la norma. Se busca evitar el sufrimiento y dolor causado por hacinamiento, golpes, ayuno prolongado, estrés térmico o falta de ventilación.
-                td(data-label="Soporte documental (texto exacto)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2): "...se proveen condiciones sanitarias, fitosanitarias y de bienestar animal, evitando así, sufrimiento y dolor a los animales durante, el transporte...".
+                td(data-label="Principio") #[b Prevención del sufrimiento]
+                td(data-label="Aplicación en el transporte") Es la razón de ser de la norma. Se busca evitar el #[b sufrimiento y dolor] causado por hacinamiento, golpes, ayuno prolongado, estrés térmico o falta de ventilación.
+                td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "...se proveen condiciones sanitarias, fitosanitarias y de #[b bienestar animal, evitando así, sufrimiento y dolor] a los animales durante, el transporte...".
               tr(data-aos="fade-right")
-                td(data-label="Principio") Inocuidad y calidad
+                td(data-label="Principio") #[b Inocuidad y calidad]
                 td(data-label="Aplicación en el transporte") El bienestar del animal está ligado directamente a la calidad del producto final (carne). Un animal estresado o maltratado genera pérdidas y afecta la inocuidad.
-                td(data-label="Soporte documental (texto exacto)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2): "...mejorando en este sentido la calidad e inocuidad de la carne, en beneficio de los consumidores".
+                td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "...mejorando en este sentido la #[b calidad e inocuidad de la carne], en beneficio de los consumidores".
               tr(data-aos="fade-right")
-                td(data-label="Principio") Selección de Animales Aptos
-                td(data-label="Aplicación en el transporte") Principio de protección que exige seleccionar y no cargar animales que, por su condición, no puedan soportar el viaje sin sufrir.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Numeral 4.a): "exige observar y seleccionar para detectar animales no aptos para el transporte, tales como: i) Enfermos, lesionados o con prolapsos. ii) Aquellos que no puedan permanecer de pie sin ayuda".
+                td(data-label="Principio") #[b Selección de Animales Aptos]
+                td(data-label="Aplicación en el transporte") Principio de protección que exige #[b seleccionar y no cargar] animales que, por su condición, no puedan soportar el viaje sin sufrir.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Numeral 4.a):] "exige observar y seleccionar para detectar animales #[b no aptos para el transporte], tales como: i) Enfermos, lesionados o con prolapsos. ii) Aquellos que no puedan permanecer de pie sin ayuda".
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -533,23 +534,18 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema2/img17.svg', alt='Texto que describa la imagen')
-          .tarjeta.color-secundario.p-3(x="42.8%" y="80%" numero="+")            
-            h5 Libre de hambre y sed
-            p Suministro de agua y alimento o periodos de descanso programados para proveerlos, especialmente en viajes largos (cada 8 horas)
+          .tarjeta.color-secundario.p-3(x="42.8%" y="80%" numero="+")
+            p Suministro de agua y alimento o periodos de descanso programados para proveerlos, especialmente en viajes largos (cada 8 horas).
             p.mb-0 Se garantiza con un ayuno correcto (no excesivo) y con los periodos obligatorios de descanso, hidratación y alimentación en jornadas largas (Res. 20223040006915).
-          .tarjeta.color-secundario.p-3(x="30.5%" y="43.7%" numero="+")            
-            h5 Libre de incomodidad
+          .tarjeta.color-secundario.p-3(x="30.5%" y="43.7%" numero="+")
             p Uso de pisos antideslizantes, separación de animales hostiles y uso de cama si es necesario.
             p.mb-0 Se garantiza con vehículos adecuados (pisos antideslizantes, ventilación, techos).
-          .tarjeta.color-secundario.p-3(x="71.8%" y="19%" numero="+")            
-            h5 Libre para expresar comportamiento natural
+          .tarjeta.color-secundario.p-3(x="71.8%" y="19%" numero="+")
             p Garantía de densidad de carga suficiente (espacio para animales) que les permita levantarse, echarse y cambiar de postura.
             p.mb-0 Se garantiza con una densidad de carga correcta (que permita al menos echarse y pararse).
-          .tarjeta.color-secundario.p-3(x="25.5%" y="23%" numero="+")            
-            h5 Libre de dolor, lesiones y enfermedades
+          .tarjeta.color-secundario.p-3(x="25.5%" y="23%" numero="+")
             p.mb-0 Selección previa para excluir animales no aptos, manejo cuidadoso, diseño del vehículo sin salientes y aviones de contingencia para emergencias. 
-          .tarjeta.color-secundario.p-3(x="62%" y="75.8%" numero="+")            
-            h5 Libre de miedo y angustia
+          .tarjeta.color-secundario.p-3(x="62%" y="75.8%" numero="+")
             p Manejo silencioso y sin hostigamiento, uso de técnicas de manejo adecuadas y conocimiento del comportamiento animal por parte del personal.
             p.mb-0 Se garantiza con un manejo etológico (sin gritos, sin picaduras excesivas) y una conducción suave.
            
@@ -577,7 +573,7 @@
                   | Dolor, lesiones, enfermedades.
               li
                 i.fas.fa-horse-head
-                p.mb-0 #[b omportamiento]
+                p.mb-0 #[b Comportamiento]
                   br
                   | Expresión de comportamientos naturales.
               li
@@ -608,21 +604,21 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Término") Bienestar animal
-                td(data-label="Definición adoptada por el manual") El estado físico y mental de un animal en relación con las condiciones en las que vive y muere.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Núm. 1): "Designa el estado físico y mental de un animal en relación con las condiciones en las que vive y muere".
+                td(data-label="Término") #[b Bienestar animal]
+                td(data-label="Definición adoptada por el manual") El estado físico y mental de un animal en relación con las #[b condiciones en las que vive y muere].
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Núm. 1):] "Designa el estado físico y mental de un animal en relación con las condiciones en las que vive y muere".
               tr(data-aos="fade-right")
-                td(data-label="Término") Densidad de carga animal
-                td(data-label="Definición adoptada por el manual") El número o peso corporal de los animales por unidad de área en el medio de transporte. (Es la clave para prevenir el hacinamiento y el estrés por calor).
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 1): "Número o peso corporal de los animales por unidad de área en el medio de transporte".
+                td(data-label="Término") #[b Densidad de carga animal]
+                td(data-label="Definición adoptada por el manual") El #[b número o peso corporal de los animales por unidad de área] en el medio de transporte. (Es la clave para prevenir el hacinamiento y el estrés por calor).
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 1):] "Número o peso corporal de los animales por unidad de área en el medio de transporte".
               tr(data-aos="fade-right")
-                td(data-label="Término") No apto para el transporte
-                td(data-label="Definición adoptada por el manual") Animales con condiciones físicas o de salud que les causarían un sufrimiento injustificado al ser movilizados (ej. enfermos, lesionados o que no pueden estar de pie).
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.a): "Menciona las condiciones de animales que deben ser detectados como no aptos".
+                td(data-label="Término") #[b No apto para el transporte]
+                td(data-label="Definición adoptada por el manual") Animales con condiciones físicas o de salud que les causarían un #[b sufrimiento injustificado] al ser movilizados (ej. enfermos, lesionados o que no pueden estar de pie).
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.a):] "Menciona las condiciones de animales que deben ser detectados como no aptos".
               tr(data-aos="fade-right")
-                td(data-label="Término") Carga de animales
+                td(data-label="Término") #[b Carga de animales]
                 td(data-label="Definición adoptada por el manual") El procedimiento por el que se cargan o embarcan los animales en las unidades de transporte. (Debe hacerse con calma y sin hostigamiento).
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 1): "Corresponde al procedimiento por el que se cargan o embarcan los animales en las unidades de transporte".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 1):] "Corresponde al procedimiento por el que se cargan o embarcan los animales en las unidades de transporte".
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.3 Técnicas de conducción
@@ -656,21 +652,21 @@
                 th Soporte documental (regla general)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Principio de conducción") Aceleración y frenado suaves
-                td(data-label="Detalle de la técnica y objetivo") La conducción debe ser suave y estable. Se deben evitar los frenazos bruscos y las aceleraciones repentinas que desequilibren a los animales y provoquen caídas o choques contra las paredes del vehículo.
-                td(data-label="Soporte documental (regla general)") Manual de procedimiento (Implícito en Numeral 4): exige una conducción que evite el estrés y las lesiones, lo cual requiere maniobras controladas.
+                td(data-label="Principio de conducción") #[b Aceleración y frenado suaves]
+                td(data-label="Detalle de la técnica y objetivo") La conducción debe ser #[b suave y estable]. Se deben evitar los #[b frenazos bruscos] y las aceleraciones repentinas que desequilibren a los animales y provoquen caídas o choques contra las paredes del vehículo.
+                td(data-label="Soporte documental (regla general)") #[b Manual de procedimiento (Implícito en Numeral 4):] exige una conducción que #[b evite el estrés y las lesiones], lo cual requiere maniobras controladas.
               tr(data-aos="fade-right")
-                td(data-label="Principio de conducción") Velocidad moderada
-                td(data-label="Detalle de la técnica y objetivo") La velocidad debe ser apropiada para las condiciones de la vía, el tráfico y el clima, pero siempre moderada para reducir la inercia del movimiento de la carga viva.
-                td(data-label="Soporte documental (regla general)") Manual de procedimiento (Implícito en Numeral 4): se enfoca en garantizar la estabilidad del vehículo y la carga, lo cual se logra con velocidad controlada.
+                td(data-label="Principio de conducción") #[b Velocidad moderada]
+                td(data-label="Detalle de la técnica y objetivo") La velocidad debe ser apropiada para las condiciones de la vía, el tráfico y el clima, pero siempre #[b moderada] para reducir la inercia del movimiento de la carga viva.
+                td(data-label="Soporte documental (regla general)") #[b Manual de procedimiento (Implícito en Numeral 4):] se enfoca en garantizar la #[b estabilidad del vehículo y la carga], lo cual se logra con velocidad controlada.
               tr(data-aos="fade-right")
-                td(data-label="Principio de conducción") Trazado de curvas
-                td(data-label="Detalle de la técnica y objetivo") Las curvas y los giros deben tomarse a baja velocidad y de manera gradual para evitar que la fuerza centrífuga empuje a los animales contra las divisiones o los lados del vehículo.
-                td(data-label="Soporte documental (regla general)") Manual de procedimiento (Implícito en Numeral 4): las divisiones deben ser fuertes para resistir la presión, pero la conducción debe mitigar esta presión.
+                td(data-label="Principio de conducción") #[b Trazado de curvas]
+                td(data-label="Detalle de la técnica y objetivo") Las curvas y los giros deben tomarse a #[b baja velocidad y de manera gradual] para evitar que la fuerza centrífuga empuje a los animales contra las divisiones o los lados del vehículo.
+                td(data-label="Soporte documental (regla general)") #[b Manual de procedimiento (Implícito en Numeral 4):] las divisiones deben ser fuertes para resistir la presión, pero la conducción debe mitigar esta presión.
               tr(data-aos="fade-right")
-                td(data-label="Principio de conducción") Conducción anticipada
-                td(data-label="Detalle de la técnica y objetivo") Mantener una distancia de seguridad suficiente que permita al conductor anticipar el frenado y realizarlo de forma progresiva, minimizando la necesidad de frenadas de emergencia.
-                td(data-label="Soporte documental (regla general)") Manual de procedimiento (Implícito en Numeral 4): busca minimizar el riesgo de traumatismos o fracturas en los animales.
+                td(data-label="Principio de conducción") #[b Conducción anticipada]
+                td(data-label="Detalle de la técnica y objetivo") Mantener una distancia de seguridad suficiente que permita al conductor #[b anticipar el frenado] y realizarlo de forma progresiva, minimizando la necesidad de frenadas de emergencia.
+                td(data-label="Soporte documental (regla general)") #[b Manual de procedimiento (Implícito en Numeral 4):] busca #[b minimizar el riesgo de traumatismos] o fracturas en los animales.
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -678,37 +674,38 @@
       
     p.mb-4(data-aos="fade-right") Las técnicas de conducción también incluyen protocolos que regulan los tiempos de viaje y la necesidad de supervisión constante de la carga, destacándose de ello lo siguiente:
 
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 31.
-      i Protocolos en técnicas de conducción
-    .row.justify-content-center.align-items-center.mb-4 
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-right")
-                th Protocolo de viaje
-                th Exigencia y periodicidad
-                th Soporte documental (texto exacto)
-            tbody
-              tr(data-aos="fade-right")
-                td(data-label="Protocolo de viaje") Descanso obligatorio
-                td(data-label="Exigencia y periodicidad") El conductor debe descansar al menos ocho (8) horas después de un tiempo máximo de ocho (8) horas de conducción, para mantener el estado de alerta y evitar la fatiga que compromete la seguridad y el manejo suave.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Numeral 4.i): "El conductor o tripulante deberá descansar al menos ocho (8) horas, una vez haya conducido ocho (8) horas continuas".
-              tr(data-aos="fade-right")
-                td(data-label="Protocolo de viaje") Inspección en ruta
-                td(data-label="Exigencia y periodicidad") El conductor o tripulante debe realizar una inspección visual del vehículo y de los animales en movimiento (en paradas seguras) para detectar signos de estrés, caídas, lesiones o problemas de ventilación.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Numeral 4.g): "El conductor o tripulante deberá realizar la inspección de la unidad de transporte de animales y de los animales en movimiento, por lo menos cada cuatro (4) horas durante el viaje".
-              tr(data-aos="fade-right")
-                td(data-label="Protocolo de viaje") Atención a la ventilación
-                td(data-label="Exigencia y periodicidad") Si no se cuenta con ventilación mecánica, el conductor debe estar atento a las condiciones de microclima (temperatura y ventilación) para evitar el estrés térmico, ajustando la velocidad o buscando zonas de sombra si es necesario.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Numeral 4.f): exige contar con dispositivos para mantener la ventilación constante, asegurando una temperatura entre 5 °C y 30 °C.
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 31.
+        i Protocolos en técnicas de conducción
+      .row.justify-content-center.align-items-center.mb-4 
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-right")
+                  th Protocolo de viaje
+                  th Exigencia y periodicidad
+                  th Soporte documental (texto exacto)
+              tbody
+                tr(data-aos="fade-right")
+                  td(data-label="Protocolo de viaje") #[b Descanso obligatorio]
+                  td(data-label="Exigencia y periodicidad") El conductor debe #[b descansar al menos ocho (8) horas] después de un tiempo máximo de ocho #[b (8) horas de conducción], para mantener el estado de alerta y evitar la fatiga que compromete la seguridad y el manejo suave.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Numeral 4.i):] "El conductor o tripulante deberá #[b descansar al menos ocho (8) horas], una vez haya conducido #[b ocho (8) horas continuas]".
+                tr(data-aos="fade-right")
+                  td(data-label="Protocolo de viaje") #[b Inspección en ruta]
+                  td(data-label="Exigencia y periodicidad") El conductor o tripulante debe realizar una #[b inspección visual] del vehículo y de los animales en movimiento (en paradas seguras) para detectar signos de estrés, caídas, lesiones o problemas de ventilación.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Numeral 4.g):] "El conductor o tripulante deberá realizar la #[b inspección de la unidad de transporte] de animales y de los animales en movimiento, por lo menos cada #[b cuatro (4) horas] durante el viaje".
+                tr(data-aos="fade-right")
+                  td(data-label="Protocolo de viaje") #[b Atención a la ventilación]
+                  td(data-label="Exigencia y periodicidad") Si no se cuenta con ventilación mecánica, el conductor debe estar atento a las condiciones de microclima (temperatura y ventilación) para evitar el estrés térmico, ajustando la velocidad o buscando zonas de sombra si es necesario.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Numeral 4.f):] exige contar con dispositivos para mantener la #[b ventilación constante], asegurando una temperatura entre 5 °C y 30 °C.
       
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Técnicas de conducción en condiciones adversas
-
-    .row.justify-content-center
+    p.mb-4 El manual exige al conductor aplicar técnicas modificadas de manejo al encontrarse con situaciones que aumentan el riesgo de daño a los animales. Entre ellas se encuentran: 
+    .row.justify-content-center.mb-4
         .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
@@ -721,7 +718,7 @@
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
                 img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
                 .p-4
-                  h5 Clima extremo (lluvia/calor):
+                  h5 Clima extremo (lluvia/calor)
                   p Vehículos no motorizados halados por una unidad tractora. Existen de tipo:
                   ul.lista-ul
                     li
@@ -736,7 +733,7 @@
           img(src='@/assets/curso/temas/tema2/img21.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100(style="padding-top: 5px !important")
             .text-white.p-4
-              p.mb-0(style="margin-top: 42px;") La correcta implementación de este manual no solo previene sanciones, sino que además fortalece la sostenibilidad de la producción, mejora los indicadores productivos y responde a las crecientes exigencias de los mercados nacionales e internacionales en materia de bienestar y sanidad animal.
+              p.mb-0(style="margin-top: 42px;") Estas técnicas de conducción garantizan que el bienestar animal se mantenga durante el traslado, convirtiendo al conductor en un factor activo en la protección de la carga viva.
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.4 Tipos y técnicas de inspección de vehículos destinados al transporte de animales en pie
@@ -772,20 +769,20 @@
                 th Soportes documentales (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Tipo de inspección") Inspección previa al cargue
+                td(data-label="Tipo de inspección") #[b Inspección previa al cargue]
                 td(data-label="Responsable") Propietario, tenedor, poseedor, o quien esté delegado/autorice.
-                td(data-label="Momento de aplicación") Antes de cargar los animales, en la finca o punto de partida.
-                td(data-label="Soportes documentales (texto exacto)") Manual (Num. 4.a): exige "Actividades previas al cargue" donde el propietario debe observar y seleccionar los animales, para detectar animales no aptos para el transporte y realizar la limpieza del vehículo.
+                td(data-label="Momento de aplicación") #[b Antes] de cargar los animales, en la finca o punto de partida.
+                td(data-label="Soportes documentales (texto exacto)") #[b Manual (Num. 4.a):] exige "Actividades previas al cargue" donde el propietario debe #[b observar y seleccionar los animales, para detectar animales no aptos para el transporte] y realizar la limpieza del vehículo.
               tr(data-aos="fade-right")
-                td(data-label="Tipo de inspección") Inspección en ruta
+                td(data-label="Tipo de inspección") #[b Inspección en ruta]
                 td(data-label="Responsable") Conductor o tripulante.
-                td(data-label="Momento de aplicación") Durante el traslado, en paradas seguras y programadas.
-                td(data-label="Soportes documentales (texto exacto)") Manual (Núm. 4.g): "El conductor o tripulante deberá realizar la inspección de la unidad de transporte de animales y de los animales en movimiento, por lo menos cada cuatro (4) horas durante el viaje".
+                td(data-label="Momento de aplicación") #[b Durante] el traslado, en paradas seguras y programadas.
+                td(data-label="Soportes documentales (texto exacto)") #[b Manual (Núm. 4.g):] "El conductor o tripulante deberá realizar la #[b inspección de la unidad de transporte de animales] y de los animales en movimiento, por lo menos #[b cada cuatro (4) horas] durante el viaje".
               tr(data-aos="fade-right")
-                td(data-label="Tipo de inspección") Inspección y control oficial
+                td(data-label="Tipo de inspección") #[b Inspección y control oficial]
                 td(data-label="Responsable") Funcionarios del Instituto Colombiano Agropecuario (ICA) o autoridades de tránsito.
                 td(data-label="Momento de aplicación") En cualquier momento o punto de control a lo largo de la ruta de movilización.
-                td(data-label="Soportes documentales (texto exacto)") Resolución 20223040006915 (Art. 4, Parágrafo): "Las personas naturales y/o jurídicas... están en la obligación de permitir la inspección, vigilancia y control, por parte de los funcionarios del Instituto Colombiano Agropecuario - ICA, o quien este delega o autorice".
+                td(data-label="Soportes documentales (texto exacto)") #[b Resolución 20223040006915 (Art. 4, Parágrafo):] "Las personas naturales y/o jurídicas... están en la obligación de permitir la #[b inspección, vigilancia y control], por parte de los funcionarios del Instituto Colombiano Agropecuario - ICA, o quien este delega o autorice".
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -812,17 +809,17 @@
                         th Soporte documental (texto exacto)
                     tbody
                       tr
-                        td(data-label="Punto por inspeccionar") Estado general
-                        td(data-label="Técnica de verificación") Inspección visual para asegurar que el vehículo y los contenedores estén en estado adecuado.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Num. 2.2.ci): "Ser seguros y tener un adecuado estado ...".
+                        td(data-label="Punto por inspeccionar") #[b Estado general]
+                        td(data-label="Técnica de verificación") Inspección visual para asegurar que el vehículo y los contenedores estén en #[b estado adecuado].
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Num. 2.2.ci):] "Ser #[b seguros] y tener un #[b adecuado estado] ...".
                       tr
-                        td(data-label="Punto por inspeccionar") Materiales y bordes
-                        td(data-label="Técnica de verificación") Verificación de que el material sea resistente al impacto, con superficies lisas y bordes redondeados.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Núm. 2.2.ci): "...elaborados de materiales resistentes al impacto, de superficies lisas, con bordes redondeados ...".
+                        td(data-label="Punto por inspeccionar") #[b Materiales y bordes]
+                        td(data-label="Técnica de verificación") Verificación de que el material sea #[b resistente al impacto], con #[b superficies lisas y bordes redondeados].
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Núm. 2.2.ci):] "...elaborados de materiales #[b resistentes al impacto], de #[b superficies lisas, con bordes redondeados ...]".
                       tr
-                        td(data-label="Punto por inspeccionar") Techo y cubierta
+                        td(data-label="Punto por inspeccionar") #[b Techo y cubierta]
                         td(data-label="Técnica de verificación") Confirmar la existencia de una cubierta o techo para proteger a los animales de las condiciones climáticas extremas (sol directo, lluvia).
-                        td(data-label="Soporte documental (texto exacto)") Manual (Núm. 2.2.ci): "...deberán contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas".
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Núm. 2.2.ci):] "...deberán contar con #[b techo o cubierta] que proteja a los animales de las condiciones climáticas adversas".
                         
       .row(titulo="Inspección del piso y contención")
         .row.justify-content-center.align-items-center
@@ -842,21 +839,21 @@
                         th Soporte documental (texto exacto)
                     tbody
                       tr
-                        td(data-label="Punto por inspeccionar") Antideslizante
+                        td(data-label="Punto por inspeccionar") #[b Antideslizante]
                         td(data-label="Técnica de verificación") Revise que la superficie del piso ofrezca tracción para evitar que los animales resbalen y caigan.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Núm. 2.2.c.ii): "El piso deberá ser antideslizante ...".
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Núm. 2.2.c.ii):] "El piso deberá ser #[b antideslizante] ...".
                       tr
-                        td(data-label="Punto por inspeccionar") Estanqueidad (filtración)
-                        td(data-label="Técnica de verificación") Verifique que el piso cuente con un sistema que evite la filtración de heces y orina hacia la vía pública, conteniendo los desechos.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Núm. 2.2.c.ii): "...contar con un sistema que evite la filtración de orina y heces hacia la vía pública".
+                        td(data-label="Punto por inspeccionar") #[b Estanqueidad (filtración)]
+                        td(data-label="Técnica de verificación") Verifique que el piso cuente con un sistema que #[b evite la filtración] de heces y orina hacia la vía pública, conteniendo los desechos.
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Núm. 2.2.c.ii):] "...contar con un sistema que #[b evite la filtración] de orina y heces hacia la vía pública".
                       tr
-                        td(data-label="Punto por inspeccionar") Limpieza y desinfección
-                        td(data-label="Técnica de verificación") Previo al cargue, inspeccionar la limpieza del vehículo. Los materiales deben permitir el lavado y la desinfección.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Num. 2.2.ci): "...que permita su lavado y desinfección".
+                        td(data-label="Punto por inspeccionar") #[b Limpieza y desinfección]
+                        td(data-label="Técnica de verificación") Previo al cargue, inspeccionar la #[b limpieza] del vehículo. Los materiales deben permitir el #[b lavado y la desinfección].
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Num. 2.2.ci):] "...que permita su lavado y desinfección".
       .row(titulo="Inspección de condiciones de manejo (cargue y traslado)")
         .row.justify-content-center.align-items-center
           .col-lg-12
-            p.mb-4 Se revisan los elementos que afectan la densidad de carga y el confort durante el viaje. Se verifican los siguientes elementos:
+            p.mb-4 Se revisan los elementos que afectan la densidad de carga y el #[i confort] durante el viaje. Se verifican los siguientes elementos:
             .titulo-sexto.color-acento-contenido.offset-0(data-aos="fade-left")
               h5 Tabla 35.
               i Condiciones de manejo
@@ -871,21 +868,21 @@
                         th Soporte documental (texto exacto)
                     tbody
                       tr
-                        td(data-label="Punto por inspeccionar") Rampas de carga
+                        td(data-label="Punto por inspeccionar") #[b Rampas de carga]
                         td(data-label="Técnica de verificación") Hay que confirmar que la rampa esté libre de salientes, sea antideslizante y la inclinación no sea superior al máximo permitido.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Num. 4.a - Párrafo): deben ser "seguras... con pisos de superficies antideslizantes ... y con máximo 20 grados de inclinación que facilite el [cargue]."
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Num. 4.a - Párrafo):] deben ser "seguras... con #[b pisos de superficies antideslizantes] ... y con #[b máximo 20 grados de inclinación] que facilite el [cargue]."
                       tr
-                        td(data-label="Punto por inspeccionar") Sistemas de ventilación
+                        td(data-label="Punto por inspeccionar") #[b Sistemas de ventilación]
                         td(data-label="Técnica de verificación") Verifique la existencia de dispositivos (aberturas laterales, ventilación mecánica) para mantener el flujo de aire y la temperatura adecuada.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Num. 4.f): "Los vehículos deberán contar con un sistema para mantener la ventilación constante y asegurar la temperatura...".
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Num. 4.f):] "Los vehículos deberán contar con un sistema para mantener la #[b ventilación constante] y asegurar la temperatura...".
                       tr
-                        td(data-label="Punto por inspeccionar") Divisiones y separación
-                        td(data-label="Técnica de verificación") Inspeccionar la existencia y fortaleza de las divisiones para separar grupos (toros de vacas, animales con cuernos de sin cuernos, diferentes especies).
-                        td(data-label="Soporte documental (texto exacto)") Manual (Num. 2.2.c.iii): "Contar con divisiones o barreras fuertes que permitan la separación de los animales ...".
+                        td(data-label="Punto por inspeccionar") #[b Divisiones y separación]
+                        td(data-label="Técnica de verificación") Inspeccionar la existencia y #[b fortaleza] de las divisiones para separar grupos (toros de vacas, animales con cuernos de sin cuernos, diferentes especies).
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Num. 2.2.c.iii):] "Contar con #[b divisiones o barreras fuertes] que permitan la #[b separación de los animales] ...".
                       tr
-                        td(data-label="Punto por inspeccionar") Dispositivos de amarre
+                        td(data-label="Punto por inspeccionar") #[b Dispositivos de amarre]
                         td(data-label="Técnica de verificación") Si aplica a la especie (ej. equinos o bovinos individuales), revise el estado de los dispositivos de amarre y que sean de fácil liberación en caso de emergencia.
-                        td(data-label="Soporte documental (texto exacto)") Manual (Num. 2.2.c.iii - Implícito): asegurar que las sujeciones utilizadas no causen sufrimiento.
+                        td(data-label="Soporte documental (texto exacto)") #[b Manual (Num. 2.2.c.iii - Implícito):] asegurar que las sujeciones utilizadas no causen sufrimiento.
 
     separador
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -926,40 +923,41 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Requisito de bioseguridad") Materiales y desinfección
-                td(data-label="Detalle de la técnica y objetivo") Los materiales de la carrocería, incluidos los guacales o cajas, deben ser de superficies lisas y resistentes para permitir su lavado y desinfección de manera efectiva después de cada uso, evitando la acumulación de materia orgánica.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915 (Numeral 2.2.ci): "Ser seguros, tener un adecuado estado y elaborados de materiales resistentes al impacto, de superficies lisas, con bordes redondeados, que permitan su lavado y desinfección".
+                td(data-label="Requisito de bioseguridad") #[b Materiales y desinfección]
+                td(data-label="Detalle de la técnica y objetivo") Los materiales de la carrocería, incluidos los guacales o cajas, deben ser de #[b superficies lisas] y resistentes para permitir su #[b lavado y desinfección] de manera efectiva después de cada uso, evitando la acumulación de materia orgánica.
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Numeral 2.2.ci):] "Ser seguros, tener un adecuado estado y elaborados de materiales resistentes al impacto, de #[b superficies lisas], con bordes redondeados, que permitan su #[b lavado y desinfección]".
               tr(data-aos="fade-right")
-                td(data-label="Requisito de bioseguridad") Piso estanco
-                td(data-label="Detalle de la técnica y objetivo") El piso del vehículo debe ser antideslizante y contar con un sistema que garantice la estanqueidad; es decir, que evite la filtración de heces, orina y otros fluidos biológicos hacia la vía pública, conteniendo estos desechos dentro del vehículo.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915 (Numeral 2.2.c.ii): "El piso deberá ser antideslizante y contar con un sistema que evite la filtración de orina y heces hacia la vía pública".
+                td(data-label="Requisito de bioseguridad") #[b Piso estanco]
+                td(data-label="Detalle de la técnica y objetivo") El piso del vehículo debe ser #[b antideslizante] y contar con un sistema que garantice la #[b estanqueidad]; es decir, que #[b evite la filtración] de heces, orina y otros fluidos biológicos hacia la vía pública, conteniendo estos desechos dentro del vehículo.
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Numeral 2.2.c.ii):] "El piso deberá ser antideslizante y contar con un sistema que #[b evite la filtración de orina y heces] hacia la vía pública".
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Protocolos de bioseguridad operacional (limpieza y manejo)
       
     p.mb-4(data-aos="fade-right") Estos protocolos son las acciones que deben realizar el transportador y el conductor en cada etapa del proceso de movilización. Para su correcto accionar deben aplicar lo siguiente:
 
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 37.
-      i Protocolo operacional
-    .row.justify-content-center.align-items-center.mb-4 
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-right")
-                th Protocolo operacional
-                th Responsable y detalle de la acción
-                th Soporte documental (texto exacto)
-            tbody
-              tr(data-aos="fade-right")
-                td(data-label="Protocolo operacional") Limpieza previa al cargue
-                td(data-label="Responsable y detalle de la acción") La limpieza y desinfección del vehículo debe ser una actividad previa a la carga de los animales, para asegurar que no haya residuos biológicos de cargas anteriores que puedan transmitir enfermedades.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915 (Implícito en Numeral 4.a): la limpieza del vehículo es parte de las actividades previas al cargue (donde se selecciona el animal).
-              tr(data-aos="fade-right")
-                td(data-label="Protocolo operacional") Contención de cajas (aves)
-                td(data-label="Responsable y detalle de la acción") En el caso de especies avícolas transportadas en cajas (ej. pollitos de un día), estas deben ser seguras y estar dispuestas de manera que eviten su desplazamiento o volcamiento, lo cual evita la dispersión de desechos y fluidos en caso de accidente.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915 (Numeral 2.2.cv): "Estar fijados o dispuestos de manera tal, que se evite su desplazamiento y/o volcamiento".
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 37.
+        i Protocolo operacional
+      .row.justify-content-center.align-items-center.mb-4 
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-right")
+                  th Protocolo operacional
+                  th Responsable y detalle de la acción
+                  th Soporte documental (texto exacto)
+              tbody
+                tr(data-aos="fade-right")
+                  td(data-label="Protocolo operacional") #[b Limpieza previa al cargue]
+                  td(data-label="Responsable y detalle de la acción") La limpieza y desinfección del vehículo debe ser una #[b actividad previa a la carga] de los animales, para asegurar que no haya residuos biológicos de cargas anteriores que puedan transmitir enfermedades.
+                  td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Implícito en Numeral 4.a):] la limpieza del vehículo es parte de las #[b actividades previas al cargue] (donde se selecciona el animal).
+                tr(data-aos="fade-right")
+                  td(data-label="Protocolo operacional") #[b Contención de cajas (aves)]
+                  td(data-label="Responsable y detalle de la acción") En el caso de especies avícolas transportadas en cajas (ej. pollitos de un día), estas deben ser seguras y estar dispuestas de manera que #[b eviten su desplazamiento o volcamiento], lo cual evita la dispersión de desechos y fluidos en caso de accidente.
+                  td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Numeral 2.2.cv):] "Estar #[b fijados o dispuestos de manera tal, que se evite su desplazamiento y/o volcamiento]".
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -981,13 +979,13 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Contingencias bioseguras") Disposición de muertos o enfermos
-                td(data-label="Acciones requeridas") En caso de animales muertos o enfermos que deban ser sacrificados en ruta, el manual exige un protocolo que incluye la disposición de los animales muertos de formas bioseguras.
-                td(data-label="Soporte documental (texto exacto)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 6): "Las van desde la ayuda o atención inmediata al animal, informar a la oficina del Instituto Colombiano Agropecuario ICA más cercana, sacrificio y disposiciones de los animales muertos".
+                td(data-label="Contingencias bioseguras") #[b Disposición de muertos o enfermos]
+                td(data-label="Acciones requeridas") En caso de #[b animales muertos] o enfermos que deban ser sacrificados en ruta, el manual exige un protocolo que incluye la #[b disposición de los animales muertos] de formas bioseguras.
+                td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 6):] "Las van desde la ayuda o atención inmediata al animal, informar a la oficina del Instituto Colombiano Agropecuario ICA más cercana, #[b sacrificio y disposiciones de los animales muertos]".
               tr(data-aos="fade-right")
-                td(data-label="Contingencias bioseguras") Notificación a la autoridad
-                td(data-label="Acciones requeridas") La notificación inmediata al ICA es un protocolo de bioseguridad clave para el control oficial, permitiendo a la autoridad activar medidas sanitarias y de rastreo si es necesario.
-                td(data-label="Soporte documental (texto exacto)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 6): menciona la necesidad de informar a la oficina del Instituto Colombiano Agropecuario ICA más cercana en caso de animales enfermos o muertos.
+                td(data-label="Contingencias bioseguras") #[b Notificación a la autoridad]
+                td(data-label="Acciones requeridas") La notificación inmediata al #[b ICA] es un protocolo de bioseguridad clave para el control oficial, permitiendo a la autoridad activar medidas sanitarias y de rastreo si es necesario.
+                td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 6):] menciona la necesidad de #[b informar a la oficina del Instituto Colombiano Agropecuario ICA más cercana] en caso de animales enfermos o muertos.
 
     separador
     #t_2_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -1020,21 +1018,21 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Técnica/requisito") Diseño para la limpieza
-                td(data-label="Detalle y objetivo del procedimiento") La técnica principal de diseño es la de utilizar materiales de superficies lisas y bordes redondeados. Esto facilita el raspado y el lavado, ya que evita que la materia orgánica (heces, orina, sangre) se adhiera o se acumule en grietas y esquinas, que son focos de contaminación.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 2.2.ci): "...elaborados de materiales resistentes al impacto, de superficies lisas, con bordes redondeados, que permitan su lavado y desinfección".
+                td(data-label="Técnica/requisito") #[b Diseño para la limpieza]
+                td(data-label="Detalle y objetivo del procedimiento") La técnica principal de diseño es la de utilizar materiales de #[b superficies lisas y bordes redondeados]. Esto facilita el raspado y el lavado, ya que evita que la materia orgánica (heces, orina, sangre) se adhiera o se acumule en grietas y esquinas, que son focos de contaminación.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 2.2.ci):] "...elaborados de materiales resistentes al impacto, de #[b superficies lisas, con bordes redondeados], que permitan su #[b lavado y desinfección]".
               tr(data-aos="fade-right")
-                td(data-label="Técnica/requisito") Técnica de estanqueidad
-                td(data-label="Detalle y objetivo del procedimiento") El vehículo debe contar con un sistema para evitar la filtración de fluidos biológicos hacia la vía pública, lo que implica una técnica de contención total de los desechos durante el viaje. La limpieza posterior debe centrarse en el retiro seguro de estos desechos estancados.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 2.2.c.ii): "El piso deberá ser antideslizante y contar con un sistema que evite la filtración de orina y heces hacia la vía pública".
+                td(data-label="Técnica/requisito") #[b Técnica de estanqueidad]
+                td(data-label="Detalle y objetivo del procedimiento") El vehículo debe contar con un sistema para #[b evitar la filtración] de fluidos biológicos hacia la vía pública, lo que implica una técnica de #[b contención total] de los desechos durante el viaje. La limpieza posterior debe centrarse en el retiro seguro de estos desechos estancados.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 2.2.c.ii):] "El piso deberá ser antideslizante y contar con un sistema que #[b evite la filtración de orina y heces] hacia la vía pública".
               tr(data-aos="fade-right")
-                td(data-label="Técnica/requisito") Periodicidad de la bioseguridad
-                td(data-label="Detalle y objetivo del procedimiento") La técnica de bioseguridad exige que la limpieza y desinfección del vehículo se realice antes del transporte de los animales, para garantizar que la unidad esté libre de patógenos de la carga anterior (prevención de contaminación cruzada).
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Implícito en Numeral 4.a): la limpieza del vehículo es parte de las actividades previas al cargue (donde se selecciona el animal).
+                td(data-label="Técnica/requisito") #[b Periodicidad de la bioseguridad]
+                td(data-label="Detalle y objetivo del procedimiento") La técnica de bioseguridad exige que la limpieza y desinfección del vehículo se realice #[b antes del transporte] de los animales, para garantizar que la unidad esté libre de patógenos de la carga anterior (prevención de contaminación cruzada).
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Implícito en Numeral 4.a):] la limpieza del vehículo es parte de las #[b actividades previas al cargue] (donde se selecciona el animal).
               tr(data-aos="fade-right")
-                td(data-label="Técnica/requisito") Secado y ventilación (implícito)
-                td(data-label="Detalle y objetivo del procedimiento") Aunque no está textualmente detallada, una técnica crítica posterior al lavado y desinfección es el secado. Los vehículos deben contar con ventilación (Num. 4.f), lo cual facilita que las superficies queden secas antes del cargue, ya que la humedad residual puede neutralizar desinfectantes o favorecer el crecimiento bacteriano.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.f): exige sistemas para mantener la ventilación constante.
+                td(data-label="Técnica/requisito") #[b Secado y ventilación (implícito)]
+                td(data-label="Detalle y objetivo del procedimiento") Aunque no está textualmente detallada, una técnica crítica posterior al lavado y desinfección es el #[b secado]. Los vehículos deben contar con ventilación (Num. 4.f), lo cual facilita que las superficies queden secas antes del cargue, ya que la humedad residual puede neutralizar desinfectantes o favorecer el crecimiento bacteriano.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.f):] exige sistemas para mantener la #[b ventilación constante].
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Tipos de producto para aseo y desinfección
@@ -1144,13 +1142,13 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Entidad") Instituto Colombiano Agropecuario (ICA)
-                td(data-label="Rol de vigilancia y control") Autoridad sanitaria y fitosanitaria principal. Se encarga de la inspección y el control del cumplimiento de las condiciones de bienestar animal y los protocolos sanitarios durante la movilización.
-                td(data-label="Soporte documental (texto exacto)") Resolución 20223040006915 (Art. 4, Parágrafo): "Las personas naturales y/o jurídicas... están en la obligación de permitir la inspección vigilancia y control, por parte de los funcionarios del Instituto Colombiano Agropecuario - ICA, o quien este delegue o autorice".
+                td(data-label="Entidad") #[b Instituto Colombiano Agropecuario (ICA)]
+                td(data-label="Rol de vigilancia y control") #[b Autoridad sanitaria y fitosanitaria] principal. Se encarga de la inspección y el control del cumplimiento de las condiciones de #[b bienestar animal] y los #[b protocolos sanitarios] durante la movilización.
+                td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Art. 4, Parágrafo):] "Las personas naturales y/o jurídicas... están en la obligación de permitir la #[b inspección vigilancia y control], por parte de los funcionarios del #[b Instituto Colombiano Agropecuario - ICA], o quien este delegue o autorice".
               tr(data-aos="fade-right")
-                td(data-label="Entidad") Autoridades de Tránsito/MT
-                td(data-label="Rol de vigilancia y control") Autoridad de seguridad vial. Controlan el cumplimiento de la capacidad de carga (peso legal) y la tenencia del certificado de capacitación en bienestar animal.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 6): El certificado de curso "...podrá ser exigido por las autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA".
+                td(data-label="Entidad") #[b Autoridades de Tránsito/MT]
+                td(data-label="Rol de vigilancia y control") Autoridad de seguridad vial. Controlan el cumplimiento de la #[b capacidad de carga] (peso legal) y la tenencia del certificado de capacitación en bienestar animal.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 6):] El certificado de curso "...podrá ser exigido por las #[b autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA]".
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -1207,7 +1205,7 @@
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
             .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-              img(src='@/assets/curso/temas/tema2/img19.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img19_1.png', alt='Imagen decorativa')
               .p-4
                 h5 Protocolo de limpieza y desinfección
                 p Se verifica que el vehículo esté libre de residuos orgánicos de cargas anteriores y que el diseño estructural (superficies lisas, bordes redondeados) permita un aseo eficiente.
@@ -1215,7 +1213,7 @@
       .col-lg-5(data-aos="fade-right")
         .tarjeta-avatar(style="padding-top: 0px !important;").h-100            
             .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-              img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img20_1.png', alt='Imagen decorativa')
               .p-4
                 h5 Protocolo de contención
                 p Se revisa que el piso sea estanco para evitar que las excretas se filtren hacia la vía pública, previniendo la dispersión de patógenos.
@@ -1241,16 +1239,16 @@
                 th Consecuencia y control
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Clase de riesgo sanitario") Riesgo biológico (enfermedades)
-                td(data-label="Ejemplo de manifestación") Contaminación cruzada por vehículo sucio o movilización de un animal con enfermedad de control oficial sin notificación.
+                td(data-label="Clase de riesgo sanitario") #[b Riesgo biológico (enfermedades)]
+                td(data-label="Ejemplo de manifestación") Contaminación cruzada por #[b vehículo sucio] o movilización de un animal con #[b enfermedad de control oficial] sin notificación.
                 td(data-label="Consecuencia y control") La acción es la cuarentena o la disposición sanitaria del vehículo y la carga.
               tr(data-aos="fade-right")
-                td(data-label="Clase de riesgo sanitario") Riesgo físico (estructural/bienestar)
+                td(data-label="Clase de riesgo sanitario") #[b Riesgo físico (estructural/bienestar)]
                 td(data-label="Ejemplo de manifestación") Vehículo sin ventilación, hacinamiento (por alta densidad de carga) o lesiones que puedan llevar a la muerte del animal.
                 td(data-label="Consecuencia y control") El ICA puede exigir la descarga, la atención inmediata o la redistribución de la carga.
               tr(data-aos="fade-right")
-                td(data-label="Clase de riesgo sanitario") Riesgo ambiental
-                td(data-label="Ejemplo de manifestación") Filtración de excretas a la vía pública o fuentes de agua, lo que constituye un riesgo de contaminación hídrica y diseminación de patógenos.
+                td(data-label="Clase de riesgo sanitario") #[b Riesgo ambiental]
+                td(data-label="Ejemplo de manifestación") #[b Filtración de excretas] a la vía pública o fuentes de agua, lo que constituye un riesgo de contaminación hídrica y diseminación de patógenos.
                 td(data-label="Consecuencia y control") La medida es la corrección inmediata del sistema de contención.
 
     .titulo.mb-4(data-aos="fade-left")
@@ -1364,17 +1362,17 @@
                 th Soporte documental (texto exacto)
             tbody
               tr(data-aos="fade-right")
-                td(data-label="Aspecto") Obligación
+                td(data-label="Aspecto") #[b Obligación]
                 td(data-label="Detalle del requisito de cumplimiento") Toda persona que participe en el proceso logístico de transporte debe realizar y aprobar el curso.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 6): "Toda persona involucrada en el proceso de transporte de animales en pie deberá realizar un curso de capacitación en bienestar animal y portar el documento que certifique o conste que aprobó el curso...".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 6):] "Toda persona involucrada en el proceso de transporte de animales en pie deberá #[b realizar un curso de capacitación en bienestar animal] y portar el documento que certifique o conste que aprobó el curso...".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto") Sujetos obligados
+                td(data-label="Aspecto") #[b Sujetos obligados]
                 td(data-label="Detalle del requisito de cumplimiento") Aplica a transportadores, conductores, tripulantes y, en general, a cualquier persona natural o jurídica que intervenga en las diferentes etapas del manejo y cuidado de los animales durante el traslado.
-                td(data-label="Soporte documental (texto exacto)") Plan-capacitación (Alcance, Pág. 1): "...la capacitación está dirigida a toda persona natural y jurídica involucrada en las diferentes etapas del transporte".
+                td(data-label="Soporte documental (texto exacto)") #[b Plan-capacitación (Alcance, Pág. 1):] "...la capacitación está dirigida a toda persona natural y jurídica #[b involucrada en las diferentes etapas del transporte]".
               tr(data-aos="fade-right")
-                td(data-label="Aspecto") Exigibilidad
+                td(data-label="Aspecto") #[b Exigibilidad]
                 td(data-label="Detalle del requisito de cumplimiento") El documento que certifica la aprobación del curso debe ser portado en todo momento, ya que es exigible por las autoridades de control en ruta.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Núm. 6): "...el cual podrá ser exigido por las autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA".
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Núm. 6):] "...el cual podrá ser #[b exigido por las autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA]".
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')

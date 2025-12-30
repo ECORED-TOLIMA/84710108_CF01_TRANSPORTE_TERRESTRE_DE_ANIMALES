@@ -10,6 +10,7 @@
       .col-lg-10
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img1.png" alt="Imagen decorativa")
+        figcaption Fuente: Contexto ganadero (2017)
     
     p.mb-4(data-aos="fade-right") La interacción entre el ser humano y el animal es crítica en el transporte terrestre, ya que el manejo adecuado influye directamente en los niveles de estrés y, por ende, en el bienestar animal y la calidad de la carne (inocuidad). El manual de procedimientos exige que el personal tenga un conocimiento básico de etología (ciencia que estudia el comportamiento animal) y de sus sentidos.
     .titulo.mb-4(data-aos="fade-left")
@@ -105,16 +106,16 @@
             tbody
               tr(data-aos="fade-right")
                 td(data-label="Sentido") #[b Vista (visión panorámica)]
-                td(data-label="Importancia para el manejo y transporte") Los bovinos y otras especies tienen visión binocular limitada y una visión panorámica amplia. Esto significa que son muy sensibles a los movimientos laterales y a los contrastes de luz y sombra (manchas en el piso o rampas).
+                td(data-label="Importancia para el manejo y transporte") Los bovinos y otras especies tienen #[b visión binocular limitada] y una #[b visión panorámica] amplia. Esto significa que son muy sensibles a los movimientos laterales y a los #[b contrastes de luz y sombra] (manchas en el piso o rampas).
               tr(data-aos="fade-right")
                 td(data-label="Sentido") #[b Oído (sensibilidad al sonido)]
-                td(data-label="Importancia para el manejo y transporte") Los animales tienen un rango auditivo más sensible que el humano. El ruido, los gritos o los silbidos fuertes (ej. de motores o frenos) actúan como un gran estresor y deben evitarse.
+                td(data-label="Importancia para el manejo y transporte") Los animales tienen un rango auditivo más sensible que el humano. El #[b ruido, los gritos o los silbidos fuertes] (ej. de motores o frenos) actúan como un gran estresor y deben #[b evitarse].
               tr(data-aos="fade-right")
                 td(data-label="Sentido") #[b Olfato]
-                td(data-label="Importancia para el manejo y transporte") Aunque no es tan dominante en el manejo, los animales detectan el olor de la sangre o de otros animales estresados o muertos, lo que puede incrementar rápidamente el nivel de pánico en todo el grupo.
+                td(data-label="Importancia para el manejo y transporte") Aunque no es tan dominante en el manejo, los animales detectan el #[b olor de la sangre o de otros animales estresados] o muertos, lo que puede incrementar rápidamente el nivel de pánico en todo el grupo.
               tr(data-aos="fade-right")
                 td(data-label="Sentido") #[b Tacto]
-                td(data-label="Importancia para el manejo y transporte") La sensibilidad táctil influye en el uso de los implementos de manejo (banderas, paletas o bastones). Estos deben usarse solo como extensión del brazo, tocando la zona de impulso del animal, y nunca como elemento de castigo.
+                td(data-label="Importancia para el manejo y transporte") La sensibilidad táctil influye en el uso de los #[b implementos de manejo] (banderas, paletas o bastones). Estos deben usarse solo como #[b extensión del brazo], tocando la zona de impulso del animal, y #[b nunca como elemento de castigo].
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Manejo etológico: etapas del transporte que lo requieren 
@@ -124,24 +125,24 @@
       .tarjeta.tarjeta--FBG01.p-4.my-4(data-aos="fade-left")
         PasosB.color-acento-botones
           .row
-            .col-lg-5.order-2.order-lg-1
+            .col-lg-7.order-2.order-lg-1
               h5 Cargue y descargue
-              p.mb-0 Es la fase de mayor riesgo de lesión. El manejo etológico exige el uso de rampas con baja inclinación (máximo 20°) y superficies antideslizantes, moviendo a los animales en grupos pequeños o individualmente con calma, sin el uso de elementos que generen dolor o temor.
-            .col-lg-7.col-10.order-1.order-lg-2.mb-4
+              p.mb-0 Es la fase de mayor riesgo de lesión. El manejo etológico exige el uso de #[b rampas con baja inclinación] (máximo 20°) y superficies antideslizantes, moviendo a los animales en #[b grupos pequeños] o individualmente con #[b calma], sin el uso de elementos que generen dolor o temor.
+            .col-lg-5.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img7.png', alt='Imagen decorativa')
           .row
-            .col-lg-5.order-2.order-lg-1
+            .col-lg-7.order-2.order-lg-1
               h5 Movimiento en ruta
-              p.mb-0 El conductor debe aplicar técnicas de conducción suave (frenado y aceleración progresiva) para contrarrestar la inercia y evitar que el animal pierda el equilibrio, lo que activa el miedo y el instinto de defensa.
-            .col-lg-7.col-10.order-1.order-lg-2.mb-4
+              p.mb-0 El conductor debe aplicar técnicas de #[b conducción suave] (frenado y aceleración progresiva) para contrarrestar la inercia y evitar que el animal pierda el equilibrio, lo que activa el miedo y el instinto de defensa.
+            .col-lg-5.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
           .row
-            .col-lg-5.order-2.order-lg-1
+            .col-lg-7.order-2.order-lg-1
               h5 Separación y densidad
-              p.mb-0 El manejo exige la separación por grupos (toros, vacas, animales con cuernos) y el respeto a la densidad de carga para permitir al animal un comportamiento natural básico (levantarse o acostarse) y reducir el conflicto social dentro del vehículo.
-            .col-lg-7.col-10.order-1.order-lg-2.mb-4
+              p.mb-0 El manejo exige la #[b separación por grupos] (toros, vacas, animales con cuernos) y el respeto a la #[b densidad de carga] para permitir al animal un comportamiento natural básico (levantarse o acostarse) y reducir el conflicto social dentro del vehículo.
+            .col-lg-5.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img9.png', alt='Imagen decorativa')
 
@@ -166,7 +167,7 @@
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="Imagen decorativa")
       .col-lg-11
-        p.mb-0(data-aos="fade-right") La #[b seguridad sanitaria] animal (también referida en la documentación como condiciones sanitarias y fitosanitarias) en el transporte terrestre es el conjunto de y protocolos destinados a prevenir la transmisión y dispersión de enfermedades durante la movilización, protegiendo tanto la salud de los animales como la inocuidad de los productos finales de consumo humano.
+        p.mb-0(data-aos="fade-right") La #[b seguridad sanitaria] animal (también referida en la documentación como condiciones sanitarias y fitosanitarias) en el transporte terrestre es el conjunto de protocolos destinados a prevenir la transmisión y dispersión de enfermedades durante la movilización, protegiendo tanto la salud de los animales como la inocuidad de los productos finales de consumo humano.
     
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -213,9 +214,6 @@
               h5.text-center(style="margin-top: 42px;") Soporte documental (ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie, Pág. 2)
               p.text-center.mb-0 "...se proveen condiciones sanitarias, fitosanitarias y de bienestar animal, evitando así, sufrimiento y dolor a los animales durante... mejorando en este sentido la calidad e inocuidad de la carne, en beneficio de los consumidores".
 
-
-
-
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.2 Sanidad y salud animal (rangos de temperatura)
@@ -227,25 +225,36 @@
 
     p.mb-4(data-aos="fade-right") El control de la temperatura es una medida esencial para evitar el estrés térmico, el cual compromete la salud y el bienestar de los animales durante el viaje. Al respecto se debe tener en cuenta:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-      .row(titulo="Rango de temperatura permitido")
-        .col-lg-6.mb-4.mb-md-0
-          p.mb-0 Si el vehículo de transporte no cuenta con ventilación mecánica, deben procurarse las medidas necesarias para que la temperatura dentro del vehículo se mantenga comprendida entre 5 °C y 30 °C.
-        .col-lg-6
+    .row.justify-content-center.mb-4(style="margin-top:4.5rem;")
+      .col-lg-8.position-relative
+        .avatar
           figure
-            img(src='@/assets/curso/temas/tema3/img16.png', alt='Texto que describa la imagen')
-      .row(titulo="Aplicación específica")
-        .col-lg-6.mb-4.mb-md-0
-          p.mb-0 Esta disposición se menciona en el contexto de los requisitos técnicos para la especie porcina en camiones con ventilación natural, indicando la altura mínima de 90 cm, necesario para una correcta ventilación. Sin embargo, el principio es aplicable a todas las especies.
-        .col-lg-6
-          figure
-            img(src='@/assets/curso/temas/tema3/img17.png', alt='Texto que describa la imagen')
-      .row(titulo="Propósito")
-        .col-lg-6.mb-4.mb-md-0
-          p.mb-0 La ventilación constante y el control de la temperatura garantizan que los animales no sufran de hipertermia (calor excesivo) o hipotermia (frío excesivo), las cuales debilitan su sistema inmune y aumentan el riesgo de enfermedad y muerte.
-        .col-lg-6
-          figure
-            img(src='@/assets/curso/temas/tema3/img18.png', alt='Texto que describa la imagen')
+            img(src="@/assets/curso/temas/tema3/conectada_01.svg", alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/conectada_02.svg", alt="alt").img100
+            .col
+              h5 Rango de temperatura permitido
+              p Si el vehículo de transporte no cuenta con ventilación mecánica, deben procurarse las medidas necesarias para que la temperatura dentro del vehículo se mantenga comprendida entre 5 °C y 30 °C.
+        .crd.crd--avatarHorizontal.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/conectada_02.svg", alt="alt").img100
+            .col
+              h5 Aplicación específica
+              p Esta disposición se menciona en el contexto de los requisitos técnicos para la especie porcina en camiones con ventilación natural, indicando la altura mínima de 90 cm, necesario para una correcta ventilación. Sin embargo, el principio es aplicable a todas las especies.
+        .crd.crd--avatarHorizontal.crd--last.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/conectada_03.svg", alt="alt").img100
+            .col
+              h5 Propósito
+              p La ventilación constante y el control de la temperatura garantizan que los animales no sufran de hipertermia (calor excesivo) o hipotermia (frío excesivo), las cuales debilitan su sistema inmune y aumentan el riesgo de enfermedad y muerte.
+
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -255,7 +264,7 @@
 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 44.
-      i Animales excluidos
+      i Medidas de seguridad sanitaria
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-10
         .tabla-a.color-acento-contenido.table-wrapper
@@ -268,20 +277,20 @@
             tbody
               tr(data-aos="fade-right")
                 td(data-label="Medida de seguridad sanitaria") #[b Desinfección obligatoria]
-                td(data-label="Detalle y objetivo") Se requiere la aplicación de procedimientos, después de una limpieza completa, para controlar los agentes infecciosos o parasitarios responsables de enfermedades animales, incluidas las zoonosis. Aplicación a los locales, vehículos y objetos contaminados.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 1. Desinfección): "Aplicación, después de una limpieza completa, de procedimientos destinados a controlar los agentes infecciosos o parasitarios responsables de enfermedades animales, incluidas las zoonosis".
+                td(data-label="Detalle y objetivo") Se requiere la aplicación de procedimientos, después de una limpieza completa, para #[b controlar los agentes infecciosos o parasitarios] responsables de enfermedades animales, incluidas las zoonosis. Aplicación a los locales, vehículos y objetos contaminados.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 1. Desinfección):] "Aplicación, después de una limpieza completa, de procedimientos destinados a #[b controlar los agentes infecciosos o parasitarios responsables de enfermedades animales], incluidas las zoonosis".
               tr(data-aos="fade-right")
                 td(data-label="Medida de seguridad sanitaria") #[b Limpieza de materia orgánica]
-                td(data-label="Detalle y objetivo") La limpieza es la remoción de la materia orgánica e inorgánica visible (heces, orina, barro) en las superficies, realizada generalmente con agua y detergente. Es un paso previo obligatorio para que la desinfección sea efectiva.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 1. Limpieza): "Es la remoción de la materia orgánica e inorgánica visible presente en las superficies, realizada generalmente con agua y detergente".
+                td(data-label="Detalle y objetivo") La limpieza es la #[b remoción de la materia orgánica e inorgánica visible] (heces, orina, barro) en las superficies, realizada generalmente con agua y detergente. Es un paso previo obligatorio para que la desinfección sea efectiva.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 1. Limpieza):] "Es la #[b remoción de la materia orgánica e inorgánica visible] presente en las superficies, realizada generalmente con agua y detergente".
               tr(data-aos="fade-right")
                 td(data-label="Medida de seguridad sanitaria") #[b Piso estanco]
-                td(data-label="Detalle y objetivo") El piso debe ser de material antideslizante y, principalmente, contar con un sistema que minimice o evite la filtración de materia fecal u orina hacia la vía pública, conteniendo los desechos biológicos que pueden diseminar patógenos.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 2.2.c.ii): "El piso deberá ser antideslizante y contar con un sistema que minimice la salida de materia fecal u orina".
+                td(data-label="Detalle y objetivo") El piso debe ser de material antideslizante y, principalmente, contar con un sistema que #[b minimice o evite la filtración de materia fecal u orina] hacia la vía pública, conteniendo los desechos biológicos que pueden diseminar patógenos.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 2.2.c.ii):] "El piso deberá ser antideslizante y contar con un sistema que #[b minimice la salida de materia fecal u orina]".
               tr(data-aos="fade-right")
                 td(data-label="Medida de seguridad sanitaria") #[b Requisitos de materiales]
-                td(data-label="Detalle y objetivo") Las unidades de transporte deben ser elaboradas con materiales de superficies lisas que faciliten la limpieza y desinfección.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 2.2.ci): "...elaboradas de materiales que facilitan la limpieza y desinfección, seguras y lisas..."
+                td(data-label="Detalle y objetivo") Las unidades de transporte deben ser elaboradas con materiales de #[b superficies lisas] que faciliten la limpieza y desinfección.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 2.2.ci):] "...elaboradas de materiales que #[b facilitan la limpieza y desinfección], seguras y lisas..."
     
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -299,14 +308,11 @@
             figure
               img(src='@/assets/curso/temas/tema3/img19.svg', alt='Texto que describa la imagen')
           .tarjeta.color-secundario.p-3(x="50%" y="42%" numero="+")            
-            h5 Autoridad de control
             p.mb-0 El Instituto Colombiano Agropecuario (ICA) o quien este delegue o autorice, es la autoridad competente para supervisar el cumplimiento de estas disposiciones.
           .tarjeta.color-secundario.p-3(x="39%" y="84%" numero="+")            
-            h5 Objetivo superior
             p.mb-0  Al adoptar estas medidas se busca proteger la salud de las personas, los animales y las plantas, y asegurar las condiciones del comercio, contribuyendo a la inocuidad de sus productos en la producción primaria.
             
           .tarjeta.color-secundario.p-3(x="61.5%" y="84%" numero="+")            
-            h5 Carácter de los funcionarios
             p.mb-0  Los funcionarios del ICA que realizan estas funciones de inspección, vigilancia y control, tienen el carácter de inspectores de policía sanitaria.
 
 
@@ -439,16 +445,16 @@
             tbody
               tr(data-aos="fade-right")
                 td(data-label="Criterio de exclusión") #[b Salud y lesiones]
-                td(data-label="Descripción detallada") Animales que presentan signos evidentes de enfermedad, lesiones o prolapsos (rectal, vaginal o uterino).
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.ai): "Observar y seleccionar los animales, para detectar animales no aptos para el transporte, cuentos como: animales enfermos, lesionados o con prolapsos (rectal, vaginal o uterino)".
+                td(data-label="Descripción detallada") Animales que presentan signos evidentes de #[b enfermedad, lesiones o prolapsos] (rectal, vaginal o uterino).
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.ai):] "Observar y seleccionar los animales, para detectar animales no aptos para el transporte, cuentos como: #[b animales enfermos, lesionados o con prolapsos] (rectal, vaginal o uterino)".
               tr(data-aos="fade-right")
                 td(data-label="Criterio de exclusión") #[b Movilidad (equilibrio)]
-                td(data-label="Descripción detallada") Animales que no puedan permanecer en la posición de estación de equilibrio estático animal sin ayuda (es decir, que no puedan mantenerse de pie o caminar por sí mismos).
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.ai): "Animales que no puedan permanecer en la posición de estación de equilibrio estático animal sin ayuda".
+                td(data-label="Descripción detallada") Animales que #[b no puedan permanecer en la posición de estación de equilibrio estático animal sin ayuda] (es decir, que no puedan mantenerse de pie o caminar por sí mismos).
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.ai):] "Animales que #[b no puedan permanecer en la posición de estación de equilibrio estático animal sin ayuda]".
               tr(data-aos="fade-right")
                 td(data-label="Criterio de exclusión") #[b Estado reproductivo]
-                td(data-label="Descripción detallada") Hembras próximas al parto (en el último tercio de gestación) o aquellas que hayan parido siete (7) días antes de la fecha del embarque.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.ai): "Hembras próximas al parto (último tercio de gestación) o que hayan parido siete (7) días antes de la fecha del embarque".
+                td(data-label="Descripción detallada") #[b Hembras próximas al parto] (en el #[b último tercio de gestación]) o aquellas que hayan parido #[b siete (7) días antes] de la fecha del embarque.
+                td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.ai):] "#[b Hembras próximas al parto] (último tercio de gestación) o que hayan parido #[b siete (7) días antes] de la fecha del embarque".
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Técnicas de manejo para animales condicionalmente aptos
@@ -512,7 +518,7 @@
                 .tarjeta.tarjeta--verde
                   .p-4
                     h5 Soporte documental (texto exacto)
-                    p.mb-0 Manual de procedimiento (Num. 1. Definiciones): la definición no está listada en el glosario principal, pero el término es el criterio de exclusión principal en el numeral 4.ai
+                    p.mb-0 Manual de procedimiento (Num. 1. Definiciones): la definición no está listada en el glosario principal, pero el término es el criterio de exclusión principal en el numeral 4
             
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
@@ -562,15 +568,15 @@
             tbody
               tr(data-aos="fade-right")
                 td(data-label="Requisito") #[b Punto de selección]
-                td(data-label="Propósito y función") Es la instalación donde el propietario realiza la observación y selección para detectar animales no aptos para el transporte, como enfermos, lesionados o hembras en el último tercio de gestación.
-                td(data-label="Soporte documental (base)") Manual de procedimiento (Num. 4.a): exige la observación y selección en las "Actividades previas al cargue".
+                td(data-label="Propósito y función") Es la instalación donde el propietario realiza la #[b observación y selección] para #[b detectar animales no aptos] para el transporte, como enfermos, lesionados o hembras en el último tercio de gestación.
+                td(data-label="Soporte documental (base)") #[b Manual de procedimiento (Num. 4.a):] exige la observación y selección en las "Actividades previas al cargue".
               tr(data-aos="fade-right")
                 td(data-label="Requisito") #[b Cumplimiento de bienestar]
-                td(data-label="Propósito y función") La instalación debe cumplir con las condiciones de bienestar animal propias de la especie (porcina, bovina, aviar, etc.) establecidas por el Ministerio de Agricultura y Desarrollo Rural (MADR), siendo la base sanitaria y de manejo.
-                td(data-label="Soporte documental (base)") Plan-capacitación (Alcance, Pág. 1): menciona el cumplimiento de la normatividad expedida por el MADR sobre bienestar animal en la producción primaria pecuaria.
+                td(data-label="Propósito y función") La instalación debe cumplir con las #[b condiciones de bienestar animal] propias de la especie (porcina, bovina, aviar, etc.) establecidas por el Ministerio de Agricultura y Desarrollo Rural (MADR), siendo la base sanitaria y de manejo.
+                td(data-label="Soporte documental (base)") #[b Plan-capacitación (Alcance, Pág. 1):] menciona el cumplimiento de la normatividad expedida por el #[b MADR] sobre bienestar animal en la producción primaria pecuaria.
               tr(data-aos="fade-right")
                 td(data-label="Requisito") #[b Control sanitario]
-                td(data-label="Propósito y función") Es la instalación donde el ICA puede realizar el control sanitario inicial y expedir la Guía Sanitaria de Movilización (GSM).
+                td(data-label="Propósito y función") Es la instalación donde el ICA puede realizar el control sanitario inicial y expedir la #[b Guía Sanitaria de Movilización (GSM)].
                 td(data-label="Soporte documental (base)") (Implícito en la función de control del ICA).
 
     .titulo.mb-4(data-aos="fade-left")
@@ -582,33 +588,34 @@
     .titulo2.mb-4(data-aos="fade-left")
       h5.mb-0 A.	Rampa de cargue/descargue (técnica de la instalación)
 
-    p.mb-4(data-aos="fade-right") La rampa es la interfaz clave entre el corral (instalación) y el vehículo, teniendo estos aspectos:
+    p.mb-4(data-aos="fade-right") La rampa es la interfaz clave entre el corral (instalación) y el vehículo, teniendo en cuenta estos aspectos:
 
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 47.
-      i Requisitos de la rampa
-    .row.justify-content-center.align-items-center.mb-4 
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-right")
-                th Requisito de la rampa
-                th Detalle de la instalación
-                th Soporte documental (texto exacto)
-            tbody
-              tr(data-aos="fade-right")
-                td(data-label="Requisito de la rampa") #[b Inclinación controlada]
-                td(data-label="Detalle de la instalación") Debe tener una inclinación máxima de 20 grados para permitir que los animales caminen sin esfuerzo excesivo y evitar caídas.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.a): menciona la rampa con "...máximo 20 grados de inclinación que facilite el [cargue/descargue]".
-              tr(data-aos="fade-right")
-                td(data-label="Requisito de la rampa") #[b Seguridad de superficie]
-                td(data-label="Detalle de la instalación") Debe ser antideslizante, sin salientes puntiagudas, hoyos u orificios, asegurando que no haya riesgo de lesiones o fracturas.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.a): exige rampas "...con pisos de superficies antideslizantes ..." y "sin salientes puntiagudas, hoyos y orificios".
-              tr(data-aos="fade-right")
-                td(data-label="Requisito de la rampa") #[b Adecuación de Altura]
-                td(data-label="Detalle de la instalación") Debe estar colocado al nivel del vehículo para que el animal no tenga que dar un paso brusco o saltar al entrar o salir.
-                td(data-label="Soporte documental (texto exacto)") Manual de procedimiento (Num. 4.a): exige el uso de rampas "...a través de rampas o plataformas...".
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 47.
+        i Requisitos de la rampa
+      .row.justify-content-center.align-items-center.mb-4 
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-right")
+                  th Requisito de la rampa
+                  th Detalle de la instalación
+                  th Soporte documental (texto exacto)
+              tbody
+                tr(data-aos="fade-right")
+                  td(data-label="Requisito de la rampa") #[b Inclinación controlada]
+                  td(data-label="Detalle de la instalación") Debe tener una #[b inclinación máxima de 20 grados] para permitir que los animales caminen sin esfuerzo excesivo y evitar caídas.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.a):] menciona la rampa con "...máximo #[b 20 grados de inclinación] que facilite el [cargue/descargue]".
+                tr(data-aos="fade-right")
+                  td(data-label="Requisito de la rampa") #[b Seguridad de la superficie]
+                  td(data-label="Detalle de la instalación") Debe ser #[b antideslizante], sin salientes puntiagudas, hoyos u orificios, asegurando que no haya riesgo de lesiones o fracturas.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.a):] exige rampas "...con #[b pisos de superficies antideslizantes] ..." y "sin salientes puntiagudas, hoyos y orificios".
+                tr(data-aos="fade-right")
+                  td(data-label="Requisito de la rampa") #[b Adecuación de la Altura]
+                  td(data-label="Detalle de la instalación") Debe estar colocado al #[b nivel del vehículo] para que el animal no tenga que dar un paso brusco o saltar al entrar o salir.
+                  td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.a):] exige el uso de rampas "...a través de rampas o plataformas...".
 
     .titulo2.mb-4(data-aos="fade-left")
       h5.mb-0 B.	Corrales y mangas (técnicas de manejo)
@@ -674,16 +681,16 @@
             tbody(data-aos="fade-right")
               tr
                 td(data-label="Instalación / servicio") #[b Lugar de limpieza/desinfección]
-                td(data-label="Requisito de la instalación") Aunque el manual se centra en que el vehículo debe permitir el lavado, la instalación debe contar con la infraestructura (presión de agua, desagües controlados, área adecuada) para realizar la limpieza y desinfección efectiva del transporte antes de la carga.
-                td(data-label="Soporte documental (base)") Manual de procedimiento (Num. 2.2.ci): exige un vehículo que "permita su lavado y desinfección".
+                td(data-label="Requisito de la instalación") Aunque el manual se centra en que el #[b vehículo] debe permitir el lavado, la instalación debe contar con la infraestructura (presión de agua, desagües controlados, área adecuada) para realizar la #[b limpieza y desinfección] efectiva del transporte antes de la carga.
+                td(data-label="Soporte documental (base)") #[b Manual de procedimiento (Num. 2.2.ci):] exige un vehículo que "permita su #[b lavado y desinfección]".
               tr
                 td(data-label="Instalación / servicio") #[b Lugar de descanso]
-                td(data-label="Requisito de la instalación") En viajes prolongados, se requiere un lugar de descanso de los animales que permita realizar actividades de inspección, acomodación, hidratación o alimentación de la carga viva. Estos lugares deben cumplir con los estándares sanitarios para evitar la contaminación.
-                td(data-label="Soporte documental (base)") Manual de procedimiento (Num. 4.h): menciona la necesidad de realizar interrupciones en un "lugar de descanso de los animales".
+                td(data-label="Requisito de la instalación") En viajes prolongados, se requiere un #[b lugar de descanso de los animales] que permita realizar actividades de #[b inspección, acomodación, hidratación o alimentación] de la carga viva. Estos lugares deben cumplir con los estándares sanitarios para evitar la contaminación.
+                td(data-label="Soporte documental (base)") #[b Manual de procedimiento (Num. 4.h):] menciona la necesidad de realizar interrupciones en un "#[b lugar de descanso de los animales]".
               tr
                 td(data-label="Instalación / servicio") #[b Contingencia sanitaria]
-                td(data-label="Requisito de la instalación") La instalación debe tener protocolos y áreas para la disposición sanitaria de los animales muertos o gravemente enfermos, siguiendo las instrucciones de la oficina del ICA más cercana, para evitar riesgos biológicos.
-                td(data-label="Soporte documental (base)") ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 6): menciona el "sacrificio y disposiciones de los animales muertos" como medida de emergencia.
+                td(data-label="Requisito de la instalación") La instalación debe tener protocolos y áreas para la #[b disposición sanitaria] de los animales muertos o gravemente enfermos, siguiendo las instrucciones de la oficina del ICA más cercana, para evitar riesgos biológicos.
+                td(data-label="Soporte documental (base)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 6):] menciona el "sacrificio y #[b disposiciones de los animales muertos]" como medida de emergencia.
 
 
 </template>

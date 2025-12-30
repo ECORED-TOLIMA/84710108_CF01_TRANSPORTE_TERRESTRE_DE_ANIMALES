@@ -7,7 +7,7 @@
         span 1
       h1 Vehículo de transporte terrestre para animal en pie
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10(data-aos="zoom-in")
+      .col-lg-12(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
@@ -60,7 +60,7 @@
                     li
                       i.fas.fa-horse-head
                       p.mb-0 #[b Vehículos con guacales o jaulas desmontables:] especialmente para aves de corral o animales menores.
-
+    p.mb-4 Complementando lo anterior, se invita a que analice las siguientes imágenes:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
@@ -109,14 +109,14 @@
                 p.mb-0 Este es un punto crítico. El manual exige una altura mínima específica (por ejemplo, para porcinos) y una densidad de carga controlada (metros cuadrados por animal) para garantizar un flujo de aire suficiente.
               .tarjeta.color-secundario.p-3(x="27%" y="65.3%" numero="+")
                 h5 Pisos y superficies
-                p.mb-0 Deben ser antideslizantes y estar hechos de materiales lavables y des infectables. No puede haber aristas, clavos salientes ni huecos donde un animal pueda fracturarse.
+                p.mb-0 Deben ser antideslizantes y estar hechos de materiales lavables y desinfectables. No puede haber aristas, clavos salientes ni huecos donde un animal pueda fracturarse.
               .tarjeta.color-secundario.p-3(x="50%" y="47%" numero="+")
                 h5 Separaciones físicas
                 p.mb-0 Si se transportan diferentes especies o grupos incompatibles, el vehículo debe tener barreras físicas internas.
     
     .titulo2.mb-4(data-aos="fade-left")
       h5.mb-0 B.	Requisitos operativos y de manejo
-    p.mb-0 Se refiere a cómo se ejecuta la labor. El manual transforma al transportador en una garantía del bienestar, prohibiendo prácticas tradicionales que hoy se consideran maltrato. Debe tener en cuenta lo siguiente:
+    p.mb-4 Se refiere a cómo se ejecuta la labor. El manual transforma al transportador en una garantía del bienestar, prohibiendo prácticas tradicionales que hoy se consideran maltrato. Debe tener en cuenta lo siguiente:
     .row.mb-5
       .col-lg-4
         .tarjeta-avatar
@@ -149,7 +149,7 @@
       .col-lg-9.mb-lg-0
         .row
             .col-lg-12
-              .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b.mb-4
                 .tarjeta-avatar-b__img
                   img(src='@/assets/curso/temas/tema1/img11.svg' alt='AvatarTop').d-none.d-lg-block
                 .tarjeta.tarjeta--verde
@@ -157,7 +157,7 @@
                     h5 GSMI (Guía Sanitaria de Movilización Interna)
                     p.mb-0 Documento "rey" expedido por el ICA que certifica que los animales no tienen enfermedades restrictivas y vienen de un predio registrado.
             .col-lg-12
-              .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b.mb-4
                 .tarjeta-avatar-b__img
                   img(src='@/assets/curso/temas/tema1/img12.svg' alt='AvatarTop').d-none.d-lg-block
                 .tarjeta.tarjeta--verde
@@ -285,7 +285,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Tipos de corrales
-    p.mb-4(data-aos="zoom-in") Los corrales o compartimentos tienen una función esencial en la segregación y estabilidad de la carga, reduciendo el estrés y las lesiones por interacción social. La siguiente tabla detalle los aspectos más destacados de los corrales:
+    p.mb-4(data-aos="zoom-in") Los corrales o compartimentos tienen una función esencial en la segregación y estabilidad de la carga, reduciendo el estrés y las lesiones por interacción social. La siguiente tabla detalla los aspectos más destacados de los corrales:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 1.
       i Características de los corrales
@@ -438,12 +438,12 @@
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 4.e:] "Disponer los animales en la unidad de transporte de forma tal que se garantice su #[b observación regular]".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Inspección en Ruta (Uso)
+                td(data-label="Aspecto") #[b Inspección en Ruta (Uso)]
                 td(data-label="Detalle del requisito y protocolo") Se establece un protocolo de #[b inspección obligatorio] durante las paradas. El conductor o tripulante debe revisar la unidad y los animales en movimiento (en el parqueadero o área segura).
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 4.g:] "El conductor o tripulante deberá realizar la #[b inspección de la unidad de transporte] de animales y de los animales en movimiento, por lo menos cada #[b cuatro (4) horas] durante el viaje".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Monitoreo en guacales/contenedores
+                td(data-label="Aspecto") #[b Monitoreo en guacales/contenedores]
                 td(data-label="Detalle del requisito y protocolo") Para especies transportadas en contenedores (guacales), estos deben tener las aberturas necesarias para garantizar el monitoreo del estado del animal durante el transporte.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.c, literal ii:] "Contar con aberturas que permitan la #[b inspección] de las aves, los pollitos de un día de edad y de otras especies".
     p.mb-4(data-aos="zoom-in") El control de la temperatura y la ventilación (el microclima) es uno de los factores más importantes para reducir el estrés fisiológico, así como la mortalidad durante el transporte y por este motivo, se deben tener las siguientes indicaciones:
@@ -462,22 +462,22 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Protección climática (Diseño)
+                td(data-label="Aspecto") #[b Protección climática (Diseño)]
                 td(data-label="Requisitos de diseño y control") La carrocería debe tener un #[b techo o cubierta] que proteja directamente de las inclemencias. Esto incluye radiación solar directa, lluvia o granizo, que afectan el bienestar térmico.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.d, literal iii:] "Debe ofrecer protección de la #[b radiación solar directa, lluvia o granizo]".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Ventilación mínima requerida
+                td(data-label="Aspecto") #[b Ventilación mínima requerida]
                 td(data-label="Requisitos de diseño y control") Todos los vehículos deben tener #[b dispositivos para mantener la ventilación constante]. Esto se puede lograr mediante aberturas laterales, rejillas o, idealmente, sistemas mecánicos.
                 td(data-label="Documento y cita exacta") Manual, Numeral 4.f: "Los vehículos deberán contar con dispositivos para mantener la #[b ventilación constante] ...".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Rango de temperatura (Microclima)
+                td(data-label="Aspecto") #[b Rango de temperatura (Microclima)]
                 td(data-label="Requisitos de diseño y control") El sistema de ventilación (natural o mecánica) debe ser capaz de asegurar que la temperatura dentro de la unidad de transporte se mantenga en un rango considerado seguro para la mayoría de las especies.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 4.f: "]...asegurando un rango de #[b temperatura entre 5 °C y 30 °C] si no se cuenta con ventilación mecánica".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Uso de termómetros
+                td(data-label="Aspecto") #[b Uso de termómetros]
                 td(data-label="Requisitos de diseño y control") El transportador debe tener herramientas (como #[b termómetros o dispositivos de medición]) para verificar y controlar las condiciones de microclima y humedad dentro de la unidad, especialmente en viajes largos o en climas extremos.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 4.f (complemento):] "El transportador deberá contar con los dispositivos de medición para verificar y controlar las condiciones de microclima y humedad dentro de la unidad de transporte".
     p.mb-4(data-aos="zoom-in") La tecnología permite una gestión activa del bienestar y la logística durante el viaje, por lo que es importante tener conocimiento de los siguientes procesos técnicos, normativos y de bienestar:
@@ -576,37 +576,38 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Definición de capacidad de carga
+                td(data-label="Aspecto") #[b Definición de capacidad de carga]
                 td(data-label="Detalle técnico") Es el #[b máximo tonelaje autorizado] en un vehículo automotor de carga, cuya tara y peso bruto vehicular no excede los límites establecidos en las normas vigentes del Ministerio de Transporte.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "Es el máximo tonelaje autorizado en un vehículo automotor de carga, cuya tara y peso bruto vehicular, no exceda los límites establecidos en las normas vigentes del Ministerio de Transporte".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Inalterabilidad
+                td(data-label="Aspecto") #[b Inalterabilidad]
                 td(data-label="Detalle técnico") La #[b capacidad de carga consignada en la licencia de tránsito no podrá alterarse.] Esta cifra es el límite superior para la carga total, incluyendo el peso de los animales y la estructura de la carrocería.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "No podrá alterar la Capacidad de Carga consignada en la licencia de tránsito".
     p.mb-4(data-aos="zoom-in")  Si bien la estructura y la capacidad de peso no pueden alterarse, el manual permite modificaciones internas específicas, siempre y cuando estas mejoras estén directamente orientadas a la protección y bienestar de los animales, sin afectar la estructura homologada. Adicional a esto, la siguiente tabla detalla las permisiones a tener en cuenta:
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 5.
-      i Permisión en la ficha de homologación
-    .row.justify-content-center.align-items-center
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-left")
-                th Aspecto
-                th Detalle de la permisión
-                th Documento y cita exacta
-            tbody
-              tr(data-aos="fade-left")
-                td(data-label="Aspecto") Modificaciones internas
-                td(data-label="Detalle de la permisión") #[b Se permiten modificaciones internas para el bienestar animal] (divisores, pisos) siempre que no alteren la estructura homologada.
-                td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.e (complemento):] "... sí se permiten modificaciones internas para el bienestar animal (divisores, pisos) siempre que no alteren la estructura homologada".
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 5.
+        i Permisión en la ficha de homologación
+      .row.justify-content-center.align-items-center
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-left")
+                  th Aspecto
+                  th Detalle de la permisión
+                  th Documento y cita exacta
+              tbody
+                tr(data-aos="fade-left")
+                  td(data-label="Aspecto") #[b Modificaciones internas]
+                  td(data-label="Detalle de la permisión") #[b Se permiten modificaciones internas para el bienestar animal] (divisores, pisos) siempre que no alteren la estructura homologada.
+                  td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.e (complemento):] "... sí se permiten modificaciones internas para el bienestar animal (divisores, pisos) siempre que no alteren la estructura homologada".
 
-              tr(data-aos="fade-left")
-                td(data-label="Aspecto") Propósito de las modificaciones
-                td(data-label="Detalle de la permisión") Estas modificaciones (ej: instalar pisos antideslizantes más eficaces, colocar un techo más resistente a la temperatura, agregar separadores desmontables) son aceptables porque mejoran el confort y la seguridad de la carga viva sin comprometer la seguridad vial del vehículo.
-                td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.d, literal ii:] "Los pisos de la unidad de transporte deben ser antideslizantes para evitar caídas y fracturas, utilizando cama cómoda y seca, si las condiciones lo americano". (Justifica la mejora del piso).
+                tr(data-aos="fade-left")
+                  td(data-label="Aspecto") #[b Propósito de las modificaciones]
+                  td(data-label="Detalle de la permisión") Estas modificaciones (ej: instalar pisos antideslizantes más eficaces, colocar un techo más resistente a la temperatura, agregar separadores desmontables) son aceptables porque mejoran el #[i confort] y la seguridad de la carga viva sin comprometer la seguridad vial del vehículo.
+                  td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.d, literal ii:] "Los pisos de la unidad de transporte deben ser antideslizantes para evitar caídas y fracturas, utilizando cama cómoda y seca, si las condiciones lo americano". (Justifica la mejora del piso).
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -638,12 +639,12 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Definición operativa
+                td(data-label="Aspecto") #[b Definición operativa]
                 td(data-label="Detalle de la función") Aunque no está definida en el glosario específico del manual, la obligatoriedad del RUNT se desprende de su función como #[b registro de la licencia de tránsito] y las características vehiculares aprobadas por el Ministerio de Transporte.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.e:] Implícitamente se refiere al RUNT al hablar de las condiciones bajo las cuales fue aprobado el vehículo por el Ministerio de Transporte.
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Obligatoriedad de registro
+                td(data-label="Aspecto") #[b Obligatoriedad de registro]
                 td(data-label="Detalle de la función") Todo vehículo automotor de carga, incluyendo los destinados al transporte de animales en pie, debe estar #[b debidamente matriculado] y con su información actualizada en el RUNT.
                 td(data-label="Documento y cita exacta") #[b Ley 769 de 2002 (Código Nacional de Tránsito, referencia legal):] establece la obligatoriedad del registro.
     p.mb-4(data-aos="zoom-in") La información almacenada en el RUNT es la que define la identidad legal del vehículo y establece los límites para su uso, especialmente en lo relativo a la capacidad de carga y el tipo de carrocería; destacando lo siguiente:
@@ -661,12 +662,12 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Validación de capacidad de carga
+                td(data-label="Aspecto") #[b Validación de capacidad de carga]
                 td(data-label="Detalle de la conexión técnica") El RUNT contiene la cifra de #[b capacidad de carga] autorizada (máximo tonelaje). Esta cifra es la que el transportador debe respetar y no alterar, siendo un factor crucial en el cálculo de la densidad animal (no se puede exceder el peso bruto vehicular autorizado).
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "No podrá alterar la Capacidad de Carga consignada en la licencia de tránsito". (Esta licencia se administra y actualiza vía RUNT).
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Validación de carrocería
+                td(data-label="Aspecto") #[b Validación de carrocería]
                 td(data-label="Detalle de la conexión técnica") El tipo de carrocería (ej. tipo jaula, estacas, etc.) y sus dimensiones externas homologadas deben estar registradas en el RUNT. Esto asegura que el vehículo no ha sufrido #[b modificaciones estructurales] no autorizadas que comprometan su seguridad.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.e:] "No se podrá modificar la carrocería (dimensiones o capacidad de carga) alterando las condiciones bajo las cuales fue aprobada por el Ministerio de Transporte". (La aprobación está registrada en el RUNT).
     .row.justify-content-center.align-items-center.mb-4
@@ -697,12 +698,12 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Exigibilidad por autoridades
+                td(data-label="Aspecto") #[b Exigibilidad por autoridades]
                 td(data-label="Detalle del uso en control") Las autoridades de tránsito y el ICA tienen la facultad de #[b exigir la documentación] que demuestre la legalidad y la concordancia de las especificaciones del vehículo, siendo el RUNT la base de datos para esta verificación.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 6. Requisitos de las Capacitaciones:] "El cual podrá ser exigido por las #[b autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA ]". (Aplica a toda la documentación legal del vehículo y el conductor).
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Garantía sanitaria
+                td(data-label="Aspecto") #[b Garantía sanitaria]
                 td(data-label="Detalle del uso en control") Un vehículo con un RUNT en regla y con una #[b carrocería adecuada] (tipo jaula o similar) que se ajuste a las normas, es un prerrequisito para la expedición y validez de la #[b Guía Sanitaria de Movilización Interna (GSMI)], un documento que sí es directamente sanitario y obligatorio.
                 td(data-label="Documento y cita exacta") Principio de control sanitario, donde la legalidad del vehículo (RUNT) soporta la legalidad de la movilización (GSMI).
     .row.justify-content-center.align-items-center
@@ -745,12 +746,12 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Documento") Guía Sanitaria de Movilización Interna (GSMI)
+                td(data-label="Documento") #[b Guía Sanitaria de Movilización Interna (GSMI)]
                 td(data-label="Detalle de la función y uso") Es el documento legal expedido por el #[b Instituto Colombiano Agropecuario (ICA)] que ampara la movilización de los animales dentro del territorio nacional. Certifica el origen, destino y propósito de la movilización, siendo una herramienta fundamental para la #[b trazabilidad sanitaria y fitosanitaria]. Su porte es obligatorio.
                 td(data-label="Documento y cita exacta") El manual hace referencia a la movilización de animales, que está intrínsecamente ligada a la GSMI, documento regido por el #[b ICA]. El incumplimiento puede acarrear medidas sanitarias o de bienestar.
 
               tr(data-aos="fade-left")
-                td(data-label="Documento") Certificado de inspección sanitaria
+                td(data-label="Documento") #[b Certificado de inspección sanitaria]
                 td(data-label="Detalle de la función y uso") En caso de que se requiera la inspección previa de los animales antes del transporte (ej. para identificar animales no aptos para el transporte), los documentos de soporte de esa inspección deben estar disponibles.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 5. De los Planes de Contingencia y Emergencia (Implícito):] establece la obligación de atención y reporte ante animales enfermos o lesionados, lo cual requiere seguimiento documental.
 
@@ -760,33 +761,34 @@
       h5.mb-0 Documentación legal del vehículo (la unidad de transporte)
     p.mb-4(data-aos="zoom-in") Estos documentos certifican la legalidad del vehículo para operar en las vías nacionales como automotor de carga y validan sus especificaciones técnicas. Estos son dichos documentos:
 
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 10.
-      i Documentación legal del vehículo
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-left")
-                th Documento
-                th Detalle de la función y uso
-                th Documento y cita exacta
-            tbody
-              tr(data-aos="fade-left")
-                td(data-label="Documento") Licencia de tránsito (tarjeta de propiedad)
-                td(data-label="Detalle de la función y uso") Documento público que identifica legalmente un vehículo y da fe de sus características técnicas registradas, incluyendo la #[b capacidad de carga]. Este registro está consignado en el RUNT.
-                td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "No podrá alterar la Capacidad de Carga consignada en la #[b licencia de tránsito]".
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 10.
+        i Documentación legal del vehículo
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-left")
+                  th Documento
+                  th Detalle de la función y uso
+                  th Documento y cita exacta
+              tbody
+                tr(data-aos="fade-left")
+                  td(data-label="Documento") #[b Licencia de tránsito (tarjeta de propiedad)]
+                  td(data-label="Detalle de la función y uso") Documento público que identifica legalmente un vehículo y da fe de sus características técnicas registradas, incluyendo la #[b capacidad de carga]. Este registro está consignado en el RUNT.
+                  td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "No podrá alterar la Capacidad de Carga consignada en la #[b licencia de tránsito]".
 
-              tr(data-aos="fade-left")
-                td(data-label="Documento") Ficha técnica de homologación
-                td(data-label="Detalle de la función y uso") Documento base que define el diseño y las dimensiones originales del vehículo, siendo la referencia para verificar que #[b no se ha modificado la carrocería] o capacidad de carga, garantizando la seguridad vial y estructural.
-                td(data-label="Documento y cita exacta") Manual, Numeral 2.2.e: "No se podrá modificar la carrocería (dimensiones o capacidad de carga) alterando las condiciones bajo las cuales fue aprobada por el Ministerio de Transporte...".
+                tr(data-aos="fade-left")
+                  td(data-label="Documento") #[b Ficha técnica de homologación]
+                  td(data-label="Detalle de la función y uso") Documento base que define el diseño y las dimensiones originales del vehículo, siendo la referencia para verificar que #[b no se ha modificado la carrocería] o capacidad de carga, garantizando la seguridad vial y estructural.
+                  td(data-label="Documento y cita exacta") Manual, Numeral 2.2.e: "No se podrá modificar la carrocería (dimensiones o capacidad de carga) alterando las condiciones bajo las cuales fue aprobada por el Ministerio de Transporte...".
 
-              tr(data-aos="fade-left")
-                td(data-label="Documento") Seguro obligatorio (SOAT) y revisión técnico-mecánica
-                td(data-label="Detalle de la función y uso") Documentos básicos de tránsito que deben estar vigentes y que son exigibles por la autoridad competente (Policía de Tránsito y Transporte) para todo vehículo automotor de carga.
-                td(data-label="Documento y cita exacta") #[b Ley 769 de 2002 (Código Nacional de Tránsito, referencia legal externa al manual, pero obligatorio).]
+                tr(data-aos="fade-left")
+                  td(data-label="Documento") #[b Seguro obligatorio (SOAT) y revisión técnico-mecánica]
+                  td(data-label="Detalle de la función y uso") Documentos básicos de tránsito que deben estar vigentes y que son exigibles por la autoridad competente (Policía de Tránsito y Transporte) para todo vehículo automotor de carga.
+                  td(data-label="Documento y cita exacta") #[b Ley 769 de 2002 (Código Nacional de Tránsito, referencia legal externa al manual, pero obligatorio).]
 
             
     .titulo.mb-4(data-aos="fade-left")
@@ -809,17 +811,17 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Documento") Certificado de curso de capacitación en bienestar animal
+                td(data-label="Documento") #[b Certificado de curso de capacitación en bienestar animal]
                 td(data-label="Detalle de la función y uso") Documento que acredita que el personal (conductor/tripulante) ha realizado y aprobado el curso de capacitación exigido. Es obligatorio #[b portar este documento] durante el transporte.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 6. Requisitos de las Capacitaciones:] "Toda persona involucrada en el proceso de transporte de animales en pie deberá realizar un curso de capacitación en bienestar animal y #[b portar el documento que certifique o conste que aprobó el curso ...]".
 
               tr(data-aos="fade-left")
-                td(data-label="Documento") Exigibilidad del certificado
+                td(data-label="Documento") #[b Exigibilidad del certificado]
                 td(data-label="Detalle de la función y uso") Las autoridades encargadas de la vigilancia y control tienen la facultad legal de solicitar este certificado en cualquier momento durante el viaje.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 6:] "...y el cual podrá ser exigido por las #[b autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA ]".
 
               tr(data-aos="fade-left")
-                td(data-label="Documento") Licencia de conducción
+                td(data-label="Documento") #[b Licencia de conducción]
                 td(data-label="Detalle de la función y uso") Documento personal que habilita al conductor para manejar vehículos de transporte de carga (categoría acorde al vehículo).
                 td(data-label="Documento y cita exacta") #[b Ley 769 de 2002 (Código Nacional de Tránsito, referencia legal externa).]
     .titulo.mb-4(data-aos="fade-left")
@@ -828,28 +830,29 @@
     
     p.mb-4(data-aos="zoom-in") Aunque no son documentos de carácter legal sancionatorio, su porte es parte de las buenas prácticas de manejo y procedimiento exigidas por el manual y se basan con lo siguiente:
 
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 12.
-      i Documentación operativa
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-left")
-                th Documento
-                th Detalle de la Función y Uso
-                th Documento y cita exacta
-            tbody
-              tr(data-aos="fade-left")
-                td(data-label="Documento") Plan de ruta y bitácora de viaje
-                td(data-label="Detalle de la función y uso") Documento interno que registra la #[b planeación del viaje] (tiempos estimados, distancias) y la bitácora es donde se registran las paradas, los tiempos de descanso (cada 8 horas de viaje), las inspecciones realizadas a la carga y cualquier evento o emergencia presentada.
-                td(data-label="Documento y cita exacta") #[b Manual, Numeral 4. Requisitos del Proceso...:] establece la obligatoriedad de los tiempos de descanso y las inspecciones periódicas (cada 4 horas), lo que requiere un registro operativo.
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 12.
+        i Documentación operativa
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-left")
+                  th Documento
+                  th Detalle de la Función y Uso
+                  th Documento y cita exacta
+              tbody
+                tr(data-aos="fade-left")
+                  td(data-label="Documento") #[b Plan de ruta y bitácora de viaje]
+                  td(data-label="Detalle de la función y uso") Documento interno que registra la #[b planeación del viaje] (tiempos estimados, distancias) y la bitácora es donde se registran las paradas, los tiempos de descanso (cada 8 horas de viaje), las inspecciones realizadas a la carga y cualquier evento o emergencia presentada.
+                  td(data-label="Documento y cita exacta") #[b Manual, Numeral 4. Requisitos del Proceso...:] establece la obligatoriedad de los tiempos de descanso y las inspecciones periódicas (cada 4 horas), lo que requiere un registro operativo.
 
-              tr(data-aos="fade-left")
-                td(data-label="Documento") Plan de contingencia (protocolos)
-                td(data-label="Detalle de la función y uso") Protocolo escrito para atender situaciones de emergencia (animales caídos, traumatismos, accidentes). El conductor debe conocer las #[b instrucciones para atender la situación], aunque el documento físico pueda ser más de referencia en la empresa.
-                td(data-label="Documento y cita exacta") #[b Manual, Numeral 5. De los Planes de Contingencia y Emergencia:] obliga a tener en cuenta las instrucciones del manual para atender emergencias.
+                tr(data-aos="fade-left")
+                  td(data-label="Documento") #[b Plan de contingencia (protocolos)]
+                  td(data-label="Detalle de la función y uso") Protocolo escrito para atender situaciones de emergencia (animales caídos, traumatismos, accidentes). El conductor debe conocer las #[b instrucciones para atender la situación], aunque el documento físico pueda ser más de referencia en la empresa.
+                  td(data-label="Documento y cita exacta") #[b Manual, Numeral 5. De los Planes de Contingencia y Emergencia:] obliga a tener en cuenta las instrucciones del manual para atender emergencias.
 
     separador
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -873,17 +876,17 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Paredes y superficies lisas
+                td(data-label="Aspecto") #[b Paredes y superficies lisas]
                 td(data-label="Detalle de la estructura y función sanitaria") Las paredes internas deben ser lisas y sin salientes no solo para evitar lesiones, sino para facilitar su limpieza y desinfección. Las superficies irregulares o rugosas atrapan materia orgánica (heces, sangre) que impiden la acción de los desinfectantes.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.d, literal i:] "Serán lisas, seguras, sin salientes, ni bordes puntiagudos que puedan causar lesiones y deben facilitar su limpieza y desinfección".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Esquinas y juntas
+                td(data-label="Aspecto") #[b Esquinas y juntas]
                 td(data-label="Detalle de la estructura y función sanitaria") Se priorizan diseños con bordes redondeados en lugar de ángulos rectos (difíciles de limpiar). Esto reduce los puntos donde se pueden acumular residuos orgánicos y patógenos.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.c, literal i:] (Sobre los contenedores plásticos, porcinos y aves) "deben ser lisas, con bordes redondeados, que permitan su lavado y desinfección". (Este principio se extiende a toda la carrocería).
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Materiales no absorbentes
+                td(data-label="Aspecto") #[b Materiales no absorbentes]
                 td(data-label="Detalle de la estructura y función sanitaria") La estructura debe ser de materiales impermeables (metal tratado, fibra de vidrio o plásticos sanitarios) que no absorban fluidos, lo que reduce la contaminación cruzada y el riesgo sanitario.
                 td(data-label="Documento y cita exacta") (Implícito en el requisito de ser "lisas" y "facilitar la limpieza". Los materiales higiénicos son un estándar en la industria pecuaria).
 
@@ -891,28 +894,29 @@
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Gestión sanitaria de los pisos y drenaje
     p.mb-4(data-aos="zoom-in") El manejo de las excretas es el requisito sanitario más específico del diseño de la carrocería, siendo las heces y la orina el principal foco de riesgo biológico.
-    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
-      h5 Tabla 14.
-      i Gestión sanitaria
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10
-        .tabla-a.color-acento-contenido.table-wrapper
-          table.tabla-responsive
-            thead
-              tr(data-aos="fade-left")
-                th Aspecto
-                th Detalle de la gestión sanitaria
-                th Documento y cita exacta
-            tbody
-              tr(data-aos="fade-left")
-                td(data-label="Aspecto") Prevención de derrames
-                td(data-label="Detalle de la gestión sanitaria") El diseño del piso es crítico para minimizar la filtración o derrame de orina y heces hacia el exterior o sobre los animales en niveles inferiores (en camiones de doble piso). Esto es un requisito de sanidad ambiental y bioseguridad.
-                td(data-label="Documento y cita exacta") Manual, Numeral 2.2.d, literal ii: "Deben minimizar la filtración o derrame de orina y heces hacia el exterior, o niveles inferiores si el transporte es de doble piso".
+    .BMG1.px-md-5.px-4
+      .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
+        h5 Tabla 14.
+        i Gestión sanitaria
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
+          .tabla-a.color-acento-contenido.table-wrapper
+            table.tabla-responsive
+              thead
+                tr(data-aos="fade-left")
+                  th Aspecto
+                  th Detalle de la gestión sanitaria
+                  th Documento y cita exacta
+              tbody
+                tr(data-aos="fade-left")
+                  td(data-label="Aspecto") #[b Prevención de derrames]
+                  td(data-label="Detalle de la gestión sanitaria") El diseño del piso es crítico para minimizar la filtración o derrame de orina y heces hacia el exterior o sobre los animales en niveles inferiores (en camiones de doble piso). Esto es un requisito de sanidad ambiental y bioseguridad.
+                  td(data-label="Documento y cita exacta") Manual, Numeral 2.2.d, literal ii: "Deben minimizar la filtración o derrame de orina y heces hacia el exterior, o niveles inferiores si el transporte es de doble piso".
 
-              tr(data-aos="fade-left")
-                td(data-label="Aspecto") Uso de cama sanitaria
-                td(data-label="Detalle de la gestión sanitaria") El uso de cama (aserrín, viruta o tamo) sobre el piso, cuando las condiciones lo ameritan, es una medida sanitaria y de bienestar que ayuda a absorber la humedad y fluidos, mejorando la higiene del ambiente interno y la estabilidad del animal.
-                td(data-label="Documento y cita exacta") Manual, Numeral 2.2.d, literal ii: "...utilizando cama confortable y seca, si las condiciones lo ameritan."
+                tr(data-aos="fade-left")
+                  td(data-label="Aspecto") #[b Uso de cama sanitaria]
+                  td(data-label="Detalle de la gestión sanitaria") El uso de cama (aserrín, viruta o tamo) sobre el piso, cuando las condiciones lo ameritan, es una medida sanitaria y de bienestar que ayuda a absorber la humedad y fluidos, mejorando la higiene del ambiente interno y la estabilidad del animal.
+                  td(data-label="Documento y cita exacta") Manual, Numeral 2.2.d, literal ii: "...utilizando cama confortable y seca, si las condiciones lo ameritan."
 
 
     .titulo.mb-4(data-aos="fade-left")
@@ -933,22 +937,22 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Limpieza y desinfección obligatoria
+                td(data-label="Aspecto") #[b Limpieza y desinfección obligatoria]
                 td(data-label="Detalle del protocolo sanitario") La carrocería debe ser sometida a un riguroso proceso de #[b limpieza y desinfección antes y después de cada uso]. Esto es esencial para cortar el ciclo de transmisión de enfermedades entre lotes de animales.
                 td(data-label="Documento y cita exacta") Manual, Numeral 2.2.a: "La unidad de transporte deberá ser lavada y desinfectada antes y después de cada uso".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Orden del proceso
+                td(data-label="Aspecto") #[b Orden del proceso]
                 td(data-label="Detalle del protocolo sanitario") La desinfección debe seguir un proceso lógico: primero la #[b limpieza] (remoción física de la materia orgánica) y luego la desinfección (aplicación de agentes químicos).
-                td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.b:] "La limpieza y desinfección de la unidad de transporte se realizará de conformidad con los #[b protocolos de bioseguridad] establecidos por el propietario o tenedor...".
+                td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.b:] "La limpieza y desinfección de la unidad de transporte se realizará de conformidad con los #[b protocolos de bioseguridad] establecidos por el propietario o tenedor...". (Un protocolo exige limpieza previa a la desinfección).
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Control sanitario del personal
+                td(data-label="Aspecto") #[b Control sanitario del personal]
                 td(data-label="Detalle del protocolo sanitario") El personal involucrado en el cargue, transporte y descarga debe estar capacitado en bioseguridad para evitar que sus vestimentas o herramientas contaminen la estructura del vehículo o los animales.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 6:] exige la capacitación en bienestar animal, que incluye módulos de bioseguridad y prevención de riesgos sanitarios.
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Prevención de riesgos sanitarios
+                td(data-label="Aspecto") #[b Prevención de riesgos sanitarios]
                 td(data-label="Detalle del protocolo sanitario") Las sanitarias en la estructura ayudan a evitar la aparición de riesgos sanitarios durante el viaje, como enfermedades (ej. diarreas, fiebre) que se propagan por medidas con la superficie contaminada.
                 td(data-label="Documento y cita exacta") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (pág. 2):] menciona la necesidad de proveer #[b condiciones sanitarias y fitosanitarias] para evitar el sufrimiento y mejorar la inocuidad.
 
@@ -984,12 +988,12 @@
                 th Documento y cita exacta
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Definición
+                td(data-label="Aspecto") #[b Definición]
                 td(data-label="Detalle de la definición legal") Es el #[b máximo tonelaje autorizado] en un vehículo automotor de carga. Se calcula de manera que la tara y el peso bruto vehicular no exceden los límites establecidos en las normas vigentes del MT.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "Es el máximo tonelaje autorizado en un vehículo automotor de carga, cuya tara y peso bruto vehicular, no exceda los límites establecidos en las normas vigentes del Ministerio de Transporte".
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Inalterabilidad
+                td(data-label="Aspecto") #[b Inalterabilidad]
                 td(data-label="Detalle de la definición legal") Esta magnitud es fija #[b y no podrá alterarse]. Cualquier intento de exceder esta capacidad es una infracción de tránsito, independientemente de la densidad animal.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "No podrá alterar la Capacidad de Carga consignada en la licencia de tránsito".
 
@@ -1001,7 +1005,7 @@
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img34.png" alt="Imagen decorativo")
       .col-lg-9
-        p(data-aos="fade-left") La densidad de carga es el factor que mide el #[b espacio físico (metros cuadrados, m2)] asignada a cada animal y es la principal herramienta de bienestar animal para prevenir el hacinamiento. Esta densidad debe ser respetada #[b siempre], incluso si el vehículo no alcanza su Capacidad de Carga legal en peso.
+        p(data-aos="fade-left") La densidad de carga es el factor que mide el #[b espacio físico (metros cuadrados, m2)] asignada a cada animal y es la principal herramienta de bienestar animal para prevenir el hacinamiento. Esta densidad debe ser respetada #[b siempre], incluso si el vehículo no alcanza su capacidad de carga legal en peso.
         p(data-aos="fade-left") Su fórmula conceptual es:
         .tarjeta.color-secundarios.p-4.mb-4
           p.mb-0.text-center.text-bold.fondo-gris.p-2
@@ -1031,7 +1035,7 @@
                 th Documento y cita contextual
             tbody
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Metodología de cálculo
+                td(data-label="Aspecto") #[b Metodología de cálculo]
                 td(data-label="Requisito del cuadro en el manual")
                   | La resolución establece que la densidad de carga debe determinarse a partir de 
                   b fórmulas de cálculo o de las tablas anexas
@@ -1041,7 +1045,7 @@
                   |  Implícitamente se refiere al uso de tablas de densidad para determinar la capacidad de transporte.
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Criterios de las tablas
+                td(data-label="Aspecto") #[b Criterios de las tablas]
                 td(data-label="Requisito del cuadro en el manual")
                   | Las tablas en el manual y sus referencias internacionales establecen los requisitos de m² por animal, considerando: 
                   b especie, peso, edad y tipo de sistema
@@ -1049,7 +1053,7 @@
                 td(data-label="Documento y cita contextual") Requerimiento estándar para la aplicación de las tablas de densidad citadas en el manual.
 
               tr(data-aos="fade-left")
-                td(data-label="Aspecto") Ejemplo (Aves)
+                td(data-label="Aspecto") #[b Ejemplo (Aves)]
                 td(data-label="Requisito del cuadro en el manual") En el caso de las aves, la densidad se mide en kilogramos por metro cuadrado y no por unidad animal, con un límite estricto para evitar el aplastamiento.
                 td(data-label="Documento y cita contextual")
                   b Manual, Numeral 4.d:
@@ -1059,7 +1063,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Densidad de carga para bovinos y bufalinos (ganado)
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.orden-lg-1
         p.mb-4(data-aos="zoom-in") La densidad de carga para bovinos y bufalinos se mide en #[b metros cuadrados (m2) por animal] y depende directamente del peso vivo individual. Además, deben basarse de acuerdo a las siguientes medidas:
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
@@ -1071,7 +1075,7 @@
           table.tabla-responsive
                 thead
                   tr
-                    th(data-aos="fade-left") Peso Vivo del animal (kg)
+                    th(data-aos="fade-left") Peso vivo del animal (kg)
                     th(data-aos="fade-left") Área mínima requerida (m²/animal)
                     th(data-aos="fade-left") Densidad (animales por m²)
                 tbody
@@ -1116,7 +1120,7 @@
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Densidad de carga para porcinos (cerdos)
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img37.png" alt="Imagen decorativo")
@@ -1177,23 +1181,23 @@
                     th Densidad máxima requerida (kg/m²)
                 tbody
                   tr(data-aos="fade-left")
-                    td(data-label="Especie avícola") Pollitos de un día de edad
+                    td(data-label="Especie avícola") #[b Pollitos de un día de edad]
                     td(data-label="Peso vivo promedio (kg)") N/A
                     td(data-label="Densidad máxima requerida (kg/m²)") Máximo 25 unidades por caja estándar
                   tr(data-aos="fade-left")
-                    td(data-label="Especie avícola") Pollo de engorde
+                    td(data-label="Especie avícola") #[b Pollo de engorde]
                     td(data-label="Peso vivo promedio (kg)") 1.5 – 2.0
                     td(data-label="Densidad máxima requerida (kg/m²)") 30 – 35
                   tr(data-aos="fade-left")
-                    td(data-label="Especie avícola") Pollo de engorde
+                    td(data-label="Especie avícola") #[b Pollo de engorde]
                     td(data-label="Peso vivo promedio (kg)") 2.1 – 3.0
                     td(data-label="Densidad máxima requerida (kg/m²)") 33 – 39
                   tr(data-aos="fade-left")
-                    td(data-label="Especie avícola") Polla de reemplazo/Ponedora
+                    td(data-label="Especie avícola") #[b Polla de reemplazo/Ponedora]
                     td(data-label="Peso vivo promedio (kg)") 1.2 – 2.5
                     td(data-label="Densidad máxima requerida (kg/m²)") 30 – 35
                   tr(data-aos="fade-left")
-                    td(data-label="Especie avícola") Pavos (Adultos)
+                    td(data-label="Especie avícola") #[b Pavos (Adultos)]
                     td(data-label="Peso vivo promedio (kg)") 8.0 – 15.0
                     td(data-label="Densidad máxima requerida (kg/m²)") 45 – 50
       .col-lg-3.col-6.mb-lg-0.mb-4.orden-lg-2.order-1
@@ -1210,7 +1214,7 @@
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Cajas y guacales
-          p.text-center.mb-0 Vehículo automotor que por su tamaño y destino se usa para transportar carga.En el caso de pollitos de un día de edad, deben usarse cajas plásticas o de cartón seguras y en estado adecuado, diseñadas para permitir la ventilación.
+          p.text-center.mb-0 En el caso de pollitos de un día de edad, deben usarse #[b cajas plásticas o de cartón] seguras y en estado adecuado, diseñadas para permitir la #[b ventilación].
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-primario.tarjeta.color-primarios2.tarjeta--BG01.p-4.h-100
           .row.justify-content-center.mb-3
