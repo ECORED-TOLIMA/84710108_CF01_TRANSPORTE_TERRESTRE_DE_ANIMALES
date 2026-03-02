@@ -208,14 +208,15 @@ export default {
   complementario: [
     {
       tema: '1. Vehículo de transporte terrestre para animal en pie',
-      referencia: 'Instituto Colombiano Agropecuario - ICA. (2025). SIGMA',
+      referencia:
+        'Instituto Colombiano Agropecuario - ICA. (2025). <em>SIGMA</em>',
       tipo: 'Página',
       link: 'https://www.ica.gov.co/servicios_linea/sigma.aspx',
     },
     {
       tema: '1. Vehículo de transporte terrestre para animal en pie',
       referencia:
-        'Instituto Colombiano Agropecuario - ICA. (2024, 30 de abril). ICA | SINIGAN | Cómo se expide una GSMI y un bono de venta a través del usuario del ganadero [Video]. YouTube.',
+        'Instituto Colombiano Agropecuario - ICA. (2024, 30 de abril). <em>ICA | SINIGAN | Cómo se expide una GSMI y un bono de venta a través del usuario del ganadero</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6l8ejCFk-t0',
     },
@@ -324,17 +325,17 @@ export default {
         {
           nombre: 'Oscar Eduardo Villarraga Córdoba',
           cargo: 'Experto temático',
-          centro: 'Regional Huila - Centro de Formación Agroindustrial',
+          centro: 'Centro de Formación Agroindustrial - Regional Huila',
         },
         {
           nombre: 'Lola Fernanda Herrera H.',
           cargo: 'Apoyo gestión curricular',
-          centro: 'Regional Huila - Centro de Formación Agroindustrial',
+          centro: 'Centro de Formación Agroindustrial - Regional Huila',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Evaluador instruccional',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },

@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img1.png" alt="Imagen decorativa")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img1.png" alt="")
       .col-lg-7
         .tarjeta.color-primarios2.p-4
           .row.mb-4
@@ -19,7 +19,7 @@
                 img.img-fluid(src="@/assets/curso/temas/tema2/img2.svg" alt="Icono decorativo")
           p.mb-0 El marco normativo principal es la resolución conjunta del Ministerio de Transporte (MT) y el Instituto Colombiano Agropecuario (ICA), cuyo objetivo principal es proteger el bienestar animal durante todas las etapas de la movilización.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Resolución 20223040006915)
     p.mb-4(data-aos="fade-right") Para explicar de mejor manera este manual, basado en dicha normativa, se plantean los siguientes aspectos legales:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -53,7 +53,7 @@
                 td(data-label="Soporte Documental (texto exacto)") #[b Manual (Num. 3.a, b, c):] a) Movilización a pie de animales... b) Transporte fluvial de animales... c) Transporte terrestre de animales...
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de manejo operacional (manejo animal)
 
     .row.justify-content-center.align-items-center.mb-4
@@ -63,7 +63,7 @@
             .col-lg-1.p-2.d-none.d-lg-block
               figure
                 img.img-fluid(src="@/assets/curso/temas/tema2/img3.svg" alt="Icono decorativo")
-          p.mb-0 El manual, aunque no define un término genérico de "Tipos de manejo", establece los procedimientos de manejo que deben aplicarse durante las fases críticas de la operación logística. El manejo se centra en garantizar el bienestar animal mediante técnicas y equipos adecuados, especialmente durante el cargue, traslado y descenso. Al respecto se plantean los siguientes aspectos:
+          p.mb-0 El manual, aunque no define un término genérico de "tipos de manejo", establece los procedimientos de manejo que deben aplicarse durante las fases críticas de la operación logística. El manejo se centra en garantizar el bienestar animal mediante técnicas y equipos adecuados, especialmente durante el cargue, traslado y descenso. Al respecto se plantean los siguientes aspectos:
       .col-lg-4.order-1.order-lg-2
         .tarjeta-color-primarios2
           figure
@@ -99,7 +99,7 @@
                 td(data-label="Principio de ejecución y detalle") Se exige la #[b separación física] de los animales según criterios como especie, edad, tamaño y estado reproductivo, para evitar peleas y lesiones durante el transporte.
                 td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915, Manual (Numeral 4.c):] "Separar por especie, edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos, animales que puedan ser hostiles con otros..."
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Teoría de movilización de animales en pie
     
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -110,11 +110,11 @@
         p.mb-0 La movilización implica poner en actividad a los animales. El transporte se considera un "conjunto organizado de operaciones" que incluye cargue, traslado, paradas de descanso y descarga.
           br
           br
-          | Por lo anterior, la "Teoría de la movilización" establece el alcance conceptual y los diferentes modos bajo los cuales los animales son trasladados, siendo un término más amplio que el simple "transporte".
+          | Por lo anterior, la "teoría de la movilización" establece el alcance conceptual y los diferentes modos bajo los cuales los animales son trasladados, siendo un término más amplio que el simple "transporte".
 
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Concepto de movilización vs. transporte
 
     p.mb-4(data-aos="fade-right") El manual distingue entre el concepto amplio de movilización y el concepto específico de transporte de la siguiente manera:
@@ -141,7 +141,7 @@
                 td(data-label="Definición y alcance teórico") #[b Es la teoría o el concepto general] que incluye todas las actividades desarrolladas para mover los animales, ya sea por sí mismos o mediante cualquier medio.
                 td(data-label="Soporte documental (texto exacto)") #[b ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (Pág. 2):] "...y para efectos de la resolución la movilización de animales en pie incluye todas aquellas actividades que se desarrollan para mover los animales, ya sea por sí mismo o por cualquier otro medio utilizado para trasladar a las especies".
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de movilización regulada
 
     p.mb-4(data-aos="fade-right") La Resolución 20223040006915 establece que el manual aplica a tres modos de movilización, cada uno con requisitos específicos:
@@ -173,10 +173,10 @@
                 td(data-label="Soporte Documental (texto exacto)") #[b Manual (Numeral 3.c):] "Cuando se realice el #[b transporte de los animales en vehículo de transporte terrestre automotor de carga] deberá cumplir con las disposiciones contenidas en esta resolución...".
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-right")
-        p.mb-0 En síntesis, la teoría de la movilización abarca el marco legal y operacional que guía cómo mover los animales, mientras que el manejo se refiere a las técnicas y procedimientos específicos (calma, rampas a 20°, no ruidos) que se aplican durante el cargue y descargue para cumplir con el principio de bienestar animal durante cualquiera de los modos de movilización.
+        p.mb-0 En síntesis, la teoría de la movilización abarca el marco legal y operacional que guía cómo mover los animales, mientras que el manejo se refiere a las técnicas y procedimientos específicos (calma, rampas a 20 °, no ruidos) que se aplican durante el cargue y descargue para cumplir con el principio de bienestar animal durante cualquiera de los modos de movilización.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Estatuto Nacional de Protección de los Animales y normas reguladoras
 
     p.mb-4(data-aos="fade-right") El manual se fundamenta en un marco legal superior que busca la protección animal, incluso al regular el transporte de animales de producción y reconoce a los animales como seres sintientes (no cosas), obligando a prevenir el dolor y el sufrimiento durante el transporte.
@@ -201,11 +201,11 @@
                   td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Vistos/Considerandos):] menciona las facultades conferidas por los artículos #[b 65 de la Ley 101 de 1993, 4 del Decreto 1500 de 2007], y otros Decretos del Sector Transporte.
                 tr(data-aos="fade-right")
                   td(data-label="Regulación básica") #[b Principio de bienestar]
-                  td(data-label="Descripción y alcance") La Ley 1774 de 2016 (Estatuto Nacional de Protección) establece que los animales son seres sintientes. El manual adopta la definición de Bienestar Animal de la OIE (Organización Mundial de Sanidad Animal), centrada en el estado físico y mental.
+                  td(data-label="Descripción y alcance") La Ley 1774 de 2016 (Estatuto Nacional de Protección) establece que los animales son seres sintientes. El manual adopta la definición de bienestar animal de la OIE (Organización Mundial de Sanidad Animal), centrada en el estado físico y mental.
                   td(data-label="Soporte documental (texto exacto)") #[b Manual (Numeral 1. Definiciones):] (Revisar la definición de bienestar animal).
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Glosarios y definiciones clave
 
     p.mb-4(data-aos="fade-right") El manual establece una serie de definiciones obligatorias para la correcta interpretación de sus disposiciones (Numeral 1. Definiciones):
@@ -257,10 +257,10 @@
 
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img6.svg" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img6.svg" alt="")
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnica N°1. Cálculo de la densidad de carga operacional (bienestar animal)
 
     p.mb-4(data-aos="fade-right") Esta técnica se enfoca en determinar el número máximo de animales que caben en el área disponible de la unidad de transporte, garantizando un espacio adecuado para el bienestar. Es la técnica más específica para el manejo de animales.
@@ -269,16 +269,16 @@
       .col-lg-10
         .tarjeta.color-primarios3.p-4(data-aos="fade-right")
           .titulo2.mb-4(data-aos="fade-left")
-            h5.mb-0 Determinación del Área Disponible (Á D)
+            h5.mb-0 Determinación del área disponible (Á D)
           .row.justify-content-center.align-items-center
             .col-lg-9.order-lg-1.order-2
-              p #[b Proceso:] medir el área de piso disponible (Largo x Ancho) en metros cuadrados (m2) de cada compartimento o nivel de la unidad de transporte.
+              p #[b Proceso:] medir el área de piso disponible (largo x ancho) en metros cuadrados (m2) de cada compartimento o nivel de la unidad de transporte.
               h5 Fórmula conceptual:
               .tarjeta.color-secundarios.p-3
-                p.text-bold.mb-0 Área Disponible (m2) = Largo de la Carrocería X Ancho de la Carrocería
+                p.text-bold.mb-0 Área disponible (m2) = largo de la carrocería x ancho de la carrocería
             .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
               figure
-                img.img-fluid(src="@/assets/curso/temas/tema2/img7.png" alt="Imagen decorativo")
+                img.img-fluid(src="@/assets/curso/temas/tema2/img7.png" alt="")
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -287,7 +287,7 @@
             h5.mb-0 Aplicación de la densidad mínima requerida 
           .row.justify-content-center.align-items-center.mb-3
               .col-lg-9.order-lg-1.order-2
-                p #[b Proceso:] consultar las tablas anexas al manual (Apéndices) para obtener el espacio mínimo requerido por animal, según la especie y el peso.
+                p #[b Proceso:] consultar las tablas anexas al manual (apéndices) para obtener el espacio mínimo requerido por animal, según la especie y el peso.
                 p Se deben tener en cuenta los siguientes parámetros de densidad por especie y sus fuentes:
                 .tarjeta.color-primarios.p-3.mb-2
                   ul.lista-ul
@@ -302,12 +302,12 @@
                     li
                       i.fas.fa-circle
                       p.text-bold.mb-0 Porcinos, aves
-                  p.mb-0 Parámetro: Kilogramos Máximos por Área (kg/m2).
+                  p.mb-0 Parámetro: kilogramos máximos por área (kg/m2).
                   p.mb-0 Fuente: apéndice 2 y 3 de la Resolución.
 
               .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
                 figure
-                  img.img-fluid(src="@/assets/curso/temas/tema2/img8.png" alt="Imagen decorativo")
+                  img.img-fluid(src="@/assets/curso/temas/tema2/img8.png" alt="")
           p.mb-0 Soporte documental: "La densidad de carga debe determinarse a partir de fórmulas de cálculo o de las tablas anexas al Manual o de las referencias de la Organización Mundial de Sanidad Animal (OIE)." — Manual de Procedimientos, Numeral 4.c.
           
 
@@ -315,44 +315,44 @@
       .col-lg-10
         .tarjeta.color-primarios3.p-4(data-aos="fade-right")
           .titulo2.mb-4(data-aos="fade-left")
-            h5.mb-0 Cálculo del número máximo de animales (N° Máx. de animales) 
+            h5.mb-0 Cálculo del número máximo de animales (n.° máximo. de animales) 
           p #[b Proceso:] usar la densidad requerida y el área disponible para obtener el número máximo de cabezas permitidas. Se deben tener en cuenta las siguientes fórmulas:
 
           
           ul.lista-ul
             li
               i.fas.fa-circle
-              p.text-bold.mb-0 Bovinos y bufalinos (Área por animal)
+              p.text-bold.mb-0 Bovinos y bufalinos (área por animal)
           
           .tarjeta.color-secundarios.p-3.mb-4
             .text-center.mb-0
               p.fw-bold
-                | N° Max = 
+                | n.° máximo = 
                 span(style="display:inline-block; vertical-align:middle;")
-                  | Área Disponible (m²)
+                  | área disponible (m²)
                   br
                   span(style="display:inline-block; border-top: 2px solid #000; padding-top: 4px;")
-                    | Área Mínima Requerida por Animal (m²/animal)
+                    | área mínima requerida por animal (m²/animal)
     
         
           ul.lista-ul
             li
               i.fas.fa-circle
-              p.text-bold.mb-0 Porcinos y aves (kg/m2). Peso Máximo (kg) = Área Disponible (m2) x Densidad Máxima (kg/m2)
+              p.text-bold.mb-0 porcinos y aves (kg/m2). Peso máximo (kg) = área disponible (m2) x densidad máxima (kg/m2)
 
           .tarjeta.color-secundarios.p-3.mb-4
             .text-center.mb-0
               p.fw-bold
-                | N° Max = 
+                | n.° máximo = 
                 span(style="display:inline-block; vertical-align:middle;")
-                  | Peso Máximo Total (kg)
+                  | peso máximo total (kg)
                   br
                   span(style="display:inline-block; border-top: 2px solid #000; padding-top: 4px;")
-                    | Peso Promedio por Animal (kg)
-          p.mb-0 Condición de Bienestar: el resultado N° Max es el límite superior de carga para cumplir con el bienestar, independientemente de lo que dicte el peso legal.
+                    | peso promedio por animal (kg)
+          p.mb-0 Condición de bienestar: el resultado n.° máximo es el límite superior de carga para cumplir con el bienestar, independientemente de lo que dicte el peso legal.
     
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnica N°2. Verificación de la capacidad de carga legal (seguridad vial)
 
     p.mb-4(data-aos="fade-right") Esta técnica se enfoca en asegurar que el peso total de la carga viva no exceda el límite legal autorizado para el vehículo, protegiendo la seguridad vial y la estructura del automotor.
@@ -361,29 +361,29 @@
       .col-lg-10
         .tarjeta.color-primarios3.p-4(data-aos="fade-right")
           .titulo2.mb-4(data-aos="fade-left")
-            h5.mb-0 Determinación del límite de peso legal (P. Legal)
+            h5.mb-0 Determinación del límite de peso legal (p. legal)
           .row.justify-content-center.align-items-center.mb-3
               .col-lg-9.order-lg-1.order-2
-                p #[b Proceso:] consultar la licencia de tránsito del vehículo (registro RUNT) para verificar el máximo tonelaje autorizado (Capacidad de Carga).
+                p #[b Proceso:] consultar la licencia de tránsito del vehículo (registro RUNT) para verificar el máximo tonelaje autorizado (capacidad de carga).
                 p #[b Soporte documental (definición):] "Capacidad de carga: es el máximo tonelaje autorizado en un vehículo automotor de carga, cuya tara y peso bruto vehicular, no exceda los límites establecidos en las normas vigentes del Ministerio de Transporte. No podrá alterarse la capacidad de carga consignada en la licencia de tránsito". — Manual de Procedimientos, Numeral 1. Definiciones.
                 h5 Fórmula conceptual:
                 .tarjeta.color-secundarios.p-3
-                  p.text-bold.text-center.mb-0 Peso Vivo\ (kg) = N° unidades x Peso Promedio por Animal
+                  p.text-bold.text-center.mb-0 peso vivo\ (kg) = n.° unidades x peso promedio por animal
 
               .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
                 figure
-                  img.img-fluid(src="@/assets/curso/temas/tema2/img9.png" alt="Imagen decorativo")
+                  img.img-fluid(src="@/assets/curso/temas/tema2/img9.png" alt="")
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .tarjeta.color-primarios3.p-4(data-aos="fade-right")
           .titulo2.mb-4(data-aos="fade-left")
-            h5.mb-0 Verificación del Límite Legal
+            h5.mb-0 Verificación del límite legal
           .row.justify-content-center.align-items-center.mb-2
               .col-lg-12
-                p #[b Proceso:] el peso total de la carga (Peso vivo animales) + (Peso de la carrocería de transporte) debe ser menor o igual a la capacidad de carga autorizada en el vehículo.
+                p #[b Proceso:] el peso total de la carga (peso vivo de animales) + (peso de la carrocería de transporte) debe ser menor o igual a la capacidad de carga autorizada en el vehículo.
           figure.text-center
-            img.img-fluid(src="@/assets/curso/temas/tema2/img10.png" alt="Imagen decorativa")
+            img.img-fluid(src="@/assets/curso/temas/tema2/img10.png" alt="")
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -392,20 +392,20 @@
             h5.mb-0 Principio del límite restrictivo
           .row.justify-content-center.align-items-center.mb-3
               .col-lg-10.order-lg-1.order-2
-                p La magnitud de carga final y segura que debe aplicar el transportador es el valor más bajo resultante entre la densidad operacional (Técnica N°1) y la capacidad de carga legal (Técnica N°2).
+                p La magnitud de carga final y segura que debe aplicar el transportador es el valor más bajo resultante entre la densidad operacional (técnica n.°1) y la capacidad de carga legal (técnica n.°2).
                 p Si:
                 .tarjeta.color-primarios.p-3
                   ul.lista-ul.mb-0
                     li
                       i.fas.fa-horse-head
-                      p.mb-0 El cálculo de densidad (Técnica N°1) permite cargar 20 bovinos.
+                      p.mb-0 El cálculo de densidad (técnica n.°1) permite cargar 20 bovinos.
                     li
                       i.fas.fa-horse-head
-                      p.mb-0 El cálculo de peso legal (Técnica N°2) solo permite cargar 18 bovinos (por restricción de peso).
+                      p.mb-0 El cálculo de peso legal (técnica n.°2) solo permite cargar 18 bovinos (por restricción de peso).
 
               .col-lg-2.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
                 figure
-                  img.img-fluid(src="@/assets/curso/temas/tema2/img11.png" alt="Imagen decorativo")
+                  img.img-fluid(src="@/assets/curso/temas/tema2/img11.png" alt="")
           p.mb-0 #[b Entonces:] la magnitud de carga correcta y obligatoria es de 18 bovinos, ya que la ley exige cumplir con el límite más estricto entre el bienestar animal y la seguridad vial.
 
     separador
@@ -422,7 +422,7 @@
           | El bienestar animal, según la normativa colombiana, se refiere al conjunto de condiciones y prácticas que garantizan que los animales de producción estén libres de hambre, sed, dolor, miedo y puedan expresar su comportamiento natural, promoviendo su salud física y emocional durante todas las etapas de su vida productiva.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Normativa (regulatorio)
     p(data-aos="fade-right") La normativa que rige el bienestar animal en el transporte terrestre se soporta en disposiciones de alto nivel y se materializa en el manual de procedimientos adoptado de manera conjunta por las autoridades competentes.
     p.mb-4(data-aos="fade-right") A continuación, se detallan algunas regulaciones:
@@ -461,7 +461,7 @@
           .tarjeta.color-primario.tarjeta.color-primarios2.w-100
             .p-4
               h5.text-center 1.	Ley 84 de 1989 (Estatuto de Protección)
-              p Establece el deber de protección y prohíbe la crueldad
+              p Establece el deber de protección y prohíbe la crueldad.
       .col-lg-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img14.svg' alt='AvatarTop')
@@ -481,7 +481,7 @@
     p.mb-4(data-aos="fade-right") #[b Bienestar:] se pasa de un enfoque de "evitar la crueldad" a un enfoque proactivo de "garantizar el bienestar".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Principios del bienestar y protección animal
 
     p.mb-4(data-aos="fade-right") Los principios rectores de la normativa de transporte se centran en la prevención de riesgos y la garantía de condiciones mínimas de vida para los animales; al respecto, es importante tener en cuenta:
@@ -513,22 +513,22 @@
                 td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Numeral 4.a):] "exige observar y seleccionar para detectar animales #[b no aptos para el transporte], tales como: i) Enfermos, lesionados o con prolapsos. ii) Aquellos que no puedan permanecer de pie sin ayuda".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Las Cinco Libertades / Los Cinco Dominios
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2.mb-lg-0
         .tarjeta.color-primarios3.p-4(data-aos="fade-right")
-          p El concepto de bienestar animal adoptado internacionalmente y referenciado indirectamente en la normativa colombiana se basa en las Cinco Libertades, ya su vez, puede ser abordado desde el marco más integral de los Cinco Dominios.
+          p El concepto de bienestar animal adoptado internacionalmente y referenciado indirectamente en la normativa colombiana se basa en las Cinco Libertades, y a su vez, puede ser abordado desde el marco más integral de los Cinco Dominios.
           p.mb-0 Entrando en detalle, las Cinco Libertades son el estándar de oro de la Organización Mundial de Sanidad Animal (OIE), adoptado por el ICA, que define las condiciones ideales para el bienestar animal y se representa de la siguiente manera:
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img16.svg" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img16.svg" alt="")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.movil
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img17_1.svg" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img17_1.svg" alt="")
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
@@ -583,9 +583,9 @@
                   | Miedo, angustia y bienestar general.
           .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.png" alt="")
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Glosario de normativa específica del bienestar
       
     p.mb-4(data-aos="fade-right") El manual de procedimientos (Numeral 1. Definiciones) fija los términos esenciales para asegurar que la normativa sea aplicada correctamente en pro del bienestar animal, destacando:
@@ -626,14 +626,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img18.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img18.png" alt="")
       .col-lg-9(data-aos="fade-right")
         .tarjeta.color-primarios3.p-4
           p La conducción es un factor determinante en el bienestar animal durante el transporte terrestre. Una conducción brusca o inadecuada genera estrés, caídas, contusiones y lesiones graves, afectando la calidad e inocuidad de la carga.
           p.mb-0 Es así como el manual de procedimientos (Resolución 20223040006915 de 2022) exige técnicas específicas de conducción que minimicen el impacto del movimiento en los animales.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Principios de conducción preventiva y suave
       
     p.mb-4(data-aos="fade-right") El conductor o tripulante debe aplicar principios de manejo vehicular que eviten el movimiento excesivo de los animales y el estrés, en los cuales aplique lo siguiente:
@@ -669,7 +669,7 @@
                 td(data-label="Soporte documental (regla general)") #[b Manual de procedimiento (Implícito en Numeral 4):] busca #[b minimizar el riesgo de traumatismos] o fracturas en los animales.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Protocolos de inspección y descanso
       
     p.mb-4(data-aos="fade-right") Las técnicas de conducción también incluyen protocolos que regulan los tiempos de viaje y la necesidad de supervisión constante de la carga, destacándose de ello lo siguiente:
@@ -702,21 +702,21 @@
                   td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Numeral 4.f):] exige contar con dispositivos para mantener la #[b ventilación constante], asegurando una temperatura entre 5 °C y 30 °C.
       
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnicas de conducción en condiciones adversas
     p.mb-4 El manual exige al conductor aplicar técnicas modificadas de manejo al encontrarse con situaciones que aumentan el riesgo de daño a los animales. Entre ellas se encuentran: 
     .row.justify-content-center.mb-4
         .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-                img(src='@/assets/curso/temas/tema2/img19.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img19.png', alt='')
                 .p-4
                   h5 Vías irregulares (destapadas)
                   p La velocidad debe reducirse excesivamente para mitigar las vibraciones y los golpes transmitidos a la carrocería, que pueden causar hematomas y fatiga en los animales.
         .col-lg-5(data-aos="fade-right")
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100            
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-                img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img20.png', alt='')
                 .p-4
                   h5 Clima extremo (lluvia/calor)
                   p Vehículos no motorizados halados por una unidad tractora. Existen de tipo:
@@ -749,7 +749,7 @@
           | El proceso implica diferentes tipos de inspección, tanto operacionales (a cargo del transportador) como de control (a cargo de la autoridad), regidos por el Manual de Procedimientos (Resolución 20223040006915 de 2022).
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de inspección
       
     p.mb-4(data-aos="fade-right") Los tipos de inspección se definen por el momento de ejecución y la entidad responsable, de la siguiente manera:
@@ -785,7 +785,7 @@
                 td(data-label="Soportes documentales (texto exacto)") #[b Resolución 20223040006915 (Art. 4, Parágrafo):] "Las personas naturales y/o jurídicas... están en la obligación de permitir la #[b inspección, vigilancia y control], por parte de los funcionarios del Instituto Colombiano Agropecuario - ICA, o quien este delega o autorice".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnicas y puntos de inspección (#[i Checklist] del vehículo)
       
     p.mb-4(data-aos="fade-right") El conductor y la autoridad deben verificar que la unidad de transporte cumpla con los requisitos estructurales, de seguridad y de higiene, según los siguientes puntos:
@@ -904,7 +904,7 @@
           img(src='@/assets/curso/temas/tema2/img23.png', alt='Figura 3 que contiene diferentes tipos de acciones de bioseguridad que se realizan en los vehículos de transporte de animales en pie; los cuales van desde el lavado e higiene, tanto de los operarios como de los mismos vehículos.')
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Bioseguridad estructural y de diseño
       
     p.mb-4(data-aos="fade-right") La unidad de transporte debe estar diseñada con materiales y características que faciliten la higiene y contengan los contaminantes biológicos. Además, tener en cuenta lo siguiente:
@@ -931,7 +931,7 @@
                 td(data-label="Detalle de la técnica y objetivo") El piso del vehículo debe ser #[b antideslizante] y contar con un sistema que garantice la #[b estanqueidad]; es decir, que #[b evite la filtración] de heces, orina y otros fluidos biológicos hacia la vía pública, conteniendo estos desechos dentro del vehículo.
                 td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Numeral 2.2.c.ii):] "El piso deberá ser antideslizante y contar con un sistema que #[b evite la filtración de orina y heces] hacia la vía pública".
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Protocolos de bioseguridad operacional (limpieza y manejo)
       
     p.mb-4(data-aos="fade-right") Estos protocolos son las acciones que deben realizar el transportador y el conductor en cada etapa del proceso de movilización. Para su correcto accionar deben aplicar lo siguiente:
@@ -960,7 +960,7 @@
                   td(data-label="Soporte documental (texto exacto)") #[b Resolución 20223040006915 (Numeral 2.2.cv):] "Estar #[b fijados o dispuestos de manera tal, que se evite su desplazamiento y/o volcamiento]".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Manejo de contingencias bioseguras
       
     p.mb-4(data-aos="fade-right") La bioseguridad también se extiende a la forma en que se manejan las emergencias sanitarias que puedan surgir durante el viaje y las cuales deben tener en cuenta lo siguiente:
@@ -996,10 +996,10 @@
         p.mb-4(data-aos="fade-right") La documentación (Resolución 20223040006915) se enfoca en los requisitos estructurales del vehículo que facilitan esta tarea y la obligatoriedad de realizarla.
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.svg" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.svg" alt="")
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnicas y requisitos de limpieza y aseo
       
     p.mb-4(data-aos="fade-right") El proceso de limpieza y aseo se rige por la necesidad de ser efectivo, constante y bioseguro. Además, tiene en cuenta:
@@ -1034,14 +1034,14 @@
                 td(data-label="Detalle y objetivo del procedimiento") Aunque no está textualmente detallada, una técnica crítica posterior al lavado y desinfección es el #[b secado]. Los vehículos deben contar con ventilación (Num. 4.f), lo cual facilita que las superficies queden secas antes del cargue, ya que la humedad residual puede neutralizar desinfectantes o favorecer el crecimiento bacteriano.
                 td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.f):] exige sistemas para mantener la #[b ventilación constante].
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de producto para aseo y desinfección
       
     p(data-aos="fade-right") La normativa consultada (Resolución 20223040006915 y anexos) establece la obligación de realizar el lavado y la desinfección del vehículo, pero no especifica la marca o el tipo químico exacto de los productos a utilizar (detergentes, desinfectantes, desodorizantes, etc.).
     p.mb-4(data-aos="fade-right") El foco regulatorio se pone en el resultado de la limpieza (la prevención de enfermedades), no en el insumo específico.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de productos por propósito (generalidades)
     p.mb-4(data-aos="fade-right") Aunque el manual no los nombra, la técnica de aseo requiere el uso de dos tipos de productos en secuencia:
 
@@ -1072,7 +1072,7 @@
             img(src='@/assets/curso/temas/tema2/img27.png', alt='Texto que describa la imagen')
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Regulación de productos por el ICA
     p.mb-4(data-aos="fade-right") En el contexto de la bioseguridad en Colombia, la selección del desinfectante está implícitamente sujeta a las siguientes regulaciones sanitarias de uso peculiar:
 
@@ -1098,7 +1098,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img30_3.svg', alt='Texto que describa la imagen')
         h5.text-center Soporte documental
-        p.mb-0 La resolución establece la necesidad de condiciones sanitarias y fitosanitarias, además exige la desinfección, lo que implica el uso de productos aprobados.
+        p.mb-0 La resolución establece la necesidad de condiciones sanitarias y fitosanitarias; además, exige la desinfección, lo que implica el uso de productos aprobados.
 
 
 
@@ -1123,10 +1123,10 @@
           img(src='@/assets/curso/temas/tema2/img30.png', alt='Figura 4 que relaciona un animal en pie (mula) junto a un estand del ICA que simboliza el cuidado que la entidad le brinda a estos animales.')
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Concepto y marco de control
       
-    p.mb-4(data-aos="fade-right") El control se define como la obligación que tienen todos los involucrados en el transporte de permitir la revisión por parte de las autoridades competentes. Al respecto las siguientes entidades son las reguladoras:
+    p.mb-4(data-aos="fade-right") El control se define como la obligación que tienen todos los involucrados en el transporte de permitir la revisión por parte de las autoridades competentes. Al respecto, las siguientes entidades son las reguladoras:
 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 40.
@@ -1151,7 +1151,7 @@
                 td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 6):] El certificado de curso "...podrá ser exigido por las #[b autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA]".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Clases de medidas y lineamientos de control
     p.mb-4(data-aos="fade-right") Las autoridades aplican medidas de vigilancia para corregir incumplimientos y prevenir riesgos sanitarios, encontrando:
     
@@ -1190,13 +1190,13 @@
           p.mb-0 Lineamiento de Clave de Control. Es el documento oficial del ICA que autoriza y acompaña el traslado, certificando la procedencia y el estado sanitario de la carga, siendo un requisito indispensable para la movilización legal.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Protocolos y clases de riesgos sanitarios
 
     p.mb-4(data-aos="fade-right") Los protocolos son las herramientas que las entidades controlan; los riesgos son lo que buscan evitar.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Protocolos sanitarios controlados
       
     p.mb-4(data-aos="fade-right") Los funcionarios de control se enfocan en verificar la correcta aplicación de los protocolos de bioseguridad en los siguientes tipos:
@@ -1205,7 +1205,7 @@
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
             .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-              img(src='@/assets/curso/temas/tema2/img19_1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img19_1.png', alt='')
               .p-4
                 h5 Protocolo de limpieza y desinfección
                 p Se verifica que el vehículo esté libre de residuos orgánicos de cargas anteriores y que el diseño estructural (superficies lisas, bordes redondeados) permita un aseo eficiente.
@@ -1213,14 +1213,14 @@
       .col-lg-5(data-aos="fade-right")
         .tarjeta-avatar(style="padding-top: 0px !important;").h-100            
             .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-              img(src='@/assets/curso/temas/tema2/img20_1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img20_1.png', alt='')
               .p-4
                 h5 Protocolo de contención
                 p Se revisa que el piso sea estanco para evitar que las excretas se filtren hacia la vía pública, previniendo la dispersión de patógenos.
                 p.mb-0 Soporte: el piso debe contar con un sistema que "evite la filtración de orina y heces hacia la vía pública".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Clases de riesgos sanitarios
       
     p.mb-4(data-aos="fade-right") Las entidades buscan identificar y mitigar los riesgos que afectan la salud animal, la salud pública (inocuidad) y el medio ambiente, encontrando con ello las siguientes clases:
@@ -1252,7 +1252,7 @@
                 td(data-label="Consecuencia y control") La medida es la corrección inmediata del sistema de contención.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de formatos de inspección y control
       
     p.mb-4(data-aos="fade-right") Los formatos específicos son documentos internos de las autoridades (ICA o tránsito), pero en la práctica, los principales instrumentos de control utilizados en carretera son:
@@ -1299,7 +1299,7 @@
       
             
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Certificaciones de cursos
       
     p.mb-4(data-aos="fade-right") El porte de la certificación de capacitación es un requisito de control fundamental para el personal involucrado en el transporte y tiene en cuenta los siguientes aspectos:
@@ -1338,15 +1338,15 @@
 
     separador
     #t_2_8.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 2.8 Curso de bienestar animal en transporte terrestre (Cumplimiento)
+      h2 2.8 Curso de bienestar animal en transporte terrestre (cumplimiento)
 
     p.mb-4(data-aos="fade-right") Este curso es un requisito obligatorio y fundamental para el cumplimiento de la Resolución 20223040006915, cuyo objetivo es asegurar que el personal involucrado en el proceso posea los conocimientos y las técnicas necesarias para mitigar el sufrimiento y las lesiones de los animales durante la movilización.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Obligatoriedad y alcance del curso
     
-    p.mb-4(data-aos="fade-right") La realización y aprobación del curso no es opcional, sino un requisito indispensable para poder participar en la cadena de transporte de animales en pie y debe regirse sobre los siguientes aspectos:
+    p.mb-4(data-aos="fade-right") La realización y aprobación del curso no es opcional, sino un requisito indispensable para poder participar en la cadena de transporte de animales en pie, y debe regirse por los siguientes aspectos:
 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 42.
@@ -1375,7 +1375,7 @@
                 td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Núm. 6):] "...el cual podrá ser #[b exigido por las autoridades de tránsito y/o por el Instituto Colombiano Agropecuario - ICA]".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Contenido temático mínimo
     
     p(data-aos="fade-right") El contenido del curso debe estar alineado con la norma de competencia laboral, manuales de procedimiento y bienestar animal adoptados por el Ministerio de Agricultura y Desarrollo Rural (MADR) y el Ministerio de Transporte (MT) e ICA.
@@ -1387,7 +1387,7 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img42.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img42.svg', alt='')
           h5 Marco normativo
           p.mb-0 Resolución 20223040006915, Ley 1774 de 2016 y normas regulatorias de especie.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -1395,7 +1395,7 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img43.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img43.svg', alt='')
           h5 Principios de bienestar animal
           p.mb-0 Las Cinco Libertades o Dominios aplicados al transporte.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -1403,7 +1403,7 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img44.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img44.svg', alt='')
           h5 Requisitos del vehículo
           p.mb-0 Características estructurales de pisos, rampas, ventilación y divisiones.
       .col-lg-3(data-aos="fade-right")
@@ -1411,9 +1411,9 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img45.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img45.svg', alt='')
           h5 Manejo operacional
-          p.mb-0 Técnicas de cargue y descargar con calma y sin hostigamiento, uso de rampas.
+          p.mb-0 Técnicas de cargue y descarga con calma y sin hostigamiento, uso de rampas.
 
     .row
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -1421,7 +1421,7 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img46.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img46.svg', alt='')
           h5 Densidad de carga
           p.mb-0 Uso de las tablas y fórmulas de cálculo para evitar el hacinamiento.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -1429,7 +1429,7 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img47.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img47.svg', alt='')
           h5 Bioseguridad
           p.mb-0 Técnicas de limpieza, desinfección y contención de excretas.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -1437,13 +1437,13 @@
           .row.mb-2
             .col-lg-4.col-4
               figure
-                img(src='@/assets/curso/temas/tema2/img48.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img48.svg', alt='')
           h5 Planes de contingencia y emergencia
           p.mb-0 Protocolos para animales enfermos, muertos o accidentes en ruta.
       .col-lg-3.p-2(data-aos="fade-right")
         .tarjeta.color-secundarios2.h-100
           figure
-            img(src='@/assets/curso/temas/tema2/img49.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema2/img49.svg', alt='')
           
       
 </template>

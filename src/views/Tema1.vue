@@ -9,33 +9,33 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img1.png', alt='')
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Concepto
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-lg-1.order-2.mb-lg-0
         p(data-aos="fade-left") El transporte se define como el traslado de personas, animales o cosas de un punto a otro, a través de un medio físico. Para efectos de la normativa, la movilización de animales en pie abarca todas las actividades que se ejecutan para mover a los animales, bien sea por sí mismos o por cualquier otro medio utilizado para trasladarlos. 
-        p(data-aos="fade-left") Un vehículo de transporte de animales en pie, es el medio de desplazamiento o de transporte de animales de un punto a otro, incluyendo embarcaciones aparatos montados sobre ruedas. Por lo general, se utiliza un camión (automotor) para transportar la carga, dado su tamaño y destino.
+        p(data-aos="fade-left") Un vehículo de transporte de animales en pie es el medio de desplazamiento o de transporte de animales de un punto a otro, incluyendo embarcaciones y aparatos montados sobre ruedas. Por lo general, se utiliza un camión (automotor) para transportar la carga, dado su tamaño y destino.
         .row.justify-content-center.align-items-center
           .col-lg-1.p-0.px-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/intro/img4.svg" alt="Icono 1")
           .col-lg-11
-            p.mb-0 Este tipo de vehículo, es aquel diseñado o adaptado específicamente para movilizar animales vivos (bovinos, porcinos, ovinos, caprinos, equinos, aves, entre otros) por carretera, garantizando condiciones adecuadas de bienestar animal, bioseguridad, sanidad y seguridad vial durante todo el proceso de cargue, transporte y descargue.
+            p.mb-0 Este tipo de vehículo es aquel diseñado o adaptado específicamente para movilizar animales vivos (bovinos, porcinos, ovinos, caprinos, equinos, aves, entre otros) por carretera, garantizando condiciones adecuadas de bienestar animal, bioseguridad, sanidad y seguridad vial durante todo el proceso de cargue, transporte y descargue.
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img2.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img2.png" alt="")
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de vehículos
     p.mb-4(data-aos="zoom-in") Los vehículos pueden clasificarse según el tipo de especie a transportar y su estructura: 
     .row.justify-content-center.mb-4
         .col-lg-5.mb-4.mb-lg-0
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-                img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img3.png', alt='')
                 .p-4
                   h5 Camión
                   p(data-aos="fade-left") Vehículo automotor que por su tamaño y destino se usa para transportar carga. Se encuentran los siguientes tipos:
@@ -49,7 +49,7 @@
         .col-lg-5
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100            
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-                img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img4.png', alt='')
                 .p-4
                   h5 Remolque y semirremolque
                   p(data-aos="fade-left") Vehículos no motorizados halados por una unidad tractora. Existen de tipo:
@@ -69,21 +69,21 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.movil(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/temas/tema1/img5_1.png', alt='Descripción: La imagen muestra una escena ilustrada en un entorno al aire libre con un fondo verde plano. En el centro de la imagen, hay una plataforma beige que parece ser parte de una infraestructura "sin barreras" diseñada para la accesibilidad. A la izquierda, se observa a una mujer con cabello castaño que lleva gafas oscuras y tiene un bastón blanco, lo que indica que tiene discapacidad visual; viste una camiseta amarilla, falda roja y mochila roja. Ella está caminando sobre una línea táctil de color amarillo brilloso que se encuentra en la superficie, diseñada para guiar a las personas con problemas de visión. A la derecha, hacia el fondo, hay un hombre sentado en una silla de ruedas, vestido con una camiseta naranja y pantalones cortos oscuros, mientras sube por una rampa accesible que tiene bordes elevados blancos para seguridad. La rampa está conectada con la plataforma táctil, demostrando un diseño universal que facilita el acceso tanto para personas con discapacidad visual como para aquellas con movilidad reducida. En la parte inferior izquierda de la imagen aparece el texto "BARRIER FREE", resaltando el propósito de promover la inclusión y la accesibilidad. La ilustración transmite un mensaje positivo, mostrando un entorno funcional y pensado para garantizar la igualdad de oportunidades y la comodidad de las personas con discapacidades. Este diseño simple pero efectivo refleja un ambiente inclusivo y optimista.')
+          img(src='@/assets/curso/temas/tema1/img5_1.png', alt='Figura 1 que relaciona un <em>collage</em> que contiene imágenes alusivas al tipo de vehículos que transportan animales en pie y la forma como se suben y bajan del vehículo.')
       .col-lg-10.desktop(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/temas/tema1/img5.png', alt='Descripción: La imagen muestra una escena ilustrada en un entorno al aire libre con un fondo verde plano. En el centro de la imagen, hay una plataforma beige que parece ser parte de una infraestructura "sin barreras" diseñada para la accesibilidad. A la izquierda, se observa a una mujer con cabello castaño que lleva gafas oscuras y tiene un bastón blanco, lo que indica que tiene discapacidad visual; viste una camiseta amarilla, falda roja y mochila roja. Ella está caminando sobre una línea táctil de color amarillo brilloso que se encuentra en la superficie, diseñada para guiar a las personas con problemas de visión. A la derecha, hacia el fondo, hay un hombre sentado en una silla de ruedas, vestido con una camiseta naranja y pantalones cortos oscuros, mientras sube por una rampa accesible que tiene bordes elevados blancos para seguridad. La rampa está conectada con la plataforma táctil, demostrando un diseño universal que facilita el acceso tanto para personas con discapacidad visual como para aquellas con movilidad reducida. En la parte inferior izquierda de la imagen aparece el texto "BARRIER FREE", resaltando el propósito de promover la inclusión y la accesibilidad. La ilustración transmite un mensaje positivo, mostrando un entorno funcional y pensado para garantizar la igualdad de oportunidades y la comodidad de las personas con discapacidades. Este diseño simple pero efectivo refleja un ambiente inclusivo y optimista.')
+          img(src='@/assets/curso/temas/tema1/img5.png', alt='Figura 1 que relaciona un collage que contiene imágenes alusivas al tipo de vehículos que transportan animales en pie y la forma como se suben y bajan del vehículo.')
 
       
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Requisitos técnicos
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img6.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img6.png" alt="")
       .col-lg-9.mb-lg-0
-        p(data-aos="fade-left") Los requisitos técnicos según el Manual ICA-Mintransporte, se definen como el conjunto estandarizado de condiciones de habitabilidad móvil y protocolos de trato humanitario que buscan transformar el transporte de animales: pasando de ser un simple traslado de mercancía a un proceso de custodia temporal de seres vivos, asegurando que lleguen a su destino con la mínima de peso, sin lesiones y aptos para el consumo humano (si es el fin).        
+        p(data-aos="fade-left") Los requisitos técnicos, según el Manual ICA-Mintransporte, se definen como el conjunto estandarizado de condiciones de habitabilidad móvil y protocolos de trato humanitario que buscan transformar el transporte de animales: pasando de ser un simple traslado de mercancía a un proceso de custodia temporal de seres vivos, asegurando que lleguen a su destino con la mínima de peso, sin lesiones y aptos para el consumo humano (si es el fin).        
         p(data-aos="fade-left") Se trata de un ecosistema de #[b condiciones físicas, sanitarias y operativas] que deben garantizarse obligatoriamente para mover animales en pie por el territorio nacional. El objetivo central ya no es solo el transporte de carga, sino la preservación del bienestar animal y la inocuidad alimentaria.
         p.mb-0 Se pueden estructurar los requisitos técnicos en tres grandes dimensiones según dicho manual:
       
@@ -95,7 +95,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-10.movil
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img7_1.svg" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img7_1.svg" alt="")
           .col-lg-10.desktop(data-aos="zoom-in")
             ImagenInfografica.color-acento-botones
               template(v-slot:imagen)
@@ -145,7 +145,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema1/img14.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img14.png', alt='')
       .col-lg-9.mb-lg-0
         .row
             .col-lg-12
@@ -205,30 +205,30 @@
                 p.mb-0 #[b Equipo de monitoreo (opcional):] para registrar temperatura, humedad y condiciones del viaje.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img15.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img15.png" alt="")
       .row(titulo="Mecánicos")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
             ul.lista-ul
               li
                 i.fas.fa-minus(style="font-size: 8px;top:8px")
-                p.mb-0 #[b Sistema de suspensión:]en buen estado para evitar vibraciones excesivas.
+                p.mb-0 #[b Sistema de suspensión:] en buen estado para evitar vibraciones excesivas.
               li
                 i.fas.fa-minus(style="font-size: 8px;top:8px")
-                p.mb-0 #[b Frenos y dirección:]deben estar en óptimas condiciones para garantizar seguridad vial.
+                p.mb-0 #[b Frenos y dirección:] deben estar en óptimas condiciones para garantizar seguridad vial.
               li
                 i.fas.fa-minus(style="font-size: 8px;top:8px")
                 p.mb-0 #[b Iluminación interna y externa:] adecuada para operaciones nocturnas.
               li
                 i.fas.fa-minus(style="font-size: 8px;top:8px")
-                p.mb-0 #[b Sistema de limpieza:]debe permitir el lavado y desinfección del vehículo antes y después del transporte.
+                p.mb-0 #[b Sistema de limpieza:] debe permitir el lavado y desinfección del vehículo antes y después del transporte.
               li
                 i.fas.fa-minus(style="font-size: 8px;top:8px")
-                p.mb-0 #[b Capacidad de carga:]no debe exceder el peso permitido ni el número máximo de animales por especie, según el anexo técnico del manual ICA.
+                p.mb-0 #[b Capacidad de carga:] no debe exceder el peso permitido ni el número máximo de animales por especie, según el anexo técnico del manual ICA.
               
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img16.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img16.png" alt="")
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -237,12 +237,12 @@
     .row.justify-content-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img17.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img17.png" alt="")
       .col-lg-9
         p(data-aos="fade-left") La carrocería del vehículo de transporte terrestre debe ser considerada como una #[b unidad de contención temporal] diseñada y construida para asegurar la protección de los animales contra lesiones, inclemencias climáticas y estrés, tal como lo exige el principio de bienestar animal.
         p(data-aos="fade-left") Los tipos de diseño de carrocería para el transporte de animales en pie en Colombia están regulados por la normativa del ICA y el Ministerio de Transporte y se clasifican según la especie a transportar. 
         .titulo.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/icon.svg', alt='')
           h5.mb-0 Tipos de vehículos
         p(data-aos="fade-left") Dentro de estas carrocerías se pueden destacar los siguientes tipos de vehículos:
         .row.justify-content-center
@@ -255,7 +255,7 @@
               .row.justify-content-center.mb-3
                 .col-lg-8.fondoh3.p-2
                   h5.mb-0.text-center  Camión rígido
-              p.text-center.mb-0 Vehículo automotor que por su tamaño y destino se usa para transportar carga.
+              p.text-center.mb-0 Vehículo automotor que, por su tamaño y destino, se usa para transportar carga.
           .col-lg-4.mb-4.mb-lg-0
             .tarjeta.color-primario.tarjeta.color-primarios2.tarjeta--BG01.p-4.h-100
               .row.justify-content-center.mb-3
@@ -283,7 +283,7 @@
       h2 1.2 Tipos de corrales, equipo de monitoreo, especificaciones técnicas (sistemas de vigilancia y microclima de carrocerías) y uso
     p.mb-4(data-aos="zoom-in") Este punto se enfoca en los elementos internos del vehículo diseñados para gestionar la carga, supervisar a los animales y controlar las condiciones ambientales durante el viaje.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de corrales
     p.mb-4(data-aos="zoom-in") Los corrales o compartimentos tienen una función esencial en la segregación y estabilidad de la carga, reduciendo el estrés y las lesiones por interacción social. La siguiente tabla detalla los aspectos más destacados de los corrales:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -410,12 +410,12 @@
                   p.mb-0 #[b Bienestar:] un ángulo muy pronunciado o un piso resbaladizo genera pánico, resistencia y caídas, convirtiendo la carga en un evento traumático y peligroso.
       .col-lg-3.col-10.mb-4.mb-lg-0.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema1/img21.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img21.png', alt='')
 
    
     
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Especificaciones técnicas: sistemas de vigilancia y monitoreo
     p.mb-4(data-aos="zoom-in") Aunque la normativa no exige sistemas de videovigilancia obligatorios, sí establece la necesidad de #[b observación regular] y protocolos de inspección en ruta que requieren capacidad de monitoreo. Por ello, es importante tener en cuenta lo siguiente:
 
@@ -446,7 +446,7 @@
                 td(data-label="Aspecto") #[b Monitoreo en guacales/contenedores]
                 td(data-label="Detalle del requisito y protocolo") Para especies transportadas en contenedores (guacales), estos deben tener las aberturas necesarias para garantizar el monitoreo del estado del animal durante el transporte.
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 2.2.c, literal ii:] "Contar con aberturas que permitan la #[b inspección] de las aves, los pollitos de un día de edad y de otras especies".
-    p.mb-4(data-aos="zoom-in") El control de la temperatura y la ventilación (el microclima) es uno de los factores más importantes para reducir el estrés fisiológico, así como la mortalidad durante el transporte y por este motivo, se deben tener las siguientes indicaciones:
+    p.mb-4(data-aos="zoom-in") El control de la temperatura y la ventilación (el microclima) es uno de los factores más importantes para reducir el estrés fisiológico, así como la mortalidad durante el transporte, y por este motivo, se deben tener las siguientes indicaciones:
     
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 3.
@@ -495,7 +495,7 @@
                 p.mb-0 #[b Normativo:] es una herramienta clave para la trazabilidad y para verificar el cumplimiento de los #[b tiempos máximos de jornada] y los #[b periodos de descanso] obligatorios estipulados en la Res. 20223040006915.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img22.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img22.png" alt="")
       .row(titulo="Sensores de temperatura y humedad")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -508,7 +508,7 @@
                 p.mb-0 #[b Bienestar:] permiten al conductor o a la central de monitoreo tomar acciones correctivas (ej. activar ventiladores, buscar sombra, mover el vehículo en porcinos) si se superan los umbrales críticos de estrés térmico.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img23.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img23.png" alt="")
       .row(titulo="Sistemas de videovigilancia")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -522,7 +522,7 @@
                             
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img24.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img24.png" alt="")
       .row(titulo="Sensores biométricos")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -536,14 +536,14 @@
                             
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img25.png" alt="Imagen decorativo")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img25.png" alt="")
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.3 Ficha técnica de homologación del transporte terrestre
     .row.justify-content-center.mb-4
       .col-lg-9.order-lg-1.order-2.mb-lg-0
-        p(data-aos="fade-left") Todo vehículo debe cumplir con lo establecido en su ficha técnica de homologación (registro inicial). No se puede modificar la carrocería (dimensiones o capacidad de carga) alterando las condiciones bajo las cuales fue aprobada por el Ministerio de Transporte, aunque sí se permiten modificaciones internas para el bienestar animal (divisores, pisos) siempre que no alteren la estructura homologada.
+        p(data-aos="fade-left") Todo vehículo debe cumplir con lo establecido en su ficha técnica de homologación (registro inicial). No se puede modificar la carrocería (dimensiones o capacidad de carga) alterando las condiciones bajo las cuales fue aprobada por el Ministerio de Transporte, aunque sí se permiten modificaciones internas para el bienestar animal (divisores, pisos), siempre que no alteren la estructura homologada.
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-1.p-0.px-2.d-none.d-lg-block
             figure
@@ -559,7 +559,7 @@
               p.mb-0  Es así como el manual de procedimientos utiliza esta ficha técnica como un límite inalterable para las modificaciones estructurales de la carrocería, garantizando que el vehículo mantenga su seguridad vial y su capacidad original.
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img27.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img27.png" alt="")
     p(data-aos="fade-left") Igualmente, la ficha técnica define legalmente la capacidad de carga del vehículo. Esta capacidad no solo es un requisito de seguridad vial (pesos por eje), sino que también es un factor limitante para la cantidad máxima de animales a transportar.
     p.mb-4(data-aos="zoom-in") Por lo anterior, es importante tener en cuenta lo siguiente:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -623,7 +623,7 @@
         p.mb-0 El RUNT es la plataforma centralizada que administra toda la información relativa a vehículos, conductores, licencias y empresas de transporte en Colombia. Al respecto se emiten los siguientes aspectos y normativas:
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img28.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img28.png" alt="")
 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 6.
@@ -728,7 +728,7 @@
           img(src='@/assets/curso/temas/tema1/img32.png', alt='Figura 2 que contiene diferentes tipos de documentación y registros del ICA que se deben tener en cuenta al momento de realizar el transporte terrestre del animal en pie.')
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Documentación sanitaria obligatoria (la carga)
     p.mb-4(data-aos="zoom-in") El documento sanitario es el más crítico para la movilización, ya que certifica que los animales cumplen con los requisitos de sanidad animal exigidos por el país y debe aplicar lo siguiente:
 
@@ -757,7 +757,7 @@
 
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Documentación legal del vehículo (la unidad de transporte)
     p.mb-4(data-aos="zoom-in") Estos documentos certifican la legalidad del vehículo para operar en las vías nacionales como automotor de carga y validan sus especificaciones técnicas. Estos son dichos documentos:
 
@@ -792,7 +792,7 @@
 
             
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Documentación de habilitación del personal (conductor/tripulante)
     
     p.mb-4(data-aos="zoom-in") La tripulación debe demostrar conocimiento y capacitación en el manejo humanitario de los animales. Al respecto, se debe tener en cuenta:
@@ -825,7 +825,7 @@
                 td(data-label="Detalle de la función y uso") Documento personal que habilita al conductor para manejar vehículos de transporte de carga (categoría acorde al vehículo).
                 td(data-label="Documento y cita exacta") #[b Ley 769 de 2002 (Código Nacional de Tránsito, referencia legal externa).]
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Documentación operativa (recomendada)
     
     p.mb-4(data-aos="zoom-in") Aunque no son documentos de carácter legal sancionatorio, su porte es parte de las buenas prácticas de manejo y procedimiento exigidas por el manual y se basan con lo siguiente:
@@ -859,7 +859,7 @@
       h2 1.6 Condiciones sanitarias de estructura de carrocería
     p.mb-4(data-aos="zoom-in") Las condiciones sanitarias de la carrocería son fundamentales para prevenir la propagación de enfermedades infectocontagiosas entre animales (bioseguridad) y asegurar la inocuidad del producto final, al evitar que los fluidos corporales contaminen el vehículo, el entorno y los animales transportados.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Requisitos sanitarios de diseño y materiales
     p.mb-4(data-aos="zoom-in") La elección de materiales y el diseño de la estructura deben facilitar la limpieza, que es el paso más importante de la desinfección. Para dar continuidad a este proceso, es necesario tener en cuenta los siguientes detalles y normativa:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -891,7 +891,7 @@
                 td(data-label="Documento y cita exacta") (Implícito en el requisito de ser "lisas" y "facilitar la limpieza". Los materiales higiénicos son un estándar en la industria pecuaria).
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Gestión sanitaria de los pisos y drenaje
     p.mb-4(data-aos="zoom-in") El manejo de las excretas es el requisito sanitario más específico del diseño de la carrocería, siendo las heces y la orina el principal foco de riesgo biológico.
     .BMG1.px-md-5.px-4
@@ -920,7 +920,7 @@
 
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Protocolo sanitario y de bioseguridad (uso)
     p.mb-4(data-aos="zoom-in") Las condiciones sanitarias de la estructura no son permanentes; todo depende de la correcta aplicación de los protocolos de limpieza y desinfección antes y después de cada viaje. Por este motivo es importante tener presente los siguientes detalles:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -971,7 +971,7 @@
           | Este punto es crucial para la formación, ya que la sobrecarga no solo conlleva sanciones de tránsito, sino que es una causa directa de asfixia, estrés térmico y mortalidad de los animales.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Magnitud legal: capacidad de carga (peso bruto)
     p.mb-4(data-aos="zoom-in") La magnitud de carga, en su sentido más estricto, es una restricción legal impuesta por el Ministerio de Transporte para la operación del vehículo y se basa a partir de lo siguiente: 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -998,12 +998,12 @@
                 td(data-label="Documento y cita exacta") #[b Manual, Numeral 1. Definiciones (Capacidad de Carga):] "No podrá alterar la Capacidad de Carga consignada en la licencia de tránsito".
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Magnitud operacional: densidad de carga (espacio por animal)
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img34.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img34.png" alt="")
       .col-lg-9
         p(data-aos="fade-left") La densidad de carga es el factor que mide el #[b espacio físico (metros cuadrados, m2)] asignada a cada animal y es la principal herramienta de bienestar animal para prevenir el hacinamiento. Esta densidad debe ser respetada #[b siempre], incluso si el vehículo no alcanza su capacidad de carga legal en peso.
         p(data-aos="fade-left") Su fórmula conceptual es:
@@ -1016,9 +1016,9 @@
               hr(style="border:1px solid #000; margin:2px 0; width:100%;")
               | Área del piso de la carrocería (m²)
         p.text-bold Propósito de la densidad: 
-        p.mb-0 El espacio mínimo debe permitir que los animales puedan pararse y echarse en su posición natural, y, dependiendo de la especie, tener acceso al agua y alimento durante las paradas.
+        p.mb-0 El espacio mínimo debe permitir que los animales puedan pararse y echarse en su posición natural y, dependiendo de la especie, tener acceso al agua y alimento durante las paradas.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Referencia a los cuadros de densidad del manual de transporte
     p.mb-4(data-aos="zoom-in") El manual de procedimientos remite a cuadros detallados que el transportador debe consultar obligatoriamente para determinar el número máximo de animales que puede cargar. Estos cuadros se basan en el peso promedio de los animales y la especie; además, deben tener en cuenta:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -1061,7 +1061,7 @@
 
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Densidad de carga para bovinos y bufalinos (ganado)
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.orden-lg-1
@@ -1105,7 +1105,7 @@
                     td(data-label="Densidad (animales por m²)") 0.50
       .col-lg-3.col-6.mb-lg-0.mb-4.order-1.orden-lg-2
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img37_1.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img37_1.png" alt="")
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -1117,15 +1117,15 @@
 
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Densidad de carga para porcinos (cerdos)
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img37.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img37.png" alt="")
       .col-lg-9
-        p(data-aos="fade-left") La densidad para porcinos se calcula en kilogramos por metro cuadrado (kg/m2) y varía según el peso del animal; basándose en las siguientes medidas:
+        p(data-aos="fade-left") La densidad para porcinos se calcula en kilogramos por metro cuadrado (kg/m2) y varía según el peso del animal, basándose en las siguientes medidas:
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           h5 Tabla 19.
           i Densidad de carga para porcinos
@@ -1162,11 +1162,11 @@
               p.mb-0(style="margin-top: 42px;") #[b Criterios adicionales:] la densidad debe ser ajustada para garantizar que todos los cerdos puedan echarse y levantarse sin dificultad en su posición natural.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Densidad de carga para aves (pollos, pavos, patos, codornices)
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.orden-lg-1.order-2
-        p.mb-4(data-aos="zoom-in") Para el transporte aviar, la densidad se mide exclusivamente en kilogramos por metro cuadrado (kg/m2) dentro de los guacales o compartimentos y así como el ganado y porcinos, se deben basar a partir de las siguientes medidas:
+        p.mb-4(data-aos="zoom-in") Para el transporte aviar, la densidad se mide exclusivamente en kilogramos por metro cuadrado (kg/m2) dentro de los guacales o compartimentos y; así como el ganado y porcinos, se debe basar a partir de las siguientes medidas:
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           h5 Tabla 20.
           i Densidad de carga para aves
@@ -1202,7 +1202,7 @@
                     td(data-label="Densidad máxima requerida (kg/m²)") 45 – 50
       .col-lg-3.col-6.mb-lg-0.mb-4.orden-lg-2.order-1
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img37_2.png" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img37_2.png" alt="")
     p.mb-4(data-aos="zoom-in") Las siguientes son las consideraciones especiales para aves:
     .row.justify-content-center
       .col-lg-4.mb-4.mb-lg-0
@@ -1224,7 +1224,7 @@
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Contención
-          p.text-center.mb-0 Vehículo no motorizado, halado por una unidad tractora a la cual no le transmite peso.Los contenedores deben estar fijados para evitar su desplazamiento o volcamiento durante el trayecto.
+          p.text-center.mb-0 Los contenedores deben estar fijados para evitar su desplazamiento o volcamiento durante el trayecto. 
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-primario.tarjeta.color-primarios2.tarjeta--BG01.p-4.h-100
           .row.justify-content-center.mb-3

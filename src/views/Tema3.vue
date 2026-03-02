@@ -9,12 +9,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img1.png" alt="Imagen decorativa")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img1.png" alt="")
         figcaption Fuente: Contexto ganadero (2017)
     
     p.mb-4(data-aos="fade-right") La interacción entre el ser humano y el animal es crítica en el transporte terrestre, ya que el manejo adecuado influye directamente en los niveles de estrés y, por ende, en el bienestar animal y la calidad de la carne (inocuidad). El manual de procedimientos exige que el personal tenga un conocimiento básico de etología (ciencia que estudia el comportamiento animal) y de sus sentidos.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Principios de interacción humano – animal
     p.mb-4(data-aos="fade-right") La normativa del transporte se centra en la aplicación de técnicas de manejo que minimizan la respuesta negativa del animal al contacto humano y se deben tener en cuenta las siguientes acciones:
 
@@ -40,7 +40,7 @@
                   p.mb-0 #[b Comportamiento y la zona de fuga:] los animales de granja, al ser especies de presa, poseen una zona de fuga o área de seguridad que el manejador debe respetar.              
       .col-lg-4.col-6.order-1.orden-lg-2.mb-4.mb-lg-0
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img2.png" alt="Imagen decorativa")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img2.png" alt="")
     p.mb-4(data-aos="fade-right") Basado en la zona de fuga o área de seguridad de los animales de granja, es preciso conocer lo siguiente:
 
     .row.mb-lg-5.mb-4
@@ -87,10 +87,10 @@
         figcaption Fuente: Ramírez, Guarín Montoya & Bedoya (2022)
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Sentido animal, relevantes en el manejo
       
-    p.mb-4(data-aos="fade-right") Comprender cómo perciben los animales su entorno es clave para un manejo y transporte seguros. Por ello, se relaciona una tabla que resume la importancia de cada sentido en el comportamiento de los bovinos y otras especies; además de cómo estos factores influyen en su reacción ante estímulos durante las labores de movilización:
+    p.mb-4(data-aos="fade-right") Comprender cómo perciben los animales su entorno es clave para un manejo y transporte seguros. Por ello, se relaciona una tabla que resume la importancia de cada sentido en el comportamiento de los bovinos y otras especies, además de cómo estos factores influyen en su reacción ante estímulos durante las labores de movilización:
 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 43.
@@ -117,7 +117,7 @@
                 td(data-label="Sentido") #[b Tacto]
                 td(data-label="Importancia para el manejo y transporte") La sensibilidad táctil influye en el uso de los #[b implementos de manejo] (banderas, paletas o bastones). Estos deben usarse solo como #[b extensión del brazo], tocando la zona de impulso del animal, y #[b nunca como elemento de castigo].
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Manejo etológico: etapas del transporte que lo requieren 
     p.mb-4(data-aos="fade-right") El conocimiento del comportamiento animal se aplica obligatoriamente en todas las fases del transporte, como son:
 
@@ -127,26 +127,24 @@
           .row
             .col-lg-7.order-2.order-lg-1
               h5 Cargue y descargue
-              p.mb-0 Es la fase de mayor riesgo de lesión. El manejo etológico exige el uso de #[b rampas con baja inclinación] (máximo 20°) y superficies antideslizantes, moviendo a los animales en #[b grupos pequeños] o individualmente con #[b calma], sin el uso de elementos que generen dolor o temor.
+              p.mb-0 Es la fase de mayor riesgo de lesión. El manejo etológico exige el uso de #[b rampas con baja inclinación] (máximo 20 °) y superficies antideslizantes, moviendo a los animales en #[b grupos pequeños] o individualmente con #[b calma], sin el uso de elementos que generen dolor o temor.
             .col-lg-5.col-10.order-1.order-lg-2.mb-4
               figure
-                img(src='@/assets/curso/temas/tema3/img7.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema3/img7.png', alt='')
           .row
             .col-lg-7.order-2.order-lg-1
               h5 Movimiento en ruta
               p.mb-0 El conductor debe aplicar técnicas de #[b conducción suave] (frenado y aceleración progresiva) para contrarrestar la inercia y evitar que el animal pierda el equilibrio, lo que activa el miedo y el instinto de defensa.
             .col-lg-5.col-10.order-1.order-lg-2.mb-4
               figure
-                img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema3/img8.png', alt='')
           .row
             .col-lg-7.order-2.order-lg-1
               h5 Separación y densidad
               p.mb-0 El manejo exige la #[b separación por grupos] (toros, vacas, animales con cuernos) y el respeto a la #[b densidad de carga] para permitir al animal un comportamiento natural básico (levantarse o acostarse) y reducir el conflicto social dentro del vehículo.
             .col-lg-5.col-10.order-1.order-lg-2.mb-4
               figure
-                img(src='@/assets/curso/temas/tema3/img9.png', alt='Imagen decorativa')
-
-
+                img(src='@/assets/curso/temas/tema3/img9.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -157,26 +155,24 @@
               p(style="margin-top: 42px;").text-bold.text-center Soporte documental
               p.text-center.mb-0 La separación de animales es un requisito explícito para evitar hostilidad.
 
-
-
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Seguridad sanitaria animal
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.d-none.d-lg-block
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="Imagen decorativa")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="")
       .col-lg-11
         p.mb-0(data-aos="fade-right") La #[b seguridad sanitaria] animal (también referida en la documentación como condiciones sanitarias y fitosanitarias) en el transporte terrestre es el conjunto de protocolos destinados a prevenir la transmisión y dispersión de enfermedades durante la movilización, protegiendo tanto la salud de los animales como la inocuidad de los productos finales de consumo humano.
     
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Concepto y objetivo de la seguridad sanitaria
     
     p.mb-4(data-aos="fade-right") La seguridad sanitaria implica la aplicación de la bioseguridad y los controles oficiales en cada etapa del transporte. Su objetivo es mantener el estado de salud de la carga viva y evitar que el vehículo actúe como un vector de enfermedades (contaminación cruzada) o que los fluidos biológicos contaminen el medio ambiente.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Objetivo de la norma
     
     p.mb-4(data-aos="fade-right") El objetivo de la Resolución 20223040006915, en materia sanitaria, es dual:
@@ -203,7 +199,7 @@
             
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img14.png', alt='')
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-right")
@@ -217,13 +213,13 @@
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.2 Sanidad y salud animal (rangos de temperatura)
-    p.mb-4(data-aos="fade-right") La seguridad sanitaria y salud animal en el transporte terrestre, se enfoca en la prevención de riesgos biológicos y físicos que afectan el estado físico y mental de los animales, teniendo como punto de control clave el manejo de la temperatura.
+    p.mb-4(data-aos="fade-right") La seguridad sanitaria y salud animal en el transporte terrestre se enfoca en la prevención de riesgos biológicos y físicos que afectan el estado físico y mental de los animales, teniendo como punto de control clave el manejo de la temperatura.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Rango de temperatura para la salud animal
 
-    p.mb-4(data-aos="fade-right") El control de la temperatura es una medida esencial para evitar el estrés térmico, el cual compromete la salud y el bienestar de los animales durante el viaje. Al respecto se debe tener en cuenta:
+    p.mb-4(data-aos="fade-right") El control de la temperatura es una medida esencial para evitar el estrés térmico, el cual compromete la salud y el bienestar de los animales durante el viaje. Al respecto, se debe tener en cuenta:
 
     .row.justify-content-center.mb-4(style="margin-top:4.5rem;")
       .col-lg-8.position-relative
@@ -257,7 +253,7 @@
 
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Medidas de seguridad sanitaria
       
     p.mb-4(data-aos="fade-right") La sanidad animal está directamente ligada a las condiciones de higiene del vehículo y el control oficial, cuyo objetivo es la prevención, vigilancia y control de los riesgos sanitarios, biológicos y químicos; por lo anterior, se deben tener en cuenta las siguientes medidas y normativas:
@@ -293,7 +289,7 @@
                 td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 2.2.ci):] "...elaboradas de materiales que #[b facilitan la limpieza y desinfección], seguras y lisas..."
     
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Vigilancia sanitaria y control
       
     p.mb-4(data-aos="fade-right") El cumplimiento de estas medidas de seguridad sanitaria está bajo el siguiente control de la autoridad competente:
@@ -301,7 +297,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.movil
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img19_1.svg" alt="Imagen decorativo")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img19_1.svg" alt="")
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
@@ -313,9 +309,7 @@
             p.mb-0  Al adoptar estas medidas se busca proteger la salud de las personas, los animales y las plantas, y asegurar las condiciones del comercio, contribuyendo a la inocuidad de sus productos en la producción primaria.
             
           .tarjeta.color-secundario.p-3(x="61.5%" y="84%" numero="+")            
-            p.mb-0  Los funcionarios del ICA que realizan estas funciones de inspección, vigilancia y control, tienen el carácter de inspectores de policía sanitaria.
-
-
+            p.mb-0  Los funcionarios del ICA que realizan estas funciones de inspección, vigilancia y control tienen el carácter de inspectores de policía sanitaria.
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -324,10 +318,10 @@
     p.mb-4 Estas técnicas son el conjunto de procedimientos que buscan minimizar el dolor, el sufrimiento y el estrés de los animales durante las etapas de cargue, transporte, traslado y descenso. Un buen manejo es adecuado para el bienestar animal y está directamente relacionado con la inocuidad de los productos cárnicos.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Métodos de manejo previo al cargue
     
-    p.mb-4(data-aos="fade-right") El cuidado de los animales comienza antes de que pisen el vehículo, enfocándose en la selección y la preparación y se divide en:
+    p.mb-4(data-aos="fade-right") El cuidado de los animales comienza antes de que pisen el vehículo, enfocándose en la selección y la preparación, y se divide en:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-2.orden-lg-1
@@ -346,10 +340,10 @@
                 img(src='@/assets/curso/temas/tema3/img21.png', alt='Texto que describa la imagen')
       .col-lg-4.order-1.orden-lg-2.mb-4.mb-lg-0
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img23.png" alt="Imagen decorativa")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img23.png" alt="")
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnicas de carga y descarga (manejo etológico)
     
     p.mb-4(data-aos="fade-right") El cargue y descargue son las fases de mayor riesgo de lesión y estrés. El manejo debe ser guiado por principios etológicos (comportamiento animal) para la calma y la seguridad, sobre los cuales se encuentran:
@@ -382,10 +376,10 @@
             .h2 4
           p.text-center 
             b Separación de grupos
-          p.text-center.mb-0 Es una técnica de cuidado social. Deben utilizarse separadores o barreras fuertes para organizar y separar los animales por grupos según la especie, edad, tamaño o si presentan condiciones de hostilidad.
+          p.text-center.mb-0 Es una técnica de cuidado social. Deben utilizarse separadores o barreras fuertes para organizar y separar a los animales por grupos según la especie, edad, tamaño o si presentan condiciones de hostilidad.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Métodos de cuidado y vigilancia en ruta
     
     p.mb-4(data-aos="fade-right") El conductor y la tripulación son responsables del cuidado activo de la carga durante el viaje; por lo cual se deben tener en cuenta las siguientes acciones:
@@ -410,8 +404,7 @@
               p.mb-0 En viajes largos, deben realizarse interrupciones en un lugar de descanso de los animales para realizar actividades de inspección, alojamiento, hidratación o alimentación.
       .col-lg-3.col-10.mb-4.mb-lg-0.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema3/img25.png', alt='Imagen decorativa')
-
+          img(src='@/assets/curso/temas/tema3/img25.png', alt='')
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -419,13 +412,13 @@
     p.mb-4(data-aos="fade-right") La identificación de animales aptos y no aptos para el transporte es un proceso de control crucial y obligatorio que debe realizarse antes del transporte, siendo una responsabilidad directa del propietario, tenedor o poseedor de los animales.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnica de identificación: observación y selección
       
     p.mb-4(data-aos="fade-right") La técnica fundamental para determinar la idoneidad de un animal para el transporte es la observación exhaustiva y la selección por parte del responsable del cargue. Este proceso debe asegurar que el animal pueda soportar el estrés y la duración del viaje sin sufrir un sufrimiento injustificado.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Criterios de exclusión (animales no aptos)
       
     p.mb-4(data-aos="fade-right") El manual de procedimientos establece que los siguientes animales deben ser detectados y excluidos del transporte:
@@ -456,7 +449,7 @@
                 td(data-label="Descripción detallada") #[b Hembras próximas al parto] (en el #[b último tercio de gestación]) o aquellas que hayan parido #[b siete (7) días antes] de la fecha del embarque.
                 td(data-label="Soporte documental (texto exacto)") #[b Manual de procedimiento (Num. 4.ai):] "#[b Hembras próximas al parto] (último tercio de gestación) o que hayan parido #[b siete (7) días antes] de la fecha del embarque".
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Técnicas de manejo para animales condicionalmente aptos
 
     p.mb-4 Existen animales que son aptos, pero que requieren estas técnicas de manejo especial para minimizar el riesgo de lesiones a sí mismos o a otros:
@@ -465,23 +458,23 @@
         .col-lg-5.mb-4.mb-lg-0
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100          
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-                img(src='@/assets/curso/temas/tema3/img26.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema3/img26.png', alt='')
                 .p-4
                   h5 Separación por condición
                   p Los animales con cuernos que puedan lesionar a otros, los machos sexualmente maduros de las hembras y los animales de diferente edad o tamaño deben ser separados utilizando barreras o divisiones fuertes dentro del vehículo.
         .col-lg-5
           .tarjeta-avatar(style="padding-top: 0px !important;").h-100            
               .tarjeta.color-primarios.w-100(style="padding-top: 0px !important;")
-                img(src='@/assets/curso/temas/tema3/img27.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema3/img27.png', alt='')
                 .p-4
                   h5 Gestión de heridas menores
                   p Las heridas que no impiden la movilización ni el equilibrio deben ser evaluadas por un profesional. Si la herida es mínima, el animal puede ser transportado, asegurando que se minimice el riesgo de contacto con otros.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Definición de posición de equilibrio estático animal
 
-    p.mb-4(data-aos="fade-right") Antes de indicar lo relacionado con esta definición, es importantes analizar la siguiente imagen:
+    p.mb-4(data-aos="fade-right") Antes de indicar lo relacionado con esta definición, es importante analizar la siguiente imagen:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10
@@ -498,7 +491,7 @@
           img(src='@/assets/curso/temas/tema3/img28.png', alt='Figura 6 que presenta los resultados acertados de inferencia en diferentes tipos de animales en pie, como son ganado, camellos, búfalos, caballos, entre otros; todo ello basado en la postura de dichos animales.')
         figcaption Fuente: Ramírez, Guarín Montoya & Bedoya (2022)
     
-    p.mb-4(data-aos="fade-right") La principal técnica de exclusión se basa en la capacidad del animal para mantenerse en pie y por ello, basado en la posición de estación de equilibrio estático animal, se relaciona lo siguiente:
+    p.mb-4(data-aos="fade-right") La principal técnica de exclusión se basa en la capacidad del animal para mantenerse en pie y, por ello, basado en la posición de estación de equilibrio estático animal, se relaciona lo siguiente:
     
     .row.justify-content-center.mb-4
       .col-lg-9.order-lg-1.order-2.mb-lg-0
@@ -518,11 +511,11 @@
                 .tarjeta.tarjeta--verde
                   .p-4
                     h5 Soporte documental (texto exacto)
-                    p.mb-0 Manual de procedimiento (Num. 1. Definiciones): la definición no está listada en el glosario principal, pero el término es el criterio de exclusión principal en el numeral 4
+                    p.mb-0 Manual de procedimiento (Num. 1. Definiciones): la definición no está listada en el glosario principal, pero el término es el criterio de exclusión principal en el numeral 4.
             
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema3/img31.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img31.svg', alt='')
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -548,7 +541,7 @@
           | Las instalaciones pecuarias deben garantizar la bioseguridad y facilitar las técnicas de manejo humanitario para asegurar el bienestar animal antes y después del traslado.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Instalaciones pecuarias como punto de origen y destino
       
     p.mb-4(data-aos="fade-right") El rol principal de la instalación pequeña (finca) es servir como el lugar donde se inicia y finaliza el proceso de movilización. Dichas instalaciones deben tener en cuenta lo siguiente:
@@ -580,10 +573,10 @@
                 td(data-label="Soporte documental (base)") (Implícito en la función de control del ICA).
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Requisitos de las instalaciones de manejo (corrales y rampas)
       
-    p.mb-4(data-aos="fade-right") Las instalaciones utilizadas para el cargue y descargue son críticas y deben diseñarse para el manejo etológico y la seguridad y cada una debe contener los siguientes aspectos:
+    p.mb-4(data-aos="fade-right") Las instalaciones utilizadas para el cargue y descargue son críticas y deben diseñarse para el manejo etológico y la seguridad, y cada una debe contener los siguientes aspectos:
 
     .titulo2.mb-4(data-aos="fade-left")
       h5.mb-0 A.	Rampa de cargue/descargue (técnica de la instalación)
@@ -661,7 +654,7 @@
             p.mt-3.px-4 Los corrales deben permitir el manejo sin gritos, sin ruidos ni hostigamiento, facilitando el uso de técnicas basadas en la zona de fuga.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Instalaciones de bioseguridad y descanso
       
     p.mb-4(data-aos="fade-right") El protocolo sanitario y el plan de contingencia definen la necesidad de los siguientes tipos de instalaciones peculiares especializadas:
