@@ -15,22 +15,22 @@
           .row.justify-content-center.align-items-center
             .col-lg-1.p-0.d-none.d-lg-block
               figure(data-aos="zoom-in")
-                img.img-fluid(src="@/assets/curso/temas/intro/img1.svg" alt="Icono 1")
+                img.img-fluid(src="@/assets/curso/temas/intro/img1.svg")
             .col-lg-11
               p.mb-0(data-aos="fade-left") En respuesta a la necesidad de mitigar estos efectos y alinear las prácticas nacionales con estándares internacionales, el Gobierno de Colombia, a través del Ministerio de Transporte y el Instituto Colombiano Agropecuario (ICA), promulgó la Resolución 20223040006915 de 2022. Este acto administrativo adopta el "Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie", un documento técnico de carácter vinculante que establece los parámetros obligatorios para esta actividad.
       .col-lg-3
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/intro/img2.svg" alt="Icono 1")
+          img.img-fluid(src="@/assets/curso/temas/intro/img2.svg")
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.order-lg-1.order-2
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/intro/img3.png" alt="Icono 1")
+          img.img-fluid(src="@/assets/curso/temas/intro/img3.png")
       .col-lg-9.order-lg-2.order-1
         p(data-aos="fade-left") Este componente formativo ha sido diseñado como una guía de referencia técnica para la interpretación y aplicación rigurosa de dicha normativa. Su objetivo trasciende el mero cumplimiento legal; busca impartir un conocimiento profundo sobre los puntos críticos de control durante todo el proceso de movilización. Esto incluye la evaluación de la aptitud de los animales para el viaje, las condiciones de ayuno, el diseño y mantenimiento de los vehículos, las densidades de carga adecuadas para cada especie, así como las técnicas de manejo durante el embarque, el trayecto y el desembarque.
         .row
           .col-lg-1.p-0.px-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
-              img.img-fluid(src="@/assets/curso/temas/intro/img4.svg" alt="Icono 1")
+              img.img-fluid(src="@/assets/curso/temas/intro/img4.svg")
           .col-lg-11
             p.mb-0(data-aos="fade-left") A lo largo de este estudio, se analizarán en detalle las responsabilidades y obligaciones de cada uno de los actores implicados en la cadena logística: desde el propietario o tenedor de los animales, pasando por las empresas transportadoras y los conductores, hasta el personal en los puntos de destino como ferias, plantas de beneficio o predios de producción. Se profundizará en las especificaciones técnicas de los vehículos, la documentación sanitaria y de movilización exigida (como la Guía Sanitaria de Movilización Interna - GSMI) y los protocolos de actuación ante contingencias, todo ello fundamentado en los principios de un trato humanitario que minimice el sufrimiento y la angustia de los animales.
     p.mb-4(data-aos="fade-left") La asimilación de estos conocimientos es indispensable para los profesionales del sector pecuario y logístico, permitiéndoles operar bajo un marco de responsabilidad, eficiencia y competitividad. 

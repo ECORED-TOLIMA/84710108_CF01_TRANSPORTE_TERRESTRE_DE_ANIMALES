@@ -10,13 +10,13 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img1.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img1.png")
       .col-lg-7
         .tarjeta.color-primarios2.p-4
           .row.mb-4
             .col-lg-6
               figure
-                img.img-fluid(src="@/assets/curso/temas/tema2/img2.svg" alt="Icono decorativo")
+                img.img-fluid(src="@/assets/curso/temas/tema2/img2.svg")
           p.mb-0 El marco normativo principal es la resolución conjunta del Ministerio de Transporte (MT) y el Instituto Colombiano Agropecuario (ICA), cuyo objetivo principal es proteger el bienestar animal durante todas las etapas de la movilización.
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
@@ -62,12 +62,12 @@
           .row.mb-3
             .col-lg-1.p-2.d-none.d-lg-block
               figure
-                img.img-fluid(src="@/assets/curso/temas/tema2/img3.svg" alt="Icono decorativo")
+                img.img-fluid(src="@/assets/curso/temas/tema2/img3.svg")
           p.mb-0 El manual, aunque no define un término genérico de "tipos de manejo", establece los procedimientos de manejo que deben aplicarse durante las fases críticas de la operación logística. El manejo se centra en garantizar el bienestar animal mediante técnicas y equipos adecuados, especialmente durante el cargue, traslado y descenso. Al respecto se plantean los siguientes aspectos:
       .col-lg-4.order-1.order-lg-2
         .tarjeta-color-primarios2
           figure
-            img.img-fluid(src="@/assets/curso/temas/tema2/img4.svg" alt="Icono decorativo")
+            img.img-fluid(src="@/assets/curso/temas/tema2/img4.svg")
     
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 22.
@@ -257,7 +257,7 @@
 
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img6.svg" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img6.svg")
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
@@ -278,7 +278,7 @@
                 p.text-bold.mb-0 Área disponible (m2) = largo de la carrocería x ancho de la carrocería
             .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
               figure
-                img.img-fluid(src="@/assets/curso/temas/tema2/img7.png" alt="")
+                img.img-fluid(src="@/assets/curso/temas/tema2/img7.png")
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -307,7 +307,7 @@
 
               .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
                 figure
-                  img.img-fluid(src="@/assets/curso/temas/tema2/img8.png" alt="")
+                  img.img-fluid(src="@/assets/curso/temas/tema2/img8.png")
           p.mb-0 Soporte documental: "La densidad de carga debe determinarse a partir de fórmulas de cálculo o de las tablas anexas al Manual o de las referencias de la Organización Mundial de Sanidad Animal (OIE)." — Manual de Procedimientos, Numeral 4.c.
           
 
@@ -372,7 +372,7 @@
 
               .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
                 figure
-                  img.img-fluid(src="@/assets/curso/temas/tema2/img9.png" alt="")
+                  img.img-fluid(src="@/assets/curso/temas/tema2/img9.png")
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -383,7 +383,7 @@
               .col-lg-12
                 p #[b Proceso:] el peso total de la carga (peso vivo de animales) + (peso de la carrocería de transporte) debe ser menor o igual a la capacidad de carga autorizada en el vehículo.
           figure.text-center
-            img.img-fluid(src="@/assets/curso/temas/tema2/img10.png" alt="")
+            img.img-fluid(src="@/assets/curso/temas/tema2/img10.png")
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -405,7 +405,7 @@
 
               .col-lg-2.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
                 figure
-                  img.img-fluid(src="@/assets/curso/temas/tema2/img11.png" alt="")
+                  img.img-fluid(src="@/assets/curso/temas/tema2/img11.png")
           p.mb-0 #[b Entonces:] la magnitud de carga correcta y obligatoria es de 18 bovinos, ya que la ley exige cumplir con el límite más estricto entre el bienestar animal y la seguridad vial.
 
     separador
@@ -523,17 +523,17 @@
           p.mb-0 Entrando en detalle, las Cinco Libertades son el estándar de oro de la Organización Mundial de Sanidad Animal (OIE), adoptado por el ICA, que define las condiciones ideales para el bienestar animal y se representa de la siguiente manera:
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img16.svg" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img16.svg")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.movil
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img17_1.svg" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img17_1.svg")
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema2/img17.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img17.svg', alt='')
           .tarjeta.color-secundario.p-3(x="42.8%" y="80%" numero="+")
             p Suministro de agua y alimento o periodos de descanso programados para proveerlos, especialmente en viajes largos (cada 8 horas).
             p.mb-0 Se garantiza con un ayuno correcto (no excesivo) y con los periodos obligatorios de descanso, hidratación y alimentación en jornadas largas (Res. 20223040006915).
@@ -583,7 +583,7 @@
                   | Miedo, angustia y bienestar general.
           .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.png")
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Glosario de normativa específica del bienestar
@@ -626,7 +626,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img18.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img18.png")
       .col-lg-9(data-aos="fade-right")
         .tarjeta.color-primarios3.p-4
           p La conducción es un factor determinante en el bienestar animal durante el transporte terrestre. Una conducción brusca o inadecuada genera estrés, caídas, contusiones y lesiones graves, afectando la calidad e inocuidad de la carga.
@@ -996,7 +996,7 @@
         p.mb-4(data-aos="fade-right") La documentación (Resolución 20223040006915) se enfoca en los requisitos estructurales del vehículo que facilitan esta tarea y la obligatoriedad de realizarla.
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.svg" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema2/img18_1.svg")
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
@@ -1051,7 +1051,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema2/img25.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img25.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.p-2
               h5.mb-0.text-center Detergentes o Jabones
@@ -1061,7 +1061,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema2/img26.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img26.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.p-2
               h5.mb-0.text-center Desinfectantes
@@ -1069,7 +1069,7 @@
       .col-lg-4(data-aos="fade-right")
         .tarjeta.h-100
           figure
-            img(src='@/assets/curso/temas/tema2/img27.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema2/img27.png', alt='')
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
@@ -1082,21 +1082,21 @@
         .row.justify-content-center.mb-4
           .col-lg-6
             figure
-              img(src='@/assets/curso/temas/tema2/img28_3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img28_3.svg', alt='')
         h5.text-center Fundamento
         p.mb-0 Los productos químicos y desinfectantes utilizados en la cadena pecuaria deben estar registrados y aprobados por la autoridad sanitaria competente (ICA o Invima), garantizando que son seguros y efectivos para el propósito de bioseguridad en las granjas y vehículos de transporte.
       .col-lg.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-lg-6
             figure
-              img(src='@/assets/curso/temas/tema2/img29_3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img29_3.svg', alt='')
         h5.text-center Requisito de cumplimiento
         p.mb-0 Los transportadores deben emplear productos que cumplan con la normativa sanitaria vigente para el control de patógenos en instalaciones y equipos pecuarios.
       .col-lg.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
           .col-lg-6
             figure
-              img(src='@/assets/curso/temas/tema2/img30_3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img30_3.svg', alt='')
         h5.text-center Soporte documental
         p.mb-0 La resolución establece la necesidad de condiciones sanitarias y fitosanitarias; además, exige la desinfección, lo que implica el uso de productos aprobados.
 
@@ -1252,7 +1252,7 @@
                 td(data-label="Consecuencia y control") La medida es la corrección inmediata del sistema de contención.
 
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='')
+      img(src='@/assets/curso/temas/icon.svg')
       h5.mb-0 Tipos de formatos de inspección y control
       
     p.mb-4(data-aos="fade-right") Los formatos específicos son documentos internos de las autoridades (ICA o tránsito), pero en la práctica, los principales instrumentos de control utilizados en carretera son:
@@ -1261,14 +1261,14 @@
       .col-12.movil.mb-4
         .tarjeta.tarjeta--BG04.p-4
           figure.mb-4
-              img(src="@/assets/curso/temas/tema2/img37.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img37.png")
           h4.mb-3 Guía Sanitaria de Movilización (GSM)
           p.mb-0 Documento principal de control sanitario. Verifica la legalidad y el estado sanitario de la carga. El formato está estandarizado por el ICA.
       .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.desktop
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema2/img37.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img37.png")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -1279,7 +1279,7 @@
       .col-12.movil
         .tarjeta.tarjeta--BG04.p-4
           figure.mb-4
-              img(src="@/assets/curso/temas/tema2/img38.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img38.png")
           h4.mb-3 Acta de inspección del vehículo
           p.mb-0 Formato donde el funcionario del ICA registra el cumplimiento de los requisitos estructurales (pisos, rampas, ventilación) y la densidad de carga en el momento de la inspección.
 
@@ -1287,7 +1287,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema2/img38.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img38.png")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -1310,7 +1310,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema2/img39.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img39.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Requisito
@@ -1320,7 +1320,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema2/img40.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img40.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Exigencia
@@ -1330,7 +1330,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema2/img41.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img41.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Acreditación

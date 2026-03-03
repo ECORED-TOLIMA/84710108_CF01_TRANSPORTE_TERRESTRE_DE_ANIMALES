@@ -21,12 +21,12 @@
         .row.justify-content-center.align-items-center
           .col-lg-1.p-0.px-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
-              img.img-fluid(src="@/assets/curso/temas/intro/img4.svg" alt="Icono 1")
+              img.img-fluid(src="@/assets/curso/temas/intro/img4.svg")
           .col-lg-11
             p.mb-0 Este tipo de vehículo es aquel diseñado o adaptado específicamente para movilizar animales vivos (bovinos, porcinos, ovinos, caprinos, equinos, aves, entre otros) por carretera, garantizando condiciones adecuadas de bienestar animal, bioseguridad, sanidad y seguridad vial durante todo el proceso de cargue, transporte y descargue.
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img2.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img2.png")
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
       h5.mb-0 Tipos de vehículos
@@ -81,7 +81,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img6.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img6.png")
       .col-lg-9.mb-lg-0
         p(data-aos="fade-left") Los requisitos técnicos, según el Manual ICA-Mintransporte, se definen como el conjunto estandarizado de condiciones de habitabilidad móvil y protocolos de trato humanitario que buscan transformar el transporte de animales: pasando de ser un simple traslado de mercancía a un proceso de custodia temporal de seres vivos, asegurando que lleguen a su destino con la mínima de peso, sin lesiones y aptos para el consumo humano (si es el fin).        
         p(data-aos="fade-left") Se trata de un ecosistema de #[b condiciones físicas, sanitarias y operativas] que deben garantizarse obligatoriamente para mover animales en pie por el territorio nacional. El objetivo central ya no es solo el transporte de carga, sino la preservación del bienestar animal y la inocuidad alimentaria.
@@ -95,12 +95,12 @@
         .row.justify-content-center.align-items-center
           .col-lg-10.movil
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img7_1.svg" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img7_1.svg")
           .col-lg-10.desktop(data-aos="zoom-in")
             ImagenInfografica.color-acento-botones
               template(v-slot:imagen)
                 figure
-                  img(src='@/assets/curso/temas/tema1/img7.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/img7.svg', alt='')
               .tarjeta.color-secundario.p-3(x="25%" y="22%" numero="+")            
                 h5 Protección climática
                 p.mb-0 El vehículo debe tener carpa o techo que proteja del sol directo y la lluvia, pero que permita la circulación de aire.
@@ -205,7 +205,7 @@
                 p.mb-0 #[b Equipo de monitoreo (opcional):] para registrar temperatura, humedad y condiciones del viaje.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img15.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img15.png")
       .row(titulo="Mecánicos")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -228,7 +228,7 @@
               
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img16.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img16.png")
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -237,7 +237,7 @@
     .row.justify-content-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img17.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img17.png")
       .col-lg-9
         p(data-aos="fade-left") La carrocería del vehículo de transporte terrestre debe ser considerada como una #[b unidad de contención temporal] diseñada y construida para asegurar la protección de los animales contra lesiones, inclemencias climáticas y estrés, tal como lo exige el principio de bienestar animal.
         p(data-aos="fade-left") Los tipos de diseño de carrocería para el transporte de animales en pie en Colombia están regulados por la normativa del ICA y el Ministerio de Transporte y se clasifican según la especie a transportar. 
@@ -251,7 +251,7 @@
               .row.justify-content-center.mb-3
                 .col-lg-4.col-6.mb-4.mb-lg-0
                   figure
-                    img(src='@/assets/curso/temas/tema1/img18.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/img18.svg', alt='')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondoh3.p-2
                   h5.mb-0.text-center  Camión rígido
@@ -261,7 +261,7 @@
               .row.justify-content-center.mb-3
                 .col-lg-4.col-6.mb-4.mb-lg-0
                   figure
-                    img(src='@/assets/curso/temas/tema1/img19.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/img19.svg', alt='')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondoh3.p-2
                   h5.mb-0.text-center Remolque
@@ -271,7 +271,7 @@
               .row.justify-content-center.mb-3
                 .col-lg-4.col-6.mb-4.mb-lg-0
                   figure
-                    img(src='@/assets/curso/temas/tema1/img19.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/img19.svg', alt='')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondoh3.p-2
                   h5.mb-0.text-center Semirremolque
@@ -495,7 +495,7 @@
                 p.mb-0 #[b Normativo:] es una herramienta clave para la trazabilidad y para verificar el cumplimiento de los #[b tiempos máximos de jornada] y los #[b periodos de descanso] obligatorios estipulados en la Res. 20223040006915.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img22.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img22.png")
       .row(titulo="Sensores de temperatura y humedad")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -508,7 +508,7 @@
                 p.mb-0 #[b Bienestar:] permiten al conductor o a la central de monitoreo tomar acciones correctivas (ej. activar ventiladores, buscar sombra, mover el vehículo en porcinos) si se superan los umbrales críticos de estrés térmico.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img23.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img23.png")
       .row(titulo="Sistemas de videovigilancia")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -522,7 +522,7 @@
                             
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img24.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img24.png")
       .row(titulo="Sensores biométricos")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2.mb-lg-0
@@ -536,7 +536,7 @@
                             
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
             figure
-              img.img-fluid(src="@/assets/curso/temas/tema1/img25.png" alt="")
+              img.img-fluid(src="@/assets/curso/temas/tema1/img25.png")
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -547,19 +547,19 @@
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-1.p-0.px-2.d-none.d-lg-block
             figure
-              img.img-fluid(src="@/assets/curso/temas/intro/img4.svg" alt="Icono 1")
+              img.img-fluid(src="@/assets/curso/temas/intro/img4.svg")
           .col-lg-11
             p.mb-0 La ficha técnica de homologación (implícita en la licencia de tránsito y el registro RUNT) es el documento legal que establece las características dimensionales, de peso y de diseño original bajo las cuales el vehículo fue autorizado para circular por el Ministerio de Transporte.
         .tarjeta.color-primarios.p-4
           .row
             .col-lg-1.p-0.d-none.d-lg-block
               figure
-                img.img-fluid(src="@/assets/curso/temas/tema1/img26.svg" alt="Icono 1")
+                img.img-fluid(src="@/assets/curso/temas/tema1/img26.svg")
             .col-lg-11
               p.mb-0  Es así como el manual de procedimientos utiliza esta ficha técnica como un límite inalterable para las modificaciones estructurales de la carrocería, garantizando que el vehículo mantenga su seguridad vial y su capacidad original.
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img27.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img27.png")
     p(data-aos="fade-left") Igualmente, la ficha técnica define legalmente la capacidad de carga del vehículo. Esta capacidad no solo es un requisito de seguridad vial (pesos por eje), sino que también es un factor limitante para la cantidad máxima de animales a transportar.
     p.mb-4(data-aos="zoom-in") Por lo anterior, es importante tener en cuenta lo siguiente:
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -623,7 +623,7 @@
         p.mb-0 El RUNT es la plataforma centralizada que administra toda la información relativa a vehículos, conductores, licencias y empresas de transporte en Colombia. Al respecto se emiten los siguientes aspectos y normativas:
       .col-lg-3.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img28.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img28.png")
 
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 6.
@@ -676,12 +676,12 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.p-0.d-none.d-lg-block
               figure
-                img.img-fluid(src="@/assets/curso/temas/tema1/img30.svg" alt="Icono 1")
+                img.img-fluid(src="@/assets/curso/temas/tema1/img30.svg")
             .col-lg-10
               p.mb-0 Las autoridades de tránsito y el #[b Instituto Colombiano Agropecuario (ICA)], utilizan la información del RUNT (a través de la verificación de la licencia de tránsito) para ejercer vigilancia y control. Basado en esto, se debe tener en cuenta lo siguiente:
       .col-lg-3
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema1/img31.png" alt="Icono 1")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img31.png")
     p.mb-4(data-aos="zoom-in") La información almacenada en el RUNT es la que define la identidad legal del vehículo y establece los límites para su uso, especialmente en lo relativo a la capacidad de carga y el tipo de carrocería; destacando lo siguiente:
     
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
@@ -1003,7 +1003,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img34.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img34.png")
       .col-lg-9
         p(data-aos="fade-left") La densidad de carga es el factor que mide el #[b espacio físico (metros cuadrados, m2)] asignada a cada animal y es la principal herramienta de bienestar animal para prevenir el hacinamiento. Esta densidad debe ser respetada #[b siempre], incluso si el vehículo no alcanza su capacidad de carga legal en peso.
         p(data-aos="fade-left") Su fórmula conceptual es:
@@ -1105,7 +1105,7 @@
                     td(data-label="Densidad (animales por m²)") 0.50
       .col-lg-3.col-6.mb-lg-0.mb-4.order-1.orden-lg-2
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img37_1.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img37_1.png")
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -1123,7 +1123,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img37.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img37.png")
       .col-lg-9
         p(data-aos="fade-left") La densidad para porcinos se calcula en kilogramos por metro cuadrado (kg/m2) y varía según el peso del animal, basándose en las siguientes medidas:
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
@@ -1202,7 +1202,7 @@
                     td(data-label="Densidad máxima requerida (kg/m²)") 45 – 50
       .col-lg-3.col-6.mb-lg-0.mb-4.orden-lg-2.order-1
         figure(data-aos="zoom-in")
-          img.img-fluid(src="@/assets/curso/temas/tema1/img37_2.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema1/img37_2.png")
     p.mb-4(data-aos="zoom-in") Las siguientes son las consideraciones especiales para aves:
     .row.justify-content-center
       .col-lg-4.mb-4.mb-lg-0
@@ -1210,7 +1210,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema1/img40.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img40.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Cajas y guacales
@@ -1220,7 +1220,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema1/img41.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img41.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Contención
@@ -1230,7 +1230,7 @@
           .row.justify-content-center.mb-3
             .col-lg-4.col-6.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema1/img42.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img42.svg', alt='')
           .row.justify-content-center.mb-3
             .col-lg-8.fondoh3.p-2
               h4.mb-0.text-center Ventilación

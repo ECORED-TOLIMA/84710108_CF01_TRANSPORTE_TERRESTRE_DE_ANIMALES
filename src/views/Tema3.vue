@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img1.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img1.png")
         figcaption Fuente: Contexto ganadero (2017)
     
     p.mb-4(data-aos="fade-right") La interacción entre el ser humano y el animal es crítica en el transporte terrestre, ya que el manejo adecuado influye directamente en los niveles de estrés y, por ende, en el bienestar animal y la calidad de la carne (inocuidad). El manual de procedimientos exige que el personal tenga un conocimiento básico de etología (ciencia que estudia el comportamiento animal) y de sus sentidos.
@@ -40,7 +40,7 @@
                   p.mb-0 #[b Comportamiento y la zona de fuga:] los animales de granja, al ser especies de presa, poseen una zona de fuga o área de seguridad que el manejador debe respetar.              
       .col-lg-4.col-6.order-1.orden-lg-2.mb-4.mb-lg-0
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img2.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img2.png")
     p.mb-4(data-aos="fade-right") Basado en la zona de fuga o área de seguridad de los animales de granja, es preciso conocer lo siguiente:
 
     .row.mb-lg-5.mb-4
@@ -161,7 +161,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.d-none.d-lg-block
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img11.svg")
       .col-lg-11
         p.mb-0(data-aos="fade-right") La #[b seguridad sanitaria] animal (también referida en la documentación como condiciones sanitarias y fitosanitarias) en el transporte terrestre es el conjunto de protocolos destinados a prevenir la transmisión y dispersión de enfermedades durante la movilización, protegiendo tanto la salud de los animales como la inocuidad de los productos finales de consumo humano.
     
@@ -225,12 +225,12 @@
       .col-lg-8.position-relative
         .avatar
           figure
-            img(src="@/assets/curso/temas/tema3/conectada_01.svg", alt="alt").img250
+            img(src="@/assets/curso/temas/tema3/conectada_01.svg").img250
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
             .col-auto
               figure
-                img(src="@/assets/curso/temas/tema3/conectada_02.svg", alt="alt").img100
+                img(src="@/assets/curso/temas/tema3/conectada_02.svg").img100
             .col
               h5 Rango de temperatura permitido
               p Si el vehículo de transporte no cuenta con ventilación mecánica, deben procurarse las medidas necesarias para que la temperatura dentro del vehículo se mantenga comprendida entre 5 °C y 30 °C.
@@ -238,7 +238,7 @@
           .row.align-items-center
             .col-auto
               figure
-                img(src="@/assets/curso/temas/tema3/conectada_02.svg", alt="alt").img100
+                img(src="@/assets/curso/temas/tema3/conectada_02.svg").img100
             .col
               h5 Aplicación específica
               p Esta disposición se menciona en el contexto de los requisitos técnicos para la especie porcina en camiones con ventilación natural, indicando la altura mínima de 90 cm, necesario para una correcta ventilación. Sin embargo, el principio es aplicable a todas las especies.
@@ -246,7 +246,7 @@
           .row.align-items-center
             .col-auto
               figure
-                img(src="@/assets/curso/temas/tema3/conectada_03.svg", alt="alt").img100
+                img(src="@/assets/curso/temas/tema3/conectada_03.svg").img100
             .col
               h5 Propósito
               p La ventilación constante y el control de la temperatura garantizan que los animales no sufran de hipertermia (calor excesivo) o hipotermia (frío excesivo), las cuales debilitan su sistema inmune y aumentan el riesgo de enfermedad y muerte.
@@ -297,12 +297,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.movil
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img19_1.svg" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img19_1.svg")
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema3/img19.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img19.svg', alt='')
           .tarjeta.color-secundario.p-3(x="50%" y="42%" numero="+")            
             p.mb-0 El Instituto Colombiano Agropecuario (ICA) o quien este delegue o autorice, es la autoridad competente para supervisar el cumplimiento de estas disposiciones.
           .tarjeta.color-secundario.p-3(x="39%" y="84%" numero="+")            
@@ -331,16 +331,16 @@
               p.mb-0 La técnica de manejo inicial es la observación y selección de la carga. Es obligatorio detectar y excluir del transporte a los animales que, por su condición física o de salud, no pueden soportar el viaje sin sufrir injustificadamente. Los animales no aptos incluyen aquellos que están enfermos, lesionados o presentan prolapsos o que no pueden mantener su posición de estación de equilibrio estático animal (mantenerse de pie).
             .col-lg-5.order-1.orden-lg-2.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema3/img20.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img20.png', alt='')
           .row(titulo="Limpieza y desinfección del vehículo")
             .col-lg-7.mb-4.mb-md-0.order-2.orden-lg-1.mb-4.mb-lg-0
               p.mb-0 La preparación sanitaria es una técnica de cuidado animal. Antes de cargar, el vehículo debe estar limpio y desinfectado, pues la materia orgánica remanente es un riesgo sanitario que afecta la salud de la nueva carga.
             .col-lg-5.order-1.orden-lg-2.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/tema3/img21.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img21.png', alt='')
       .col-lg-4.order-1.orden-lg-2.mb-4.mb-lg-0
         figure
-          img.img-fluid(src="@/assets/curso/temas/tema3/img23.png" alt="")
+          img.img-fluid(src="@/assets/curso/temas/tema3/img23.png")
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='')
@@ -619,14 +619,14 @@
       .col-12.movil.mb-4
         .tarjeta.tarjeta--BG04.p-4
           figure.mb-4
-              img(src="@/assets/curso/temas/tema3/img34.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img34.png")
           h4.mb-3 Iluminación uniforme
           p.mb-0 Deben evitar los contrastes fuertes de luz y sombra que asustan a los animales y dificultan el flujo hacia el vehículo.
       .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.desktop
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img34.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img34.png")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -637,14 +637,14 @@
       .col-12.movil.mb-4
         .tarjeta.tarjeta--BG04.p-4
           figure.mb-4
-              img(src="@/assets/curso/temas/tema3/img35.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img35.png")
           h4.mb-3 Manejo calmo
           p.mb-0 Los corrales deben permitir el manejo sin gritos, sin ruidos ni hostigamiento, facilitando el uso de técnicas basadas en la zona de fuga.
       .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0.desktop
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img35.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img35.png")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
